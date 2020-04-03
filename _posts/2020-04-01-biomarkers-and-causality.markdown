@@ -19,7 +19,7 @@ For decades, a high glucose level has been used as the main criteria for diagnos
 
 Until insulin was discovered, in many parts of the world, diabetes was managed/reversed successfully by reduction of sugar and starchy foods. Here is a snippet supposedly from the 1925 book "Every Woman’s doctor book"
 
-![missing image. please report to the author](/assets/image_0.jpg)
+![missing image. please report to the author](/images/diabetes-old-treatment.jpg)
 
 There are numerous other such accounts prior to the 1950s of successful reversal/management of diabetes using low-starch, high animal protein and/or animal fat diets: e.g. [here](https://twitter.com/FatEmperor/status/1231860189302861825/photo/1), [here](https://twitter.com/ESodicoffMD/status/1231883165452701696/photo/2) and [here](https://play.google.com/store/books/details?id=yK4RAAAAYAAJ&rdid=book-yK4RAAAAYAAJ&rdot=1). It is fair to say, though, that not everyone was following this strategy.
 
