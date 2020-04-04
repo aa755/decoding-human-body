@@ -11,6 +11,12 @@ Biomarkers, e.g. concentrations of various compounds (e.g. glucose, LDL) in the 
 
 Sometimes, biomarkers can catch some disease years/decades before any symptoms show up. On the flip side, a misunderstanding of the limitations of biomarkers (IMO) has led to some of the biggest blunders of modern medicine, causing avoidable misery and/or early death of millions of people. In this article, I deep-dive into 2 cases of these misunderstandings, which in my opinion have been the most damaging to worldwide health. Using these and other examples, I illustrate 3 fundamental problems with modern medicine’s reliance on biomarkers: 1) just because a biomarker is associated with some adverse outcomes AND reducing it by some techniques improves outcomes, doesn’t mean the biomarker causes the problem. 2) even when the biomarker is causal, it may not be the ROOT cause of the problem, in which case, "optimizing" the biomarker may worsen the ROOT cause of the problem in the long run. 3) in some cases, there is no good scientific technique to ascertain whether a biomarker is causal.
 
+## Citing protocol at this blog
+I have been reading the medical literature intensively for over two years now. Very often, I encounter papers, often very infuential ones (e.g. those that form the basis of guidelines for doctors around the world),
+that cite a paper (say X) for a claim (say C) and when I read the paper X, I find that X's claim is much weaker and sometimes even the *exact opposite* of C. Avoiding such flaws for the claims made here is an important goal of this blog. So, this blog has the following policy for whenever a paper X is cited/linked for the claim C:
+- either the title or abstract of X very unequivocally makes the claim C
+- or the part of X that supports C is buried deep inside the paper. In such cases, the link at this blog take you to a local page at this blog with screenshot(s) of the relevant part(s) of X and a link to the official copy of X. The screenshots highlight the important bits, yet provide at least a paragraph of context.
+Please report violations of this policy by making issues or merge requests [here](https://github.com/aa755/decoding-human-body/issues)
 # Example1: Glucose in Diabetes
 
 For decades, a high glucose level has been used as the main criteria for diagnosing diabetes, a disease that humans have known about for thousands of years, as evidenced by the following quote from [this article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4707300/)
@@ -19,7 +25,7 @@ For decades, a high glucose level has been used as the main criteria for diagnos
 
 Until insulin was discovered, in many parts of the world, diabetes was managed/reversed successfully by reduction of sugar and starchy foods. Here is a snippet supposedly from the 1925 book "Every Woman’s doctor book"
 
-![missing image. please report to the author](/images/diabetes-old-treatment.jpg)
+![missing image. please report to the author](/decoding-human-body/images/diabetes-old-treatment.jpg)
 
 There are numerous other such accounts prior to the 1950s of successful reversal/management of diabetes using low-starch, high animal protein and/or animal fat diets: e.g. [here](https://twitter.com/FatEmperor/status/1231860189302861825/photo/1), [here](https://twitter.com/ESodicoffMD/status/1231883165452701696/photo/2) and [here](https://play.google.com/store/books/details?id=yK4RAAAAYAAJ&rdid=book-yK4RAAAAYAAJ&rdot=1). It is fair to say, though, that not everyone was following this strategy.
 
