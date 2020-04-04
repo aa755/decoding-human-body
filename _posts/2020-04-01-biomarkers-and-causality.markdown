@@ -11,23 +11,28 @@ Biomarkers, e.g. concentrations of various compounds (e.g. glucose, LDL) in the 
 
 Sometimes, biomarkers can catch some disease years/decades before any symptoms show up. On the flip side, a misunderstanding of the limitations of biomarkers (IMO) has led to some of the biggest blunders of modern medicine, causing avoidable misery and/or early death of millions of people. In this article, I deep-dive into 2 cases of these misunderstandings, which in my opinion have been the most damaging to worldwide health. Using these and other examples, I illustrate 3 fundamental problems with modern medicine’s reliance on biomarkers: 1) just because a biomarker is associated with some adverse outcomes AND reducing it by some techniques improves outcomes, doesn’t mean the biomarker causes the problem. 2) even when the biomarker is causal, it may not be the ROOT cause of the problem, in which case, "optimizing" the biomarker may worsen the ROOT cause of the problem in the long run. 3) in some cases, there is no good scientific technique to ascertain whether a biomarker is causal.
 
-## Citing protocol at this blog
+#### Citing policy at this blog:
+
 I have been reading the medical literature intensively for over two years now. Very often, I encounter papers, often very infuential ones (e.g. those that form the basis of guidelines for doctors around the world),
 that cite a paper (say X) for a claim (say C) and when I read the paper X, I find that X's claim is much weaker and sometimes even the *exact opposite* of C. Avoiding such flaws for the claims made here is an important goal of this blog. So, this blog has the following policy for whenever a paper X is cited/linked for the claim C:
 - either the title or abstract of X very unequivocally makes the claim C
-- or the part of X that supports C is buried deep inside the paper. In such cases, the link at this blog take you to a local page at this blog with screenshot(s) of the relevant part(s) of X and a link to the official copy of X. The screenshots highlight the important bits, yet provide at least a paragraph of context.
+- or the part of X that supports C is buried deep inside the paper. In such cases, the link at this blog take you to a local page at this blog with screenshot(s) of the part(s) of X that make the claim C and a link to the official copy of X. The screenshots highlight the relevant bits, yet provide at least a paragraph of context.
+
 Please report violations of this policy by making issues or merge requests [here](https://github.com/aa755/decoding-human-body/issues)
-# Example1: Glucose in Diabetes
+
+# Case1: Glucose in Diabetes
 
 For decades, a high glucose level has been used as the main criteria for diagnosing diabetes, a disease that humans have known about for thousands of years, as evidenced by the following quote from [this article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4707300/)
 
-*Around the 5th century BC, the famous Indian surgeon Sushruta, in his work Samhita, identified diabetes, by using the term madhumeha (honey-like urine) and pointed out not only the sweet taste of the urine but also its sticky feeling to the touch and its ability to attract the ants (!). Sushruta further mentions that diabetes affects primarily the rich castes and is related to the excessive food consumption as the rice, cereals, and sweets[6].*
+>Around the 5th century BC, the famous Indian surgeon Sushruta, in his work Samhita, identified diabetes, by using the term madhumeha (honey-like urine) and pointed out not only the sweet taste of the urine but also its
+>sticky feeling to the touch and its ability to attract the ants (!). Sushruta further mentions that diabetes affects primarily the rich castes and is related to the excessive food consumption as the rice, cereals, and sweet.
 
-Until insulin was discovered, in many parts of the world, diabetes was managed/reversed successfully by reduction of sugar and starchy foods. Here is a snippet supposedly from the 1925 book "Every Woman’s doctor book"
+Until insulin was discovered, in many parts of the world, diabetes was managed/reversed successfully by reduction of sugar and starchy foods. Here is a snippet from the 1930 book [Every Woman’s Doctor Book](https://www.amazon.com/EVERY-WOMANS-DOCTOR-Amalgamated-Press/dp/B000G06YGI)
 
-![missing image. please report to the author](/decoding-human-body/images/diabetes-old-treatment.jpg)
+[![missing image. please report to the author](/decoding-human-body/images/biomarkers-2020-04/diabetes-old-treatment.jpg)](https://twitter.com/mssarahflower/status/1080806152089280512?lang=en)
 
-There are numerous other such accounts prior to the 1950s of successful reversal/management of diabetes using low-starch, high animal protein and/or animal fat diets: e.g. [here](https://twitter.com/FatEmperor/status/1231860189302861825/photo/1), [here](https://twitter.com/ESodicoffMD/status/1231883165452701696/photo/2) and [here](https://play.google.com/store/books/details?id=yK4RAAAAYAAJ&rdid=book-yK4RAAAAYAAJ&rdot=1). It is fair to say, though, that not everyone was following this strategy.
+There are numerous other such books/accounts prior to the 1950s of successful reversal/management of diabetes using low-starch, high animal protein and/or animal fat diets: e.g. [here](/decoding-human-body/images/biomarkers-2020-04/pierce/), which includes many testimonials of successes. [Here](/decoding-human-body/images/biomarkers-2020-04/diabetes-cookery-rebecca-oppenheimer-1917/) is a diabetic recipe book fron 1917.
+It is safe to say, though, that these practices and successes were not widely known.
 
 Later during the last century, the anti-animal-foods dogma took over and starch became a superfood. Also scientists discovered insulin and a way to produce it for external injection. With a perfectly timed and dosed insulin injection, you can keep your blood glucose concentration low even if you eat starchy foods. Soon, insulin injections -- rather than low-starch diets-- became the de-facto standard for managing diabetes.
 
@@ -73,7 +78,7 @@ These 2 misunderstandings are at the core of what went wrong in this case:
 
 2. High glucose level is still believed to be the cause of many diabetic complications like increased clotting, eye damage, [weakened immune system](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130533). Even if it is causal for those outcomes, it is likely NOT the root cause. Attacking it by insulin instead of the root cause (no place to store excess energy) only makes it worse in the long run: it is well known that insulin therapy gradually makes the patient worse (needing more and more insulin dosage to keep the same glucose level followed by tragic complications). This is probably because insulin does not create new fat cells: it forces glucose into existing fat cells thereby eventually damaging them and making them even more resistant to insulin.
 
-# Example 2: LDL/HDL in heart disease
+# Case 2: LDL/HDL in heart disease
 
 LDL has a similar decades-long story in the context of heart disease. The above two mistakes also happened in this setting. However, the main goal of this example is to illustrate the third fundamental problem with biomarkers, as mentioned in the beginning: 3) in some cases, there seems to be no good scientific technique for ascertaining whether a biomarker is causal. For several months of my life, the only question I cared about was: does LDL cause heart disease. After scouring the literature and thinking about it day and night, my unfortunate conclusion is that there is no good technique in the playbook of modern medicine to find an answer. Let us look at the types of evidence presented by those who claim LDL is (not) causal in heart disease --including Randomized Controlled Trials (RCTs) -- and why each of them is significantly unreliable.
 
