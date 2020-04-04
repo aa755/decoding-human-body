@@ -23,7 +23,7 @@ that cite a paper (say X) for a claim (say C) and when I read the paper X, I fin
 
 Please report violations of this policy by making issues or merge requests [here](https://github.com/aa755/decoding-human-body/issues)
 
-# Case1: Glucose in Diabetes
+## Case1: Glucose in Diabetes
 
 For decades, a high glucose level has been used as the main criteria for diagnosing diabetes, a disease that humans have known about for thousands of years, as evidenced by the following quote from [this article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4707300/)
 
@@ -72,7 +72,7 @@ Perhaps if external insulin injections were not invented, dietary therapies that
 
 So, compared to the traditional diet-based approach for diabetes management, the universal adoption of insulin-treatment of the disease very likely made life (both quality and quantity) worse for the millions of diabetics around the world who used insulin injections. (That said, newer drugs, like metformin, STLT2 inhibitors, work in a different way and may genuinely improve outcomes even in the long term.)
 
-## What went wrong:
+### What went wrong:
 
 [Recall](#fundamental-problems) the following fundamental problems with biomarkers:
 
@@ -85,11 +85,11 @@ These 2 misunderstandings are at the core of what went wrong in this case:
 
 2. High glucose level is still believed to be the cause of many diabetic complications like increased clotting, eye damage, [weakened immune system](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130533). Even if it is causal for those outcomes, it is likely **not** the root cause. Attacking it by insulin instead of the root cause (no place to store excess energy) only makes it worse in the long run: it is well known that insulin therapy gradually makes the patient worse (needing more and more insulin dosage to keep the same glucose level followed by tragic complications). This is probably because insulin does not create new fat cells: it forces glucose into existing fat cells thereby eventually damaging them and making them even more resistant to insulin.
 
-# Case 2: LDL/HDL in heart disease
+## Case 2: LDL/HDL in heart disease
 
 LDL has a similar decades-long story in the context of heart disease. The above two mistakes also happened in this setting. However, the main goal of this example is to illustrate the third fundamental problem with biomarkers, as mentioned in the beginning: 3) in some cases, there seems to be no good scientific technique for ascertaining whether a biomarker is causal. For several months of my life, the only question I cared about was: does LDL cause heart disease. After scouring the literature and thinking about it day and night, my unfortunate conclusion is that there is no good technique in the playbook of modern medicine to find an answer. Let us look at the types of evidence presented by those who claim LDL is (not) causal in heart disease --including Randomized Controlled Trials (RCTs) -- and why each of them is significantly unreliable.
 
-## LDL in coronary artery lesions
+### LDL in coronary artery lesions
 
 LDL particles are almost always found in coronary artery lesions. To many lipidologists, this is a proof that LDL causes heart disease. By this logic, firemen are always found at fires thus they cause the fires. It could be that LDL is needed to heal/repair the arteries damaged by something else, e.g. smoking which is much more strongly and consistently correlated with heart disease *independently *of LDL. There are many experiments suggesting (but not conclusively proving) the latter hypothesis: for example, [in this rabbit experiment](https://www.ahajournals.org/doi/10.1161/01.atv.7.4.361), researchers damaged the inner lining of the abdominal aorta and studied how it heals. The found:
 
@@ -106,7 +106,7 @@ Again, rats are not people and nerves are not coronary arteries. But these do su
 
 A fundamental problem with these mechanistic arguments humanity has a very incomplete understanding of how the human body works. Thus we will likely make incorrect decisions because of the largely incomplete understanding: e.g. some other unknown mechanisms may overcompensate our actions: e.g. antibiotics overuse causing antibiotics resistance and potentially worse outcomes overall.
 
-## Correlation between LDL-C and heart disease
+### Correlation between LDL-C and heart disease
 
 LDL is correlated to heart disease in many observational studies. In the early days of heart disease research, scientists took this as evidence that LDL causes heart disease. However, the direction of causality could be completely opposite, as explained above.
 
@@ -118,11 +118,11 @@ As the above discussion shows, if X is correlated to Y, one cannot conclude the 
 
 Even if the correlation is inconsistent and often in the opposite direction, "scientists", especially the biased ones continue to hang on to their causality theories. 
 
-## Randomized Controlled Trials
+### Randomized Controlled Trials
 
 RCTs (Randomized Controlled Trials) are a great way to judge causality of an intervention, say X. Take a suge group of people, *uniformly randomly* assign people to either the intervention group or the control group. Do the intervention X on the intervention group. Because the groups were formed uniformly randomly, if the groups are large, the chances of any factor other than X, impacting outcomes is negligible. So significant differences between outcomes in the two groups is very likely *caused* by the intervention X. The problem though is that if the intervention X is composed of many things, it is almost impossible to judge the causality of the individual     pieces. This is precisely the problem with the RCTs on cholesterol lowering techniques. As we see below, all of these techniques affect our bodies in many ways other than cholesterol lowering. So, it is impossible to tell whether the benefits or harms in these RCTs were due cholesterol lowering or something else. Another problem is that the outcomes are very inconsistent and even when benefits are found, they are relatively small and prone to biases.
 
-### Diets trials
+#### Diets trials
 
 The most recommended dietary intervention to lower LDL is to replace saturated fats (e.g. butter) with vegetable oils which are rich in omega-6 polyunsaturated fats (PUFAs). This replacement definitely lowers LDL. But it also does many other things. For example, it increases the concentration of omega-6 PUFAs in LDL and many other body cells. Omega-6 PUFAs, with its multiple double bonds (poly-unsaturated), are [more prone to ](https://academic.oup.com/ajcn/article-abstract/54/4/701/4694295?redirectedFrom=fulltext)[oxidation](https://academic.oup.com/ajcn/article-abstract/54/4/701/4694295?redirectedFrom=fulltext)..
 
@@ -148,7 +148,7 @@ Also in the fear of cholesterol, foods like egg yolks and liver, which are extre
 
 In summary, even simple dietary changes like replacing butter with corn oil or soybean oil affects our bodies in many, many ways other than changing our LDL concentration. So the results of such trials, even if consistent, cannot tell whether the effects were due to the changes in LDL concentration or something else. On top of that, many dietary trials do more changes than just fat substitutions, further confounding things. Thus, none of these give us reliable evidence on the causality of LDL concentrations. Also, many important nutrients, e.g. choline, B12, folate, suffered in the crossfire resulting in disastrous health consequences.
 
-### LDL-lowering drug trials
+#### LDL-lowering drug trials
 
 Several drugs have been used to lower LDL. Several large trials have been conducted to assess the mortality benefit of such drug therapies. 
 
@@ -192,7 +192,7 @@ Just like the dietary approaches to reduce LDL, many drug approaches to lower LD
 
 So, even though I am not aware of any drug trial reporting statistically significant increases in new cancer diagnosis, the possibility should be seriously considered. 
 
-## The best longevity interventions increase LDL
+### The best longevity interventions increase LDL
 
 Among all the interventions known to improve longevity in a wide range of species, nothing has more evidence than periodic fasting (often known in medical literature as calorie restriction). Also, there are several anecdotes (e.g. [here](https://innercircle.undoctored.com/blog/post/2007/12/03/instant-reversal-with-fasting.html)) and even a [book](https://www.goodreads.com/book/show/859877.Fasting_and_Eating_for_Health) documenting how in many patients, a prolonged (several-days) fast cured angina (chest pain on exercise). Prolonged fasting drastically increases LDL, at least for a few weeks even after the fast. For example, a 7-day fast [significantly increased LDL](https://www.ncbi.nlm.nih.gov/pubmed/10539776) by 66%. Also, this increase was correlated with the weight loss and is probably caused by upregulation of the fat-burning pathway.
 
@@ -204,11 +204,11 @@ Fasting and Rapamycin affect our bodies in many, many, ways other than increasin
 
 In practice, none of this matters much anyway. Ultimately, what humans do are specific interventions (e.g. fasting, take drug X, replace food U by V) and long-term RCTs can reliably judge the causality of those interventions in improving outcomes that matter to people (e.g. lifespan or non-miserable lifespan). Biomarkers should just be used to postulate potentially new interventions to try. Biomarkers themselves should not become the end goals, as LDL has become. I hope people understand that dying early and in pain, but with biomarkers that perfectly match the biases of "scientists" is not better than living a longer and more fulfilling life with biomarkers that don’t match so perfectly.
 
-# Main Takeaway:
+## Main Takeaway:
 
 If your doctor gives you a medicine X to increase or decrease the levels of Y so that the level becomes less correlated with a disease D, ask them for direct evidence (ideally an RCT) that X reduces mortality or some other outcome *you *care about, e.g. reduced suffering from pain, coupled with evidence that the medicine does *not* increase mortality at least during a few years. You definitely don’t care directly about the blood levels of various compounds in your body.
 
-### Acknowledgements: 
+#### Acknowledgements: 
 
 This article has benefited talks/tweets/articles of Ted Naiman, Nadir Ali, Chris Masterjohn, Gabor Erdosi, Ivor Cummins, Tucker Goodrich, Malcolm Kendrick, and perhaps many other doctors/scientists/citizen-scientists who are passionate about this topic. However, I have verified their claims by independently reviewing the published literature. Thus, mistakes in this blog are all mine.
 
