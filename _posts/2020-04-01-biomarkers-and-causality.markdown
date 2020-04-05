@@ -21,8 +21,6 @@ that cite a paper (say X) for a claim (say C) and when I read the paper X, I fin
 - either the title or abstract of X very unequivocally makes the claim C
 - or the part of X that supports C is buried deep inside the paper. In that case, the link at this blog takes you to either the specific table or picture, or a local page at this blog with screenshot(s) of the part(s) of X that make the claim C and a link to the official copy of X. The screenshots highlight the relevant bits, yet provide at least a paragraph of context.
 
-Please report violations of this policy by making issues or merge requests [here](https://github.com/aa755/decoding-human-body/issues)
-
 ## Case1: Glucose in Diabetes
 
 For decades, a high glucose level has been used as the main criteria for diagnosing diabetes, a disease that humans have known about for thousands of years, as evidenced by the following quote from [this article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4707300/)
@@ -186,7 +184,7 @@ Among all the interventions known to improve longevity in a wide range of specie
 
 Many longevity experts considered Rapamycin (aka Sirolimus) to be the most promising [longetivity drug](https://www.nature.com/articles/s41598-019-44106-5), with mechanisms similar to prolonged fasting (e.g. autophagy). In various species, it not only improves lifespan, but also improves various aspects of heart disease. In this randomized trial of human patients receiving heart transplants, at 6 weeks, 6 months, and 2 years, they observed the inside of heart’s arteries by intravascular ultrasound (guiding a catheter with ultrasound tip from wrist's arteries to heart's arteries).
 From 6 weeks to 6 months, they actually observed a tiny [regression of lesions (plaque burden)](https://www.ahajournals.org/doi/full/10.1161/01.cir.0000136812.90177.94#TBL4151599) in the Sirolimus group, even though the plaque burden increased significantly in the other group.
-This was despite the fact the patients’ [LDL significantly increased after the transplant](https://www.ahajournals.org/cms/asset/32b7e4fd-a241-4d17-984b-565feced2c5a/24ff2.jpg), especially till month 6. Indeed, this is not an isolated finding, and it seems well known that Sirolimus (mtor inhibitors in general) increase LDL despite being anti-atheroscelerotic (anti-coronary-artery-disease).
+This was despite the fact the patients’ [LDL significantly increased after the transplant](https://www.ahajournals.org/cms/asset/32b7e4fd-a241-4d17-984b-565feced2c5a/24ff2.jpg), especially till month 6. Indeed, this is not an isolated finding, and it seems well known that Sirolimus (mtor inhibitors in general) increase LDL despite improving heart disease.
 
 Fasting and Rapamycin affect our bodies in many, many, ways other than increasing LDL. It is possible that some other beneficial mechanism outweighs the increase in LDL. So, these cannot disprove the LDL causality. However, statins also affect our bodies in many, many ways, as explained above, so the tiny benefit of statins (which does not correlate with LDL-lowering on dose _randomization_) should also not be taken as proof of LDL’s causality in diseases. 
 
