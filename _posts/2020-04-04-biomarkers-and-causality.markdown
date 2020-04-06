@@ -194,6 +194,8 @@ In practice, none of this matters much anyway. Ultimately, what humans do are sp
 
 If your doctor gives you a medicine X to increase or decrease the levels of Y so that the level becomes less correlated with a disease D, ask them for direct evidence (ideally an RCT) that X reduces mortality or some other outcome _you_ care about, e.g. reduced suffering from pain, coupled with evidence that the medicine does not increase mortality at least during a few years. You definitely don’t care directly about the blood levels of various compounds in your body.
 
+Found something wrong in this page? Please make an issue [here](https://github.com/aa755/decoding-human-body/issues) or submit a pull request to [this file](https://github.com/aa755/decoding-human-body/blob/gh-pages/_posts/2020-04-04-biomarkers-and-causality.markdown).
+
 #### Acknowledgements: 
 
 This article has benefited from ideas in talks/tweets/articles of Ted Naiman, Nadir Ali, Chris Masterjohn, Gabor Erdosi, Ivor Cummins, Tucker Goodrich, Malcolm Kendrick, and perhaps many other doctors/scientists/citizen-scientists who are passionate about this topic. However, I dont agree with them on everything and I have verified their claims by independently reviewing the published literature. Mistakes in this blog are all mine.
