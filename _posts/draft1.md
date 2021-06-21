@@ -6,12 +6,12 @@ categories: health biomarkers
 ---
 
 
-# the problem
+# The problem
 Not just India. Syechelles, Cambodia, Fiji...
 https://twitter.com/lindahaslar/status/1401809288994111490
 https://twitter.com/546f436f6465/status/1406291716894830594
 
-#Hypotheses
+# Hypotheses
 
 ## loosening Covid restrictions
 
