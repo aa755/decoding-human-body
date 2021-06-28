@@ -9,7 +9,10 @@ categories: health biomarkers
 # The problem
 Not just India. Syechelles, Cambodia, Fiji...
 https://twitter.com/lindahaslar/status/1401809288994111490
+
 https://twitter.com/546f436f6465/status/1406291716894830594
+
+https://twitter.com/RuminatorDan/status/1409602844949467137
 
 # Hypotheses
 
@@ -20,14 +23,19 @@ Makar Sakranti (January 2021): https://images.news18.com/ibnlive/uploads/2021/01
 
 ## reactivation of latent viruses by vaccines
 https://twitter.com/gerdosi/status/1387413025926361093
+
 https://twitter.com/Roshan_Karia/status/1397566417159868420
+
 https://onlinelibrary.wiley.com/doi/10.1111/all.14981 (case report of Epstein Barr virus reactivation within 1 day of Pfizer 1st dose)
+
 https://academic.oup.com/rheumatology/advance-article/doi/10.1093/rheumatology/keab345/6225015?searchresult=1 (cited in @gerdosi thread, case control study, in (491vax/99unvax) subjects with autoimmune inflammatory rheumatic diseases (AIIRD), 6 herpes zoster cases in the vax group and 0 in unvax. too small study, if someone knows a larger study, please reply on this issue)
 
 
 ## vaccination process & termporary immunosupression after vaccination
 https://twitter.com/AbAnand9/status/1392668927017177093
+
 https://twitter.com/AbAnand9/status/1393592542352994308
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3404712/ (flu vaccine RCT during a pandemic increases overall respiratory infections)
 some of them were indoors. some were outdoors. not clear what %
 hurts 2 ways: immune supressed towards Covid. immune suppressed towards other diseases that may be circulating, possibly due to inactivation, possibly due to opportunistic actions.
