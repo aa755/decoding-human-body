@@ -1,7 +1,15 @@
-rebuttal to the "fact-check": 
-https://healthfeedback.org/claimreview/ivermectin-isnt-a-highly-effective-drug-for-treating-covid-19-tess-lawrie/
-that facebook slapped on the very accurate and nuanced review of Ivermectin by Dr Tess Laurie: 
-https://www.youtube.com/watch?v=D2ju5v4TAaQ
+---
+layout: post
+title:  Science-checking the fact-checkers: Ivermectin for reducing Covid deaths
+date:   2021-07-04 11:49:20 -0700
+categories: Ivermectin
+---
+
+When I posted [this video](https://www.youtube.com/watch?v=D2ju5v4TAaQ) where Dr. Tess Lawrie
+discusses the evidence about Ivermectin for reducing Covid deaths, Faceboom tagget it as partly
+misleading and slapped this [fact-check](https://healthfeedback.org/claimreview/ivermectin-isnt-a-highly-effective-drug-for-treating-covid-19-tess-lawrie/)
+on it. This article is a rebuttal to that fact-check. 
+Towards the end, I also include my rebuttal to other arguments put forth to me at other places.
 
 
 "independent fact checkers" are unhappy that her paper is not peer reviewed. peer review is neither necessary nor sufficient 
