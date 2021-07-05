@@ -55,6 +55,7 @@ Why is that even relevant? This video is by Tess Laurie, a medical doctor who al
 Also, You need to evaluate the argument, not the credentials of who said it.
 
 > On the 22nd of March 2021, the European Medicines Agency released a statement advising against the use of ivermectin for prevention or treatment of COVID-19 outside randomised clinical trials.
+
 Appeal to authority has no place in science.
 
 > The video also misleads viewers by suggesting that safety data regarding a drug’s use for one purpose applies to different uses. Although scientists have known about ivermectin for more than forty years and it has been used to treat parasitic infections, this isn’t relevant to the safety of ivermectin in COVID-19 patients.
