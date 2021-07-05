@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Science-checking the fact-checkers: Ivermectin for reducing Covid deaths
-date:   2021-07-04 11:49:20 -0700
+date:   2021-07-05 11:49:20 -0700
 categories: Ivermectin
 ---
 
