@@ -1,6 +1,6 @@
 rebuttal to the "fact-check": 
 https://healthfeedback.org/claimreview/ivermectin-isnt-a-highly-effective-drug-for-treating-covid-19-tess-lawrie/
-that facebook slaped on the very accurate and nuanced review of Ivermectin by Dr Tess Laurie: 
+that facebook slapped on the very accurate and nuanced review of Ivermectin by Dr Tess Laurie: 
 https://www.youtube.com/watch?v=D2ju5v4TAaQ
 
 
@@ -10,8 +10,8 @@ its most important utility is perhaps in being a sign of existing biases: see th
 respected journal) paper from last year completely dismissing the lab-leak hypothesis, or the Lancet-published fraudulent 
 surgispere study dismissing hydroxychloroquine:
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31180-6/fulltext
-(the paper has passed peer review and has been published in the American Journal of Therapeutics 
-doi: 10.1097/MJT.0000000000001402)
+(BTW, Tess's paper was published later:
+https://journals.lww.com/americantherapeutics/Abstract/9000/Ivermectin_for_Prevention_and_Treatment_of.98040.aspx)
 
 The fact check complains about the subjective endpoints in Ivermectin papers, when the 
 video talks about reduction of deaths, arguably the most objective and most important efficacy metric.
@@ -72,4 +72,11 @@ has much better safety evidence than the mrna vaccines which has not even been s
 In contrast, dexamethasone, which the experts actually recommend based on 1-month safety evidence in a Covid-specific RCT, 
 turned out to be suspected to cause deadly fungal infections in India in the longer term. 
 Pre-covid, it was ALREADY known that mechanistically, steroids like dexamethasone 
-temporarily "slows down" the immune system, and may cause increased susceptibility to infections.
+temporarily "slows down" the immune system, and may cause increased susceptibility to infections. 
+
+Elswhere, people claimed that there could be publication bias. When I asked them, none of them could produce a single 
+published trial (even a preprint) excluded by the meta-analysis of Tess. 
+Some said that some of them may have turned out to be negative and the author
+may have not put up even a preprint. This is possible but highly unlikely given the immense anti-ivermectin bias in the 
+academic elite and the mainstream media: anybody with a negative trial would become famous overnight and be on nytimes 
+frontpage next day. why would anybody with a negative trial not publish even a preprint?
