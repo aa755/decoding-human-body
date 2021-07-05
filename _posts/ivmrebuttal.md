@@ -14,6 +14,7 @@ Towards the end, I also include my rebuttal to other arguments put forth to me a
 >  Clinical trials on the effectiveness of ivermectin against COVID-19 have also been done, some of which were indeed published and included in Lawrie’s meta-analysis. However, there are several issues with Lawrie’s meta-analysis. It wasn’t peer-reviewed, unlike published studies in scientific journals, and several of the studies used by the FLCCC and included in Lawrie’s review have also not been peer-reviewed[3-5].The lack of peer review means that scientists with relevant expertise, such as epidemiologists and biostatisticians, haven’t independently reviewed the research. Peer review is an important step in the scientific publishing process, as it helps authors identify and correct substantial errors or shortcomings in their studies. It can also help to determine the quality of a given study. For example, some publications may contain very strong scientific evidence and novel discoveries, while others may have only weak research to back up their hypotheses. Overall, peer review can help prevent the spread of exaggerated or unsupported scientific claims.
 
 Peer review is neither necessary nor sufficient for  validity of a document: these days, especially in health/medicine, its most important utility is perhaps in being a sign of existing biases: see the [Lancet paper](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30418-9/fulltext) from last year completely dismissing the lab-leak hypothesis as a conspiracy theory, or the Lancet-published fraudulent [surgispere study dismissing hydroxychloroquine](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31180-6/fulltext)
+
 (BTW, Tess's paper did pass peer review and was [published](https://journals.lww.com/americantherapeutics/Abstract/9000/Ivermectin_for_Prevention_and_Treatment_of.98040.aspx) later)
 
 
@@ -21,11 +22,9 @@ Peer review is neither necessary nor sufficient for  validity of a document: the
 
 A recent HUMAN [double blind Randomized-Controlled-Trial (RCT) from Israel](https://www.medrxiv.org/content/10.1101/2021.05.31.21258081v1) shows that even the dose actually being used in many countries is effective in reducing viral load. To be fair, the fact-check was probably written before this trial's results were announced, but the fact-check was never updated
 
-
 > For example, some limitations of these clinical studies included small sample size and vague definitions of disease severity. For instance, if the severity of symptoms is poorly defined, it becomes difficult to objectively assess the level of improvement provided by a drug treatment, if any.
 
 The video talks about reduction of deaths, arguably the most objective and most important efficacy metric.
-
 
 > Furthermore, some of the studies would draw claims upon observations, which were not statistically significant, i.e. it could not be ruled out that all the results occurred only by chance.
 
@@ -45,42 +44,28 @@ Many of the claims (e.g. prevention of transmission, prevention of ASYMPTOMATIC 
 
 > Contrary to the video’s claim, a double-blind, placebo-controlled study by López-Medina et al. showed that ivermectin is unlikely to be effective in patients with mild COVID-19[7]. This study was well-designed and doesn’t possess many of the limitations present in the clinical trials cited in Lawrie’s meta-analysis. Since this study was double-blinded, neither the trial participants nor the researchers knew if they had received or administered the placebo or the drug being tested. This design helps to eliminate bias. That being said, the authors concluded that larger trials need to be conducted to better understand the effect of ivermectin on COVID-19.
 
-Just like many other Ivermectin-for-covid RCTs, this trial was too small to measure a 
-statistically-significant reduction in deaths (0 deaths in Ivermectin arm, 1 in control). 
 It is incorrect to conflate "too small to measure statistically-significant reduction in deaths" with "ineffective in reducing deaths". 
-It is also incorrect to cherry-pick just one trial: there were many other RCTs, which the video reviews. 
-Not only were there other double-blind RCTs, it is incorrect to ignore the unblinded RCTs for very objective and hard outcomes such as death,as expained in the above paragraph.
-(also some have raised other unreliability concerns about the Lopez-Medina trial https://osf.io/u7ewz , but I haven't tried to verify them.)
+Just like many other Ivermectin-for-covid RCTs, this trial was too small to measure a statistically-significant reduction in deaths (0 deaths in Ivermectin arm, 1 in control): on combining such trials, most of which showed non-statistically significant reduction in deaths, the results become statistically significant.
+It is also incorrect to cherry-pick just one trial: there were many other RCTs, which the video reviews. Not only were there other double-blind RCTs, it is incorrect to ignore the unblinded RCTs for very objective and hard outcomes such as death,as expained in the above paragraph.
+(Also, some have raised other unreliability concerns about the Lopez-Medina trial https://osf.io/u7ewz, but I haven't tried to verify them.)
 
-The fact check claims that the video disregards recent negative evidence without explicitly specifying which one.
-On the contrary, the video spends quite a lot of time on the Lopez-Medina trial, 
-which the fact-check INCORRECTLY promotes as the main negative evidence (see prev. paragraph). 
+> Both Lawrie and the FLCCC cited three ongoing clinical trials testing the effects of ivermectin as a treatment for COVID-19 that produced inconclusive results, as well as a report by Juan Chamie, a data analyst with no training in biology or medicine.
 
-The fact-check claims that Juan Chamie has no biology or medicine training. 
-Why is that even relevant? This video is by Tess Laurie, a medical doctor who also has a PhD in medicine. 
-Also, the fact check cites what FDA/WHO/CDC believe as authorities on the subject. 
-Sorry, appeal to authority has no place in science. 
-You need to evaluate the argument, not the credentials of who said it.
+Why is that even relevant? This video is by Tess Laurie, a medical doctor who also has a PhD in medicine.
+Also, You need to evaluate the argument, not the credentials of who said it.
 
-The fact-check raises a legitmate concern about safety but again wrongly uses a double standard: it is true that a drug 
-that is otherwise very safe may worsen a new disease, although such a possibility seems to be very unlikely.
-Also, no drug/vaccine is 100% safe. Where are the trials used to recommend 
-paracetamol/tylenol/acetaminophen and NSAIDs like ibuprofen when the pandemic started? 
-A drug (oral Ivermectin) that has been distributed at a population level (to billions of people) for decades to prevent river 
-blindness and has been prescribed even to kids for decades (e.g. for head lice, scabies), 
-has much better safety evidence than the mrna vaccines which has not even been studied in humans for more than a few months. 
-In contrast, dexamethasone, which the experts actually recommend based on 1-month safety evidence in a Covid-specific RCT, 
-turned out to be suspected to cause deadly fungal infections in India in the longer term. 
-Pre-covid, it was ALREADY known that mechanistically, steroids like dexamethasone 
+> On the 22nd of March 2021, the European Medicines Agency released a statement advising against the use of ivermectin for prevention or treatment of COVID-19 outside randomised clinical trials.
+Appeal to authority has no place in science.
+
+> The video also misleads viewers by suggesting that safety data regarding a drug’s use for one purpose applies to different uses. Although scientists have known about ivermectin for more than forty years and it has been used to treat parasitic infections, this isn’t relevant to the safety of ivermectin in COVID-19 patients.
+> Simply because a drug is safe to use for one disease doesn’t mean that it’s safe to use for another disease. Physiological changes produced by one disease doesn’t translate to the same changes in the case of another disease. The differences in physiological states can mean that the drug is safe to use for certain diseases, but not others. Indeed, many drugs have contraindications, or conditions in which the drug shouldn’t be used because it can harm the patient
+
+Nothing in medicine has bulletproof evidence. It is always possible to criticise any intervention. Thus it is very important to not use double standards, which is what they are doing here. In theory, this is legitmate concern about safety: it is true that a drug that is otherwise very safe may worsen a new disease, although such a possibility seems to be very unlikely: at least the long history of use Ivermectin rules out the possibility of it having any inherent toxicity which is the main safety problem with most medical interventions. Also, no drug/vaccine is 100% safe. Where are the trials used to recommend paracetamol/tylenol/acetaminophen and NSAIDs like ibuprofen when the pandemic started? A drug (oral Ivermectin) that has been distributed at a population level (to billions of people) for decades to prevent river blindness and has been prescribed even to kids for decades (e.g. for head lice, scabies), has much better safety evidence than the mrna vaccines which has not even been studied in humans for more than a few months. In contrast, dexamethasone, which the experts actually recommend based on 1-month safety evidence in a Covid-specific RCT, turned out to be [suspected to cause deadly fungal infections in India](https://www.bbc.com/news/world-asia-india-57027829) in the longer term. Pre-covid, it was ALREADY known that mechanistically, steroids like dexamethasone 
 temporarily "slows down" the immune system, and may cause increased susceptibility to infections. 
 
 > In the video, Lawrie also discussed the affordability of ivermectin and how it can be easily and massively produced. Some have argued that the reason ivermectin isn’t being deployed against COVID-19 is that it is cheap and wouldn’t generate as much profit for pharmaceutical companies. Simultaneously, we can conclude that a cheap drug, thus widely affordable, which would be administered to tens to hundreds of millions worldwide, would be a hugely lucrative business. Interestingly, ivermectin’s manufacturer (under the name brand Strocemol) Merck doesn’t recommend its use against Covid-19 due to the lack of scientific evidence and safety data.
 
+Merck does not own the patent to Ivermectin anymore. Other manufacturers can it for dirt cheap, as they are already doing it in India. In fact, when making that 
+statement, it was very unethical of Merck to not disclose that they are working on a lucrative treatment for Covid ([$1.2 billion deal with FDA](https://www.merck.com/news/merck-announces-supply-agreement-with-u-s-government-for-molnupiravir-an-investigational-oral-antiviral-candidate-for-treatment-of-mild-to-moderate-covid-19/)). Not only it is rational but there is a historical precedent for Pharma companies downplaying their old off-patent drugs when they have new on-patent drugs to sell.
 
-
-Elswhere, people claimed that there could be publication bias. When I asked them, none of them could produce a single 
-published trial (even a preprint) excluded by the meta-analysis of Tess. 
-Some said that some of them may have turned out to be negative and the author
-may have not put up even a preprint. This is possible but highly unlikely given the immense anti-ivermectin bias in the 
-academic elite and the mainstream media: anybody with a negative trial would become famous overnight and be on nytimes 
-frontpage next day. why would anybody with a negative trial not publish even a preprint?
+Elswhere, people claimed that there could be publication bias. When I asked them, none of them could produce a single published trial (even a preprint) excluded by the meta-analysis of Tess. Some said that some of them may have turned out to be negative and the author may have not put up even a preprint. This is possible but highly unlikely given the immense anti-ivermectin bias in the academic elite and the mainstream media: anybody with a negative trial would become famous overnight and be on nytimes  frontpage next day. why would anybody with a negative trial not publish even a preprint?
