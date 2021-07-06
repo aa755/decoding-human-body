@@ -5,8 +5,9 @@ date:   2021-07-05 11:49:20 -0700
 categories: Ivermectin
 ---
 
-When I posted [this video](https://www.youtube.com/watch?v=D2ju5v4TAaQ) where Dr. Tess Lawrie discusses the evidence about Ivermectin for reducing Covid deaths, Facebook tagged it as partly misleading and slapped [this fact-check](https://healthfeedback.org/claimreview/ivermectin-isnt-a-highly-effective-drug-for-treating-covid-19-tess-lawrie/) on it. 
-This article is a rebuttal to that fact-check. Towards the end, I also include my rebuttal to other arguments put forth to me at other places. The main theme across various points is that biology is *very very* complex and *nothing* in medicine/health has bulletproof evidence. It is always possible to criticise any medical intervention. Thus, to avoid biases, it is very important to not use double standards, which is what the detractors of Ivermectin seem to be doing.
+The drug Ivemectin has been used by billions of people for decades and thus has better safety data than almost any other medical intervention. During the last year, several small trials, mostly at frontline hospitals in poor countries have shown it to be effective in reducing deaths from Covid.
+But when I posted [this video](https://www.youtube.com/watch?v=D2ju5v4TAaQ) where Dr. Tess Lawrie discusses the evidence about Ivermectin for reducing Covid deaths, Facebook tagged it as partly misleading and slapped [this fact-check](https://healthfeedback.org/claimreview/ivermectin-isnt-a-highly-effective-drug-for-treating-covid-19-tess-lawrie/) on it. 
+This article is a rebuttal to that fact-check. Towards the end, I also include my rebuttal to other arguments I have seen at other places. The main theme across various arguments is that biology is *very very* complex and *nothing* in medicine/health has bulletproof evidence. It is always possible to criticise any medical intervention. Thus, to avoid biases, it is very important to not use double standards, which is what the detractors of Ivermectin seem to be doing.
 Below, I quote paragraphs from the fact-check which are followed by my response.
 Criticisms/contributions are welcome: please make an issue [here](https://github.com/aa755/decoding-human-body/issues) or submit a merge request to [this file](https://github.com/aa755/decoding-human-body/blob/gh-pages/_posts/2021-07-05-ivmrebuttal.markdown).
 
@@ -17,10 +18,14 @@ Peer review is neither necessary nor sufficient for  validity of a document: the
 
 (BTW, Tess's paper did pass peer review and was [published](https://journals.lww.com/americantherapeutics/Abstract/9000/Ivermectin_for_Prevention_and_Treatment_of.98040.aspx) later)
 
-
 > The focus on ivermectin as a potential drug against COVID-19 started with an in vitro study published by Caly et al. in 2020 showed that ivermectin had antiviral effects against the virus that causes COVID-19, SARS-CoV-2, in cell cultures[6]. Although this result provided researchers with a justification for continuing studies of the drug, this study in itself didn’t provide evidence of ivermectin’s clinical efficacy against COVID-19. Furthermore, the study used very high concentrations of ivermectin that were many times higher than the doses approved for use in people
 
-A recent HUMAN [double blind Randomized-Controlled-Trial (RCT) from Israel](https://www.medrxiv.org/content/10.1101/2021.05.31.21258081v1) shows that even the dose actually being used in many countries is effective in reducing viral load. To be fair, the fact-check was probably written before this trial's results were announced, but the fact-check was never updated
+A recent HUMAN [double blind Randomized-Controlled-Trial (RCT) from Israel](https://www.medrxiv.org/content/10.1101/2021.05.31.21258081v1) shows that even the dose actually being used in many countries is effective in reducing viral load. It was a small trial (n<100), and yet, it was able to show that the Ivemectin group had *consistently* lower rate of PCR positive tests after 4 days of treatment:
+![image](https://user-images.githubusercontent.com/499314/124544344-c8b7d800-dddb-11eb-8217-d117c2437001.png)
+Some people have complained that on some days, the difference was not statistically significant, e.g. day 4 and day 10.
+But note that even on those days, the 95% confidence interval lies almost totally above 1.0 and this is most likely an artifact of the small trial size.
+It is incorrect to get hung up on the arbitrary 95% threshold. Instead of declaring Ivermectin useless for those days, the patients should be told that it is extremely safe and, say 85% (but not 95%) likely to reduce viral load: my guess is that most patients would opt to get Ivermectin.
+(the fact-check was probably written before this trial's results were announced, but it was never updated)
 
 > For example, some limitations of these clinical studies included small sample size and vague definitions of disease severity. For instance, if the severity of symptoms is poorly defined, it becomes difficult to objectively assess the level of improvement provided by a drug treatment, if any.
 
