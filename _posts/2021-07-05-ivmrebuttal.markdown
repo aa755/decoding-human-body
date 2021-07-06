@@ -25,7 +25,7 @@ A recent HUMAN [double blind Randomized-Controlled-Trial (RCT) from Israel](http
 In the medrxiv disqus comments section for that paper, some people have complained that on some days, the difference was not statistically significant, e.g. day 4 and day 10.
 But note that even on those days, the 95% confidence interval lies almost totally above 1.0 (Ivermectin effective) and this is most likely an artifact of the small trial size. It is incorrect to get hung up on the arbitrary 95% threshold. Instead of declaring Ivermectin useless for those days, the patients should be told that it is extremely safe and, it is 85% (but not 95%) likely that the reduction in viral load is not a chance finding: my guess is that most patients would opt to get Ivermectin.
 (the fact-check was probably written before this trial's results were announced, but it was never updated)
-In any case, given the evidence of reducing deaths the most important end-to-end outcome, it is not necessary to have the mechanistic evidence fully correct: Ivermectin may be helping by some other mechanism, e.g. improving the immune response. 
+In any case, given the evidence of reducing deaths, the most important end-to-end outcome, it is not necessary to have the mechanistic evidence fully correct: Ivermectin may be helping by some other mechanism, e.g. improving the immune response. 
 
 > For example, some limitations of these clinical studies included small sample size and vague definitions of disease severity. For instance, if the severity of symptoms is poorly defined, it becomes difficult to objectively assess the level of improvement provided by a drug treatment, if any.
 
