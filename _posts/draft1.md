@@ -48,4 +48,4 @@ hurts 2 ways: immune supressed towards Covid. immune suppressed towards other di
 https://twitter.com/sanchak74/status/1303594820921749506
 
 ## pollen
-https://twitter.com/sanchak74/status/1414760542237913089
+https://twitter.com/jasjiv/status/1389449785040535552
