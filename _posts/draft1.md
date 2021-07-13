@@ -19,7 +19,12 @@ https://twitter.com/RuminatorDan/status/1409602844949467137
 ## loosening Covid restrictions
 
 Diwali (November 2020): https://twitter.com/ANI/status/1326544616426909697
+
 Makar Sakranti (January 2021): https://images.news18.com/ibnlive/uploads/2021/01/1610700764_makar-sankranti-8-e1610700886767.jpg?impolicy=website&width=0&height=0
+
+political rallies, maha kumbh in March-April 2021
+
+why did it happen only in April 2021?
 
 ## reactivation of latent viruses by vaccines
 https://twitter.com/gerdosi/status/1387413025926361093
