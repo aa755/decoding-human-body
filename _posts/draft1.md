@@ -47,3 +47,5 @@ hurts 2 ways: immune supressed towards Covid. immune suppressed towards other di
 ## adeno-covid recombinant:
 https://twitter.com/sanchak74/status/1303594820921749506
 
+## pollen
+https://twitter.com/sanchak74/status/1414760542237913089
