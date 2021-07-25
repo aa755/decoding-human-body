@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[DRAFT-DO-NOT-READ-YET] Does evidence justify blaming the unvaccinated for high prevelance of Covid among vaccinated?"
+title: "[DRAFT] Does evidence justify blaming the unvaccinated for high prevelance of Covid among vaccinated?"
 date: 2021-07-24
 categories: Covid-19
 ---
