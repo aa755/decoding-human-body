@@ -29,7 +29,7 @@ Clots and myocarditis are just the known *short-term* risks. There are several d
 There may be *theoretical* evidence of the long-term safety of Covid vaccines. But theories in biology very often mispredict:
 - trans fats were banned after several decades of heavy promotion
 - the sugar for fat substitution for decades is now increasingly belived to be harmful
-- the dengue vaccine was found to cause [more severe disease when infected with variants]().
+- the dengue vaccine was revealed years after mass use to cause [more severe disease among those who were not previously infected](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6214489/).
 - the DDT inventer was given nobel prize and was widely promoted even to kids and pregnant women. Only after several decades, it was banned. Many pesticides were similarly widely promoted for decades and then later banned.
 
 Coming back to covid exactly *NONE* of our expert theoreticians predicted the clots or myocarditis issues: infact, they were confidently claiming the opposite in December 2020.
@@ -112,8 +112,21 @@ The claim was that because vaccines prevent infection, they prevent transmission
 thus they give the virus much less chance to evolve, as summarized by one of the most trusted
 vaccine advocates of worldwide media:
 [![missing image. please report to the author](/decoding-human-body/images/covid-recovered-2021-07/angela.png)](https://twitter.com/angie_rasmussen/status/1386785719847321600)
-"Vaccination=no infection" may have been a reasonable thing to say at that time when vaccines were about 95% effective in reducing symptomatic infections. Even then, it was not clear whether they reduce infections overall as much as 95%. Now, such a claim is very very wrong.
 
+"Vaccination=no infection" may have been a reasonable thing to say at that time when vaccines were about 95% effective in reducing symptomatic infections. Even then, it was not clear whether they reduce infections overall as much as 95%. Now, such a claim is very very wrong.
+As mentioned above, in Singapore, at the time of writing this, [75% of the people were vaccinated and 66% of the recent cases were among vaccinated](https://www.ndtv.com/world-news/vaccinated-people-in-singapore-make-up-three-quarters-of-recent-covid-cases-2493025).
+It has been known that such leaky vaccines that do not prevent infections [promote mutations that can be more virulent and more deadly](https://www.nature.com/articles/414751a):
+> Here we show that vaccines designed to reduce pathogen growth rate and/or toxicity diminish selection against virulent pathogens. The subsequent evolution leads to higher levels of intrinsic virulence and hence to more severe disease in unvaccinated individuals. This evolution can erode any population-wide benefits such that overall mortality rates are unaffected, or even increase, with the level of vaccination coverage. In contrast, infection-blocking vaccines induce no such effects, and can even select for lower virulence. These findings have policy implications for the development and use of vaccines that are not expected to provide full immunity, such as candidate vaccines for malaria.
+
+There is even [human evidence of such effects](https://www.quantamagazine.org/how-vaccines-can-drive-pathogens-to-evolve-20180510):
+> Overall, the incidence of invasive pneumococcal infections in the U.S. has dropped dramatically among children and adults as a result of Prevnar 13 (vaccine). It is saving many American lives, presumably because it targets the subset of serotypes most likely to cause infections. But data from England and Wales are not so rosy. Although infections in kids there have dropped, invasive pneumococcal infections have been steadily increasing in older adults and are much higher now than they were before Prevnar 7 was introduced. As for why this is happening, “I don’t think we know,” Hanage said. “But I do think that we might somewhat reasonably suggest that the serotypes that are now being carried by children are inadvertently better able to cause disease in adults, which is something we would not have known before, because they were comparatively rare.”
+
+In the case of Covid vaccines, as shown above, it is becoming increasingly clear that the delta
+and gamma variants have overcome the vaccinces much more effectively than natural immunity.
+So, if anything, we should suspect that the much more imperfect immunity of vaccines (vs natural immunity)
+is more likely to breat variants that are already showing signs of overcoming the vaccines.
+Although the delta variant may have originated before Covid vaccines were available to the public,
+they did not evolve before the onset of the vaccine trials all over the world.
 
 
 ## Conclusion
