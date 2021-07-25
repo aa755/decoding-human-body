@@ -15,7 +15,7 @@ Instead of achknowleding the reduced effectiveness of vaccinations (due to varia
 Are the Covid unvaccinated to blame for the Covid infections of the vaccinated? This article analyses the common arguments.
 But first, I take a brief look at the ethics of promoting such hatred against the unvaccinated.
 
-# Covid vaccine risk and ethics
+## Covid vaccine risk and ethics
 You can debate how rare the adverse events rate of the Covid vaccines are, but they are non-trivial, both for mrna vaccines and adenovirus-vector vaccines.
 (the Novavax vaccine, which uses much more traditional (better understood) technology, [may be much safer](https://www.theatlantic.com/health/archive/2021/06/novavax-now-best-covid-19-vaccine/619276/).)
 For example, despite that it is known that vaccine adverse event rerporting systems underreport, the risk of hospitalization-requiring mycarditis in young boys after mrna vaccines is [at least 1/20K](https://www.medpagetoday.com/opinion/second-opinions/93340). Similar is the overall risk of [clots](https://twitter.com/ProfMakris/status/1418269647196065793) after the astrazeneca vaccines.
@@ -42,7 +42,7 @@ When our understanding about them is so limited, it is incorrect in my opinion t
 Given such known > 1/20K short-term risks risks and largely unknown long-term risks, I think Covid-vaccine mandates are deeply unethical: when there is a a nontrivial risk, there must be a choice. However, for the rest of this article, I will forget about ethics and focus on the goal of reducing Covid transmission as much as possible, even if it comes at the cost of sacrificing a minority.
 
 
-# Do Covid vaccines reduce transmission? independent of symptoms?
+## Do Covid vaccines reduce transmission? independent of symptoms?
 
 To blame the unvaccinated for infections of the vaccinated, the first thing you have to establish is that the vaccines are highly effective in reducing the transmission of the virus.
 However, none of the Covid randomized-controlled-trials (RCTs) [were designed to measure that](https://www.bmj.com/content/371/bmj.m4037?).
@@ -63,7 +63,7 @@ Devising less invasive and more convenient at-home tests may also be a good appr
 
 If the vaccinations reduce symptoms, which they likely do highly effectively in the first few months after second dose against the original variants, the vaccinated would be required much less often to isolate, which is a fair perk for exposing oneself to the non-trivial known short-term adverse effects and the almost completely unknown long-term effects of the vaccines. Given that the mrna vaccines are not completely safe and the later doses are more risky, requiring boosters every few months may be too risky to impose on everyone: even to kids whose risk of dying from Covid is ~10x less than the risk of suicide (see table 1 in this [paper](https://jamanetwork.com/journals/jama/fullarticle/2774465)).
 
-# Covid-recovered are more immune to Covid variants than Covid vaccinated
+## Covid-recovered are more immune to Covid variants than Covid vaccinated
 A non-trivial fraction of the unvaccinated has already recovered from Covid, many didnt even know they got Covid. For example, in New York city, this fraction was probably as high as [24.3% even in June-October 2020](https://pubmed.ncbi.nlm.nih.gov/33836067/)
 The US Covid policy that is the hardest to explain by ethics-free pursuit of Covid-circulation-minimization and can only be explained by insidious corruption of the governments and medical academia is the fact that at least in the US, [even the Covid recovered are treated as second class citizens](https://nclalegal.org/2021/07/ncla-tells-gmu-that-its-forced-vaccination-policy-violates-constitutional-rights-and-medical-ethics/):
 > GMU’s unlawful policy mandates that all unvaccinated faculty, including those who can demonstrate natural immunity by way of prior Covid-19 infection, must wear a mask on campus, physically distance, and undergo frequent testing. Employees are also ineligible for merit-based pay increases if they do not upload proof of their vaccination status into an online portal. For Professor Zywicki, who has recovered from Covid-19 and acquired robust natural immunity, it is not only medically unnecessary to undergo a vaccination procedure at the current time, but doing so also would create a risk of harm to him. Nevertheless, because the penalties GMU attaches to remaining unvaccinated will diminish Professor Zywicki’s efficacy in performing his professional responsibilities, the policy coerces him into receiving the vaccine.
@@ -93,7 +93,7 @@ This seems to hold not just for the delta variant, a CDC study of a gamma varian
 >  The attack rate was 15/25 (60.0%) in fully vaccinated miners, 6/15 (40.0%) in those partially vaccinated or with a history of COVID-19, and 3/4 (75%) in those not vaccinated. Attack rate was 0/6 among persons with a previous history of COVID-19 versus 63.2% among those with no previous history (Table).
 
 
-## In the coming months, today's unvaccinated never Covid infected will either be dead or Covid recovered
+### In the coming months, today's unvaccinated never Covid infected will either be dead or Covid recovered
 
 Given how infectious some of the new variants are, it is likely that many of of those who are unvaccinated
 and never had Covid will get it within a few months if not a year.
@@ -108,7 +108,7 @@ It may also be fair to deprioritize hospital/ICU admissions of the unvaccinated 
 
 To summarize, the instead of treating the currently unvaccinated never infected as the cancer of our societies, look at the brigt/positive side: in the coming months, most of them will either die from Covid and cease to be a problem for others or recover from Covid and contribute MORE to controlling the pandemic than the vaccinated never infected.
 
-# Leaky Covid vaccines and evolutionary pressure
+## Leaky Covid vaccines and evolutionary pressure
 Many have alleged that the unvaccinated are mutant factories.
 The claim was that because vaccines prevent infection, they prevent transmission,
 thus they give the virus much less chance to evolve, as summarized by one of the most trusted
@@ -131,7 +131,7 @@ Although the delta variant may have originated before Covid vaccines were availa
 they did not evolve before the onset of the vaccine trials all over the world.
 
 
-# Conclusion
+## Conclusion
 It is true that people at risk of severe disease should strongly consider getting vaccinated *for their own benefit*.
 But if they chose to not get vaccinated, the currently known evidence does not support the claim that they are putting the vaccinated people at risk of Covid by not getting vaccinated.
 (It may be fair to deprioritize the treatment of the unvaccinated people who get Covid, in case of hospital overflows).
