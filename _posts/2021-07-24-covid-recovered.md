@@ -111,7 +111,8 @@ Many have alleged that the unvaccinated are mutant factories.
 The claim was that because vaccines prevent infection, they prevent transmission,
 thus they give the virus much less chance to evolve, as summarized by one of the most trusted
 vaccine advocates of worldwide media:
-
+[![missing image. please report to the author](/decoding-human-body/images/covid-recovered-2021-07/angela.png)](https://twitter.com/angie_rasmussen/status/1386785719847321600)
+"Vaccination=no infection" may have been a reasonable thing to say at that time when vaccines were about 95% effective in reducing symptomatic infections. Even then, it was not clear whether they reduce infections overall as much as 95%. Now, such a claim is very very wrong.
 
 
 
