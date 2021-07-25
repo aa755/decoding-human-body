@@ -27,10 +27,12 @@ Also important is to note that the vaccine adverse events, especially myocarditi
 Clots and myocarditis are just the known *short-term* risks. There are several diseases like heart disease, cancer that take decades to develop. Although there is no evidence that the vaccines cause them frequently, no emperical evidence can exist that the Covid vaccines do NOT cause them. Given that heart disease at least [progresses via *ASYMPTOMATIC* (subclinical) clots](https://www.ahajournals.org/doi/full/10.1161/01.CIR.103.7.934), if not initiates, and that the adenovirus vaccines cause cause dangerous (symptomatic) clots in "rare" cases, and that the mrna vaccines sometimes cause hospitalization-needing heart damage (inflammation) it is NOT implausible for these vaccines to cause heart problems that are currently asymptomatic and show up after, say 5-10 years.
 
 There may be *theoretical* evidence of the long-term safety of Covid vaccines. But theories in biology very often mispredict:
-- trans fats were banned after several decades of heavy promotion
-- the sugar for fat substitution for decades is now increasingly belived to be harmful
-- the dengue vaccine was revealed years after mass use to cause [more severe disease among those who were not previously infected](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6214489/).
+- trans fats were banned after several decades of heavy promotion as a superior animal fat alternative
+- the dengue vaccine was revealed years after mass use, starting as recently as 2015, to cause [more severe disease among those who were not previously infected](https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC6214489/).
 - the DDT inventer was given nobel prize and was widely promoted even to kids and pregnant women. Only after several decades, it was banned. Many pesticides were similarly widely promoted for decades and then later banned.
+- merck's vioxx drug was withdrawn from the market after 5 years of public use and ads for causing [increased incidence of heart attacks](https://www.npr.org/2007/11/10/5470430/timeline-the-rise-and-fall-of-vioxx)
+- the sugar for fat substitution for decades is now [increasingly belived to be harmful](https://www.theguardian.com/society/2016/apr/07/the-sugar-conspiracy-robert-lustig-john-yudkin)
+- after indiscriminate use of antibiotics for decades, it was found to cause not only antibiotic resistance but also recently increasingly [suspected to cause autoimmune disease like asthma](https://www.cincinnatichildrens.org/news/release/2017/antibiotics-in-newborns)
 
 Coming back to covid exactly *NONE* of our expert theoreticians predicted the clots or myocarditis issues: infact, they were confidently claiming the opposite in December 2020.
 They don't even understand the mechanisms of why these issues happen.
