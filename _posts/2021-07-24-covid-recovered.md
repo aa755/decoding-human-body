@@ -40,7 +40,7 @@ There may be *theoretical* evidence of the long-term safety of Covid vaccines. B
 - Merck's Vioxx drug was withdrawn from the market after 5 years of public use and ads for causing an [increased incidence of heart attacks](https://www.npr.org/2007/11/10/5470430/timeline-the-rise-and-fall-of-vioxx)
 - after indiscriminate use of antibiotics for decades, it was found to cause not only antibiotic resistance but early overexposure is recently increasingly [suspected to cause autoimmune diseases like asthma](https://www.cincinnatichildrens.org/news/release/2017/antibiotics-in-newborns).
 - Clair Cameron Patterson suspected lead to be hamful as early as in 1940. But he was [smeared](https://iowaculture.gov/sites/default/files/history-education-pss-world-clair-transcription.pdf) for years before governments finally  action on reducing lead exposure of the public only in 1970.
-- the sugar for fat substitution for decades is now [increasingly believed to be harmful](https://www.theguardian.com/society/2016/apr/07/the-sugar-conspiracy-robert-lustig-john-yudkin).
+- the sugar for fat substitution promoted for decades is now [increasingly believed to be harmful](https://www.theguardian.com/society/2016/apr/07/the-sugar-conspiracy-robert-lustig-john-yudkin).
 
 Coming back to covid exactly *NONE* of our expert theoreticians predicted the clots or myocarditis issues: in fact, they were confidently claiming the opposite in December 2020.
 They don't even understand the mechanisms of why these issues happen.
@@ -57,7 +57,11 @@ However, none of the Covid randomized-controlled-trials (RCTs) [were designed to
 Many are *assuming* without proof that reducing symptomatic infections (which the RCTs showed) implies reduced transmission.
 Assuming that reduction of symptoms implies reduced transmission is plausible.
 But then why not discriminate based on symptoms rather than vaccination status?
-Contact tracing data, although not fully reliable, does have many instances of transmision [from vaccinated people to other people](https://twitter.com/michaelzlin/status/1409700004705435649).
+Contact tracing data, although not fully reliable, does have many instances of transmision from vaccinated people to other people:
+[![missing image. please report to the author](/decoding-human-body/images/covid-recovered-2021-07/contact-tracing.png)](https://twitter.com/michaelzlin/status/1409700004705435649)
+
+(twitter screenshots at this blog are hyperlinked to their source)
+
 There is a recent [anecdote](https://www.dailymail.co.uk/news/article-9805411/Anthony-Hess-spreads-Delta-Covid-strain-sixty-people-single-weekend-Los-Angeles.html) of a vaccinated person with mild symptoms
 infecting "at least 60 people".
 A [recent experiment](https://www.medischcontact.nl/opinie/reacties/ingezonden-reactie/lage-ct-waarden-bij-volledig-gevaccineerd-zorgpersoneel-met-milde-covid-19-klachten.htm) found:
