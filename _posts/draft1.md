@@ -54,3 +54,6 @@ https://twitter.com/sanchak74/status/1303594820921749506
 
 ## pollen
 https://twitter.com/jasjiv/status/1389449785040535552
+
+## Covid vaccines reducing cross-reactive T-cell immunity
+https://www.facebook.com/tetyana.obukhanych/posts/10226461193893092
