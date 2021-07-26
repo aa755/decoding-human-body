@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Does evidence justify blaming the unvaccinated for the high prevalance of Covid among vaccinated?"
+title: "Are unvaccinated to blame for the high prevalance of Covid among vaccinated?"
 date: 2021-07-24
 categories: Covid-19
 ---
