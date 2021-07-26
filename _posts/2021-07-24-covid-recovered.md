@@ -106,7 +106,7 @@ One concern is that they may spread the virus while recovering or dying.
 A policy that asks the symptomatics (vaccinated or not) to isolate will prevent most of such transmissions.
 It may miss some, but as discussed above, there is no empirical evidence (that I know of) that vaccinated asymptomatically
 infected are less likely to transmit a virus than the unvaccinated asymptomatically infected, so it is unjust to discriminate between the two groups.
-It may also be fair to deprioritize hospital/ICU admissions of the unvaccinated in case the hospital systems are overloaded.
+It may also be fair to deprioritize Covid-related hospital/ICU admissions of the unvaccinated in case the hospital systems are overloaded.
 
 To summarize, instead of treating the currently unvaccinated never infected as the cancer of our societies, look at the positive side: in the coming months, most of them will either die from Covid and cease to be a problem for others or recover from Covid and contribute MORE to controlling the pandemic than the vaccinated never infected.
 
@@ -137,6 +137,6 @@ they did not originate before the onset of the vaccine trials all over the world
 ## Conclusion
 It is true that people at risk of severe disease should strongly consider getting vaccinated *for their own benefit*.
 But if they chose to not get vaccinated, the currently known evidence does not support the claim that they are putting the vaccinated people at risk of Covid by not getting vaccinated.
-It may be fair to deprioritize the treatment of the unvaccinated people who get Covid, especially in case of hospital overflows.
+It may be fair to deprioritize the Covid treatment of the unvaccinated, especially in case of hospital overflows.
 But governments, media, and the "experts" should refrain from sowing hatred against the unvaccinated and refrain from discriminating based on vaccination status,
 not just because it is unethical given the non-trivial risks of the vaccines, but also because it is not supported by evidence as far as I know.
