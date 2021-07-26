@@ -102,7 +102,7 @@ This seems to hold not just for the delta variant, a CDC study of a gamma varian
 These observations are theoretically plausible: during natural infections, the body sees all of the virus and not just the spike protein,
 so what our bodies learn from natural infections is probably more robust to mutations in the spike protein.
 Also, immune systems across species have evolved for billions of years to fight natural infections that replicate inside our bodies,
-and they may not be as well adapted to the protiens delivered via PEG/mRNA or a non-replicating adenovirus.
+and they may not be as well adapted to the mechanisms of PEG/mRNA or non-replicating adenoviruses.
 For many other disease, e.g. measles, natural immunity is known to be much more robust than vaccine immunity, even though a natural infection is more dangerous in many people.
 
 ### In the coming months, today's unvaccinated never Covid infected will either be dead or Covid recovered
