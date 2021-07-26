@@ -64,7 +64,7 @@ Contact tracing data, although not fully reliable, does have many instances of t
 
 There is a recent [anecdote](https://www.dailymail.co.uk/news/article-9805411/Anthony-Hess-spreads-Delta-Covid-strain-sixty-people-single-weekend-Los-Angeles.html) of a vaccinated person with mild symptoms
 infecting "at least 60 people".
-A [recent experiment](https://www.medischcontact.nl/opinie/reacties/ingezonden-reactie/lage-ct-waarden-bij-volledig-gevaccineerd-zorgpersoneel-met-milde-covid-19-klachten.htm) found:
+Also, a [recent experiment](https://www.medischcontact.nl/opinie/reacties/ingezonden-reactie/lage-ct-waarden-bij-volledig-gevaccineerd-zorgpersoneel-met-milde-covid-19-klachten.htm) found:
 > It is striking that relatively low Ct values (<20), i.e. high viral load, were found in 47% (16/34) of the employees who were fully vaccinated (Figure 1), without clear distinction in the type of vaccination (Figure 2).. All these 16 employees had complaints, with headache, fever and sore throat being the most frequently mentioned at the time of the test.
 
 > It is not yet known to what extent the virus secreted is infectious, but the combination of complaints with low Ct values makes contagiousness plausible. All these infections were contracted outside the hospital.
@@ -141,7 +141,9 @@ but there little selection pressure against variants that are very deadly to the
 So this may lead to variants that are more virulent among the vaccinated and are more deadly in the unvaccinated.
 This phenomena was observed [even in the case of human vaccines](https://www.quantamagazine.org/how-vaccines-can-drive-pathogens-to-evolve-20180510):
 > A new vaccine called Prevnar 7 was soon to be recommended for all U.S. children to prevent infections caused by Streptococcus pneumoniae, bacteria responsible for many cases of pneumonia, ear infections, meningitis and other illnesses among the elderly and young children.
+
 >  while Prevnar 7 almost completely eliminated infections with the seven targeted serotypes, the other, rarer serotypes quickly swept in to take their place, including a serotype called 19A, which began causing a large proportion of serious pneumococcal infections. In response, in 2010, the U.S. introduced a new vaccine, Prevnar 13
+
 > Overall, the incidence of invasive pneumococcal infections in the U.S. has dropped dramatically among children and adults as a result of Prevnar 13 (vaccine). It is saving many American lives, presumably because it targets the subset of serotypes most likely to cause infections. But data from England and Wales are not so rosy. Although infections in kids there have dropped, invasive pneumococcal infections have been steadily increasing in older adults and are much higher now than they were before Prevnar 7 was introduced. As for why this is happening, “I don’t think we know,” Hanage said. “But I do think that we might somewhat reasonably suggest that the serotypes that are now being carried by children are inadvertently better able to cause disease in adults, which is something we would not have known before, because they were comparatively rare.”
 
 Although the delta variant may have originated before Covid vaccines were available to the public,
