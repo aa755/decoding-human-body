@@ -49,7 +49,7 @@ hurts 2 ways: immune supressed towards Covid. immune suppressed towards other di
 - different disease dynamics: during the trial, the subjects were mostly independent/isolated but when vaccinating at a population level, the dependent dynamics (e.g. increased transmission among vaccinnes) may happen. no trial has measured the efficacy of Covid vaccines in reducing preventing *asymptomatic* infections and reducing transmission of infections by vacinnees. So many people were getting infected after vaccination (some of my friends who got Pfizer in the US and then travelled to India got infected) that even many mainstream media articles suggested the possibility of asymptomatic spread https://timesofindia.indiatimes.com/city/kolkata/many-catching-virus-after-1st-jab-turning-silent-spreaders-docs/articleshow/82489543.cms?utm_source=twitter.com&utm_medium=social&utm_campaign=TOIDesktop
 
 
-## adeno-covid recombinant:
+## adeno-cov2 recombinant:
 https://twitter.com/sanchak74/status/1303594820921749506
 
 ## pollen
