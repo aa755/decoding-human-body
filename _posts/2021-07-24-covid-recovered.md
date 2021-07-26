@@ -132,7 +132,7 @@ As mentioned above, in Singapore, at the time of writing this, [75% of the peopl
 It has been known that such leaky vaccines that do not prevent infections [promote mutations that can be more virulent and more deadly](https://www.nature.com/articles/414751a):
 > Here we show that vaccines designed to reduce pathogen growth rate and/or toxicity diminish selection against virulent pathogens. The subsequent evolution leads to higher levels of intrinsic virulence and hence to more severe disease in unvaccinated individuals. This evolution can erode any population-wide benefits such that overall mortality rates are unaffected, or even increase, with the level of vaccination coverage. In contrast, infection-blocking vaccines induce no such effects, and can even select for lower virulence. These findings have policy implications for the development and use of vaccines that are not expected to provide full immunity, such as candidate vaccines for malaria.
 
-The Covid vaccines were never perfect at infection blocking, as discussed in the section above, it is becoming increasingly clear that the delta
+The Covid vaccines were never perfect at infection blocking and never provided full immunity. As discussed in the section above, it is becoming increasingly clear that the delta
 and gamma variants have overcome the infection-blocking ability the vaccines much more effectively than natural immunity.
 So, if anything, we should suspect that the much more imperfect infection-blocking capacity of vaccines (vs natural immunity) is more likely to create variants.
 The vaccines may still be effective in reducing severe disease in the vaccinated.
