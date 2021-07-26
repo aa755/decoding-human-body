@@ -99,6 +99,9 @@ With Covid variants, reinfections may be more likely in both the vaccinated and 
 This seems to hold not just for the delta variant, a CDC study of a gamma variant outbreak in a small group of gold miners [showed](https://wwwnc.cdc.gov/eid/article/27/10/21-1427_article):
 >  The attack rate was 15/25 (60.0%) in fully vaccinated miners, 6/15 (40.0%) in those partially vaccinated or with a history of COVID-19, and 3/4 (75%) in those not vaccinated. Attack rate was 0/6 among persons with a previous history of COVID-19 versus 63.2% among those with no previous history (Table).
 
+These observations are theoretically plausible: during natural infections, the body sees all of the virus and not just the spike protein,
+so what our bodies learn from natural infections is probably more robust to mutations in the spike protein.
+
 ### In the coming months, today's unvaccinated never Covid infected will either be dead or Covid recovered
 
 Given how infectious some of the new variants are, it is likely that many of those who are unvaccinated
@@ -126,17 +129,20 @@ As mentioned above, in Singapore, at the time of writing this, [75% of the peopl
 It has been known that such leaky vaccines that do not prevent infections [promote mutations that can be more virulent and more deadly](https://www.nature.com/articles/414751a):
 > Here we show that vaccines designed to reduce pathogen growth rate and/or toxicity diminish selection against virulent pathogens. The subsequent evolution leads to higher levels of intrinsic virulence and hence to more severe disease in unvaccinated individuals. This evolution can erode any population-wide benefits such that overall mortality rates are unaffected, or even increase, with the level of vaccination coverage. In contrast, infection-blocking vaccines induce no such effects, and can even select for lower virulence. These findings have policy implications for the development and use of vaccines that are not expected to provide full immunity, such as candidate vaccines for malaria.
 
-There is even [human evidence of such effects](https://www.quantamagazine.org/how-vaccines-can-drive-pathogens-to-evolve-20180510):
+The Covid vaccines were never perfect at infection blocking, as discussed in the section above, it is becoming increasingly clear that the delta
+and gamma variants have overcome the infection-blocking ability the vaccines much more effectively than natural immunity. The vaccines may still be effective in reducing severe disease in the vaccinated.
+So, if anything, we should suspect that the much more imperfect infection-blocking capacity of vaccines (vs natural immunity) is more likely to create variants.
+The variants that thrive the most in the vaccinated hosts would be those who transmit better among the vaccinated and yet are not too deadly to their vaccinated hosts (killing hosts can reduce spread),
+but there little selection pressure against variants that are very deadly to the unvaccinated, especially if the majority of the population is vaccinated.
+
+This phenomena was observed [even in the case of human vaccines](https://www.quantamagazine.org/how-vaccines-can-drive-pathogens-to-evolve-20180510):
+> A new vaccine called Prevnar 7 was soon to be recommended for all U.S. children to prevent infections caused by Streptococcus pneumoniae, bacteria responsible for many cases of pneumonia, ear infections, meningitis and other illnesses among the elderly and young children.
+>  while Prevnar 7 almost completely eliminated infections with the seven targeted serotypes, the other, rarer serotypes quickly swept in to take their place, including a serotype called 19A, which began causing a large proportion of serious pneumococcal infections. In response, in 2010, the U.S. introduced a new vaccine, Prevnar 13
 > Overall, the incidence of invasive pneumococcal infections in the U.S. has dropped dramatically among children and adults as a result of Prevnar 13 (vaccine). It is saving many American lives, presumably because it targets the subset of serotypes most likely to cause infections. But data from England and Wales are not so rosy. Although infections in kids there have dropped, invasive pneumococcal infections have been steadily increasing in older adults and are much higher now than they were before Prevnar 7 was introduced. As for why this is happening, “I don’t think we know,” Hanage said. “But I do think that we might somewhat reasonably suggest that the serotypes that are now being carried by children are inadvertently better able to cause disease in adults, which is something we would not have known before, because they were comparatively rare.”
 
-In the case of Covid vaccines, as shown above, it is becoming increasingly clear that the delta
-and gamma variants have overcome the vaccines much more effectively than natural immunity.
-So, if anything, we should suspect that the much more imperfect immunity of vaccines (vs natural immunity)
-is more likely to create variants.
-Theoretically, during natural infections, the body sees all of the virus and not just the spike protein,
-so it is plausible that what our bodies learn from natural infections is more robust to mutations in the spike protein.
 Although the delta variant may have originated before Covid vaccines were available to the public,
-they did not originate before the onset of the vaccine trials all over the world.
+it may have originated after the onset of the vaccine trials all over the world.
+In either case, mass vaccination may have caused it to thrive much better because of its better virulence among the vaccinated.
 
 ## Conclusion
 It is true that people at risk of severe disease should strongly consider getting vaccinated *for their own benefit*.
