@@ -128,7 +128,7 @@ There is even [human evidence of such effects](https://www.quantamagazine.org/ho
 In the case of Covid vaccines, as shown above, it is becoming increasingly clear that the delta
 and gamma variants have overcome the vaccines much more effectively than natural immunity.
 So, if anything, we should suspect that the much more imperfect immunity of vaccines (vs natural immunity)
-is more likely to beat variants that are already showing signs of overcoming the vaccines.
+is more likely to create variants.
 Theoretically, during natural infections, the body sees all of the virus and not just the spike protein,
 so it is plausible that what our bodies learn from natural infections is more robust to mutations in the spike protein.
 Although the delta variant may have originated before Covid vaccines were available to the public,
