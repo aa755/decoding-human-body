@@ -103,7 +103,7 @@ These observations are theoretically plausible: during natural infections, the b
 so what our bodies learn from natural infections is probably more robust to mutations in the spike protein.
 Also, immune systems across species have evolved for billions of years to fight natural infections that replicate inside our bodies,
 and they may not be as well adapted to the mechanisms of PEG/mRNA or non-replicating adenoviruses.
-For many other disease, e.g. measles, natural immunity is known to be much more robust than vaccine immunity, even though a natural infection is more dangerous in many people.
+For many other disease, e.g. measles, natural immunity is known to be much more robust than immunity provided by the very effective and safe MMR vaccine.
 
 ### In the coming months, today's unvaccinated never Covid infected will either be dead or Covid recovered
 
