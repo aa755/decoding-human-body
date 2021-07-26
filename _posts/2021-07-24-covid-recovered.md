@@ -133,11 +133,12 @@ It has been known that such leaky vaccines that do not prevent infections [promo
 > Here we show that vaccines designed to reduce pathogen growth rate and/or toxicity diminish selection against virulent pathogens. The subsequent evolution leads to higher levels of intrinsic virulence and hence to more severe disease in unvaccinated individuals. This evolution can erode any population-wide benefits such that overall mortality rates are unaffected, or even increase, with the level of vaccination coverage. In contrast, infection-blocking vaccines induce no such effects, and can even select for lower virulence. These findings have policy implications for the development and use of vaccines that are not expected to provide full immunity, such as candidate vaccines for malaria.
 
 The Covid vaccines were never perfect at infection blocking, as discussed in the section above, it is becoming increasingly clear that the delta
-and gamma variants have overcome the infection-blocking ability the vaccines much more effectively than natural immunity. The vaccines may still be effective in reducing severe disease in the vaccinated.
+and gamma variants have overcome the infection-blocking ability the vaccines much more effectively than natural immunity.
 So, if anything, we should suspect that the much more imperfect infection-blocking capacity of vaccines (vs natural immunity) is more likely to create variants.
+The vaccines may still be effective in reducing severe disease in the vaccinated.
 The variants that thrive the most in the vaccinated hosts would be those who transmit better among the vaccinated and yet are not too deadly to their vaccinated hosts (killing hosts can reduce spread),
 but there little selection pressure against variants that are very deadly to the unvaccinated, especially if the majority of the population is vaccinated.
-
+So this may lead to variants that are more virulent among the vaccinated and are more deadly in the unvaccinated.
 This phenomena was observed [even in the case of human vaccines](https://www.quantamagazine.org/how-vaccines-can-drive-pathogens-to-evolve-20180510):
 > A new vaccine called Prevnar 7 was soon to be recommended for all U.S. children to prevent infections caused by Streptococcus pneumoniae, bacteria responsible for many cases of pneumonia, ear infections, meningitis and other illnesses among the elderly and young children.
 >  while Prevnar 7 almost completely eliminated infections with the seven targeted serotypes, the other, rarer serotypes quickly swept in to take their place, including a serotype called 19A, which began causing a large proportion of serious pneumococcal infections. In response, in 2010, the U.S. introduced a new vaccine, Prevnar 13
@@ -145,7 +146,7 @@ This phenomena was observed [even in the case of human vaccines](https://www.qua
 
 Although the delta variant may have originated before Covid vaccines were available to the public,
 it may have originated after the onset of the vaccine trials all over the world.
-In either case, mass vaccination may have caused it to thrive much better because of its better virulence among the vaccinated.
+In either case, mass vaccination may have caused it to thrive much better because of its better virulence (vs the original variant) among the vaccinated.
 
 ## Conclusion
 It is true that people at risk of severe disease should strongly consider getting vaccinated *for their own benefit*.
