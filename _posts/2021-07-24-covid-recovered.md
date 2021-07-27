@@ -3,6 +3,7 @@ layout: post
 title: "Are unvaccinated to blame for the high prevalance of Covid among vaccinated?"
 date: 2021-07-24
 categories: Covid-19
+youtubeId: OL6-x0modwY
 ---
 Covid cases among the vaccinated are exploding even in some of the most vaccinated places on earth, e.g. Singapore, Israel, the UK, US.
 Although the infection rate among the vaccinated is still lower than the infection rate in unvaccinated, the difference has become rather small (certainly inconsistent with 95% efficacy) in many places.
@@ -51,7 +52,10 @@ There may be *theoretical* evidence of the long-term safety of Covid vaccines. B
 Coming back to Covid vaccines, exactly *NONE* of our expert theoreticians predicted the clots or myocarditis issues: in fact, they were very confidently claiming the opposite in December 2020.
 They don't even understand the mechanisms of why these issues happen. Similarly, they dont know why the mRNA vaccines appear to cause [menstural issues](https://www.thelily.com/can-the-vaccine-make-your-period-worse-these-women-say-yes/), or [reactivation of some latent infections](https://academic.oup.com/rheumatology/advance-article/doi/10.1093/rheumatology/keab345/6225015?searchresult=1).
 The existing mRNA vaccine theory didnt predict any of these either in December 2020.
-Ask any real scientist, e.g. Richard Feynman (perhaps the greatest physicist and science educator ever), and [he will say theory that does not make accurate predictions is WRONG](https://www.youtube.com/watch?v=OL6-x0modwY), even if it is the theory of CDC/FDA/WHO.
+Ask any real scientist, e.g. Richard Feynman (perhaps the greatest physicist and science educator ever), and he will say theory that does not make accurate predictions is WRONG https://www.youtube.com/watch?v=OL6-x0modwY, even if it is the theory of CDC/FDA/WHO:
+
+{% include youtubePlayer.html id=page.youtubeId %}
+
 Months after the wide promotion of the mRNA vaccines, we are still learning [what happens to the mRNA vaccine contents in our bodies](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab465/6279075).
 When our understanding about them is so limited and has been proven to be wrong recently so many times (e.g. myocarditis), it is incorrect in my opinion to put too much faith in theoretical predictions from such limited understanding.
 
