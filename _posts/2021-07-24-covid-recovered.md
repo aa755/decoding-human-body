@@ -156,13 +156,11 @@ As mentioned above, in Singapore, at the time of writing this, [75% of the peopl
 It has been known that such leaky vaccines that do not prevent infections [promote mutations that can be more virulent and more deadly](https://www.nature.com/articles/414751a):
 > Here we show that vaccines designed to reduce pathogen growth rate and/or toxicity diminish selection against virulent pathogens. The subsequent evolution leads to higher levels of intrinsic virulence and hence to more severe disease in unvaccinated individuals. This evolution can erode any population-wide benefits such that overall mortality rates are unaffected, or even increase, with the level of vaccination coverage. In contrast, infection-blocking vaccines induce no such effects, and can even select for lower virulence. These findings have policy implications for the development and use of vaccines that are not expected to provide full immunity, such as candidate vaccines for malaria.
 
-The Covid vaccines were never perfect at infection blocking and never provided full immunity. As discussed in the section above, it is becoming increasingly clear that the delta
-and gamma variants have overcome the infection-blocking ability the vaccines much more effectively than natural immunity.
-So, if anything, we should suspect that the much more imperfect infection-blocking capacity of vaccines (vs natural immunity) is more likely to create variants.
+The Covid vaccines were never perfect at infection blocking and never provided full immunity. Now, the infection-blocking capacity of Covid vaccines seems much lower.
 The vaccines may still be effective in reducing severe disease in the vaccinated.
 The variants that thrive the most in the vaccinated hosts would be those who transmit better among the vaccinated and yet are not too deadly to their vaccinated hosts (killing hosts can reduce spread),
 but there little selection pressure against variants that are very deadly to the unvaccinated, especially if the majority of the population is vaccinated.
-So this may lead to variants that are more virulent among the vaccinated and are more deadly in the unvaccinated.
+So this may lead to variants that are more virulent among the vaccinated and more deadly in the unvaccinated.
 This phenomena was observed [even in the case of human vaccines](https://www.quantamagazine.org/how-vaccines-can-drive-pathogens-to-evolve-20180510):
 > A new vaccine called Prevnar 7 was soon to be recommended for all U.S. children to prevent infections caused by Streptococcus pneumoniae, bacteria responsible for many cases of pneumonia, ear infections, meningitis and other illnesses among the elderly and young children.
 
