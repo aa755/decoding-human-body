@@ -16,6 +16,9 @@ Are the Covid unvaccinated to blame for the Covid infections of the vaccinated? 
 But first, I take a brief look at the ethics of promoting such hatred against the unvaccinated.
 
 ## Covid vaccine risk and ethics
+
+### Short-term risks
+
 You can debate how low the adverse events rate of the Covid vaccines are, but they are non-trivial, both for mRNA vaccines and adenovirus-vector vaccines.
 (The Novavax vaccine, which uses a much more traditional (better understood and tested for decades) technology, [may be much safer](https://www.theatlantic.com/health/archive/2021/06/novavax-now-best-covid-19-vaccine/619276/).)
 For example, despite that it is known that vaccine adverse event reporting systems underreport, the risk of usually-hospitalization-requiring myocarditis in young boys after mRNA vaccines is [at least 1/20K](https://www.medpagetoday.com/opinion/second-opinions/93340). Similar is the overall risk of [clots](https://twitter.com/ProfMakris/status/1418269647196065793) after the AstraZeneca vaccines.
@@ -26,6 +29,8 @@ Also important is to note that the vaccine adverse events, especially myocarditi
 Also, many factors are known solidly to influence one's risk from Covid upto even 10x, comparable to the risk reduction by Covid vaccines: e.g. [Vitamin D deficiency](https://www.medrxiv.org/content/10.1101/2021.06.04.21258358v1), [obesity and metabolic dysfunction](https://pubmed.ncbi.nlm.nih.gov/32683613/), [physical activity](https://bjsm.bmj.com/content/early/2021/07/21/bjsports-2021-104203).
 (Just because no large trials were done to test inteventions like regular Vitamin D supplementation, weight loss, physical exercise to prevent Covid infection/severity doesnt mean they are ineffective: until we test something properly, we cant say it doesnt work.)
 It is irresponsible to claim that the benefits outweigh risks for *EVERYONE*, perhaps just as irresponsible as extreme anti-vaxers confidently claiming that Covid vaccine risks outweigh benefits for everyone or will surely cause infertility.
+
+### Long-term risks
 
 Clots and myocarditis are just the known *short-term* risks. There are several diseases like heart disease, cancer, that take decades to develop. Although there is no evidence that Covid vaccines cause them, no empirical evidence can exist that the Covid vaccines do NOT cause them. Given that  lesions in coronary arteries (heart disease), which can eventually block arteries, at least [progress via *ASYMPTOMATIC* (subclinical) clots](https://www.ahajournals.org/doi/full/10.1161/01.CIR.103.7.934), if not even initiate via clots, and that the adenovirus vaccines cause dangerous (symptomatic) clots in "rare" cases, and that the mRNA vaccines sometimes cause hospitalization-needing heart damage (inflammation) it is NOT implausible for these vaccines to cause heart problems (e.g. new lesions in arteries or worsening existing lesions) that are currently asymptomatic and show symptoms only after, say 5-10 years.
 Just because it is plausible doesnt mean it actually happens: fortunately, this plausibility can be disproven by an experiment: do a 2 year RCT of the Covid vaccines and do a non-invasive (but w/ radiation) CCTA test at the end of 2 years to look at the arteries in the heart: or measure a surrogate: the ultrasound CIMT test to evaluate lesions in the arteries supplying blood to brain.
@@ -49,6 +54,8 @@ The existing mRNA vaccine theory didnt predict any of these either in December 2
 Ask any real scientist, e.g. Richard Feynman (perhaps the greatest physicist and science educator ever), and [he will say theory that does not make accurate predictions is WRONG](https://www.youtube.com/watch?v=OL6-x0modwY), even if it is the theory of CDC/FDA/WHO.
 Months after the wide promotion of the mRNA vaccines, we are still learning [what happens to the mRNA vaccine contents in our bodies](https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciab465/6279075).
 When our understanding about them is so limited and has been proven to be wrong recently so many times (e.g. myocarditis), it is incorrect in my opinion to put too much faith in theoretical predictions from such limited understanding.
+
+### Ethics
 
 Given such known > 1/20K short-term risks and largely unknown long-term risks of both the vaccines and the virus, I think Covid-vaccine mandates are deeply unethical: when there is a nontrivial risk and so many unknowns and so much variance in the risks from both the virus and the vaccines (the virus primarily harms the elderly but the vaccine's KNOWN harms are concentrated in the young and healthy), Covid vaccination should be an individual choice: we all understand our bodies the best. However, for the rest of this article, I will forget about ethics and focus on the goal of reducing Covid transmission as much as possible, even if it comes at the cost of sacrificing a minority.
 
