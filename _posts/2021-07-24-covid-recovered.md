@@ -117,7 +117,15 @@ This seems to hold not just for the delta variant, a CDC study of a gamma varian
 
 These observations are theoretically plausible: during natural infections, the body sees all of the virus and not just the spike protein,
 so what our bodies learn from natural infections is probably more robust to mutations in the spike protein.
-Also, immune systems across species have evolved for billions of years to fight natural infections that replicate inside our bodies,
+Researchers studying the robustness of natural immunity to Covid [already found signs of it](https://news.emory.edu/stories/2021/07/covid_survivors_resistance/index.html?):
+
+> Recovered COVID-19 patients retain broad and effective longer-term immunity to the disease, suggests a recent Emory University study, which is the most comprehensive of its kind so far. The findings have implications for expanding understanding about human immune memory as well as future vaccine development for coronaviruses.
+
+> Ahmed says investigators were surprised to see that convalescent participants also displayed increased immunity against common human coronaviruses as well as SARS-CoV-1, a close relative of the current coronavirus. The study suggests that patients who survived COVID-19 are likely to also possess protective immunity even against some SARS-CoV-2 variants.
+
+>“Vaccines that target other parts of the virus rather than just the spike protein may be more helpful in containing infection as SARS-CoV-2 variants overtake the prevailing strains,” says Ahmed. “This could pave the way for us to design vaccines that address multiple coronaviruses.”
+
+More abstractly, immune systems across species have evolved for billions of years to fight natural infections that replicate inside our bodies,
 and they may not be as well adapted to the mechanisms of PEG/mRNA or non-replicating adenoviruses.
 For many other disease, e.g. measles, natural immunity is known to be much more robust than immunity provided by the very effective and safe MMR vaccine.
 
