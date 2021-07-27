@@ -14,7 +14,9 @@ One metric that is unaffected by such biases is death. [More than half of the UK
 
 Instead of acknowledging the reduced effectiveness of vaccinations (due to variants and/or time since vaccination and/or ...), governments are becoming even more and more mean towards the people who declined Covid vaccination or those who question the Covid vaccines. Many governments have started promoting the unvaccinated as second-class citizens worthy of only hatred and ostracization. Those asking even legitimate questions are brutally censored.
 Are the Covid unvaccinated to blame for the Covid infections of the vaccinated? This article analyses the common arguments.
-But first, I take a brief look at the ethics of promoting such hatred against the unvaccinated.
+
+If we knew for sure that Covid vaccines were perfectly safe, mandating them for everybody would be a no-brainer and this question wont ever arise. So, I first take a brief look at the safety concerns about the Covid vaccines
+and the ethics of mandating them.
 
 ## Covid vaccine risk and ethics
 
