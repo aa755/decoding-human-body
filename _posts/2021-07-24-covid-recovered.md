@@ -74,7 +74,7 @@ But then why not discriminate based on symptoms rather than vaccination status?
 Contact tracing data, although not fully reliable, does have many instances of transmision from vaccinated people to other people:
 [![missing image. please report to the author](/decoding-human-body/images/covid-recovered-2021-07/contact-tracing.png)](https://twitter.com/michaelzlin/status/1409700004705435649)
 
-(twitter screenshots at this blog are hyperlinked to their source)
+(twitter screenshots at this blog are hyperlinked to their source. In case the tweets get deleted, I certify that I took these screenshots myself on 25-July-2021.)
 
 There is a recent [anecdote](https://www.dailymail.co.uk/news/article-9805411/Anthony-Hess-spreads-Delta-Covid-strain-sixty-people-single-weekend-Los-Angeles.html) of a vaccinated person with mild symptoms
 infecting "at least 60 people".
