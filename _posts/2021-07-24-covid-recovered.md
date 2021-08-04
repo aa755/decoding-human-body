@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Are unvaccinated to blame for the high prevalance of Covid among vaccinated?"
+title: "Are Covid vaccine mandates ethical? evidence based?"
 date: 2021-07-24
 categories: Covid-19
 youtubeId: OL6-x0modwY
