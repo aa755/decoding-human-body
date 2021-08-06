@@ -179,7 +179,7 @@ Although the delta variant may have originated before Covid vaccines were availa
 it may have originated after the onset of the vaccine trials all over the world.
 In either case, mass vaccination may have caused it to thrive much better because of its better virulence (vs the original variant) among the vaccinated.
 
-There actually are [Covid vaccines that do appear to provide complete blocking of transmission](https://abhishekanandfacebookfeed.substack.com/p/old-is-gold-live-attenuated-vaccines) (also known as sterlizing immunity), but they use a centuries old technology (live-attenuated viruses) known to have eradicated many diseases, not the novel mrna technology with extra-ordinary hype but dismal safety and efficacy.
+There actually are [Covid vaccines that do appear to provide complete blocking of transmission](https://abhishekanandfacebookfeed.substack.com/p/old-is-gold-live-attenuated-vaccines) (also known as sterlizing immunity), but they use a centuries old technology (live-attenuated viruses) known to have eradicated many diseases, not the novel mrna technology with extra-ordinary hype but dismal safety and efficacy. Most of this article does not apply to that live-attenuated vaccine, but I doubt it will receive attention and be brought to the market as a much better alternative to the current Covid vaccines.
 
 
 ## Conclusion
