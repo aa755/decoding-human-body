@@ -132,6 +132,7 @@ and they may not be as well adapted to the mechanisms of PEG/mRNA or non-replica
 For many other disease, e.g. measles, natural immunity is known to be much more robust than immunity provided by the very effective and safe MMR vaccine.
 
 Does the Covid vaccine provide additional protection to those who were already infected. The best data about it comes from an RCT which can separate correlation from causation:
+
 [![missing image. please report to the author](/decoding-human-body/images/covid-recovered-2021-07/rct-reinfection.png)](https://twitter.com/andrewbostom/status/1420603644651712513)
 
 ### In the coming months, today's unvaccinated never Covid infected will either be dead or Covid recovered
