@@ -175,6 +175,9 @@ Although the delta variant may have originated before Covid vaccines were availa
 it may have originated after the onset of the vaccine trials all over the world.
 In either case, mass vaccination may have caused it to thrive much better because of its better virulence (vs the original variant) among the vaccinated.
 
+There actually are [Covid vaccines that do appear to provide complete blocking of transmission](https://abhishekanandfacebookfeed.substack.com/p/old-is-gold-live-attenuated-vaccines) (also known as sterlizing immunity), but they use a centuries old technology (live-attenuated viruses) known to have eradicated many diseases, not the novel mrna technology with extra-ordinary hype but dismal safety and efficacy.
+
+
 ## Conclusion
 It is true that people at risk of severe disease should strongly consider getting vaccinated *for their own benefit*.
 But if they chose to not get vaccinated, the currently known evidence does not support the claim that they are putting the vaccinated people at risk of Covid by not getting vaccinated.
