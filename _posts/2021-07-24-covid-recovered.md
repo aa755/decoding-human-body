@@ -131,9 +131,13 @@ More abstractly, immune systems across species have evolved for billions of year
 and they may not be as well adapted to the mechanisms of PEG/mRNA or non-replicating adenoviruses.
 For many other disease, e.g. measles, natural immunity is known to be much more robust than immunity provided by the very effective and safe MMR vaccine.
 
-Does the Covid vaccine provide additional protection to those who were already infected. The best data about it comes from an RCT which can separate correlation from causation:
+Does the Covid vaccine provide additional protection to those who were already infected? There is some recent observational data showing that vaccination reduces the already very small chances of reinfection, although that may not be true of the latest variants. Also, because there are many known confounders: e.g. many situations, e.g. travel, only require the unvaccinated to be tested. In fact, a few months ago, the CDC decided not to track mild or asymptomatic Covid infections, but only in the vaccinated. RCTs can separate correlation/biases from causation and a Covid vaccine RCT should be done on the previously recovered before subjecting them to unnecessary harm. Meanwhile, the Pfizer Covid vaccine RCT already sheds some light on this, although the number of reinfections were very small in both the vaccinated and the unvaccinated groups:
 
 [![missing image. please report to the author](/decoding-human-body/images/covid-recovered-2021-07/rct-reinfection.png)](https://twitter.com/andrewbostom/status/1420603644651712513)
+
+Also, note that those with previous Covid recovery appear to have a [higher rate of adverse effects from the vaccines](https://www.medrxiv.org/content/10.1101/2021.04.15.21252192v1):
+
+> The proportion reporting one moderate/severe symptom was higher in the previous COVID-19 group (56% v 47%, OR=1.5 [95%CI, 1.1–2.0], p=.009), with fever, fatigue, myalgia-arthralgia and lymphadenopathy significantly more common.
 
 ### In the coming months, today's unvaccinated never Covid infected will either be dead or Covid recovered
 
