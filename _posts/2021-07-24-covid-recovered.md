@@ -54,7 +54,7 @@ There may be *theoretical* evidence of the long-term safety of Covid vaccines. B
 Coming back to Covid vaccines, exactly *NONE* of our expert theoreticians predicted the clots or myocarditis issues: in fact, they were very confidently claiming the opposite in December 2020.
 They don't even understand the mechanisms of why these issues happen. Similarly, they dont know why the mRNA vaccines appear to cause [menstural issues](https://www.thelily.com/can-the-vaccine-make-your-period-worse-these-women-say-yes/), or [reactivation of some latent infections](https://academic.oup.com/rheumatology/advance-article/doi/10.1093/rheumatology/keab345/6225015?searchresult=1).
 The existing mRNA vaccine theory didnt predict any of these either in December 2020.
-Ask any real scientist, e.g. Richard Feynman (perhaps the greatest physicist and science educator ever), and he will say theory that makes inaccurate predictions is WRONG, even if it is a beautiful theory of CDC/FDA/WHO:
+Ask any real scientist, e.g. Richard Feynman (perhaps the greatest physicist and science educator ever), and they will say theory that makes inaccurate predictions is WRONG, even if it is a beautiful theory of CDC/FDA/WHO:
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
