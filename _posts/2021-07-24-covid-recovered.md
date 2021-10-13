@@ -8,7 +8,7 @@ youtubeId: OL6-x0modwY
 Covid cases among the vaccinated are exploding even in some of the most vaccinated places on earth, e.g. Singapore, Israel, the UK, US.
 Although the infection rate among the vaccinated is still lower than the infection rate in unvaccinated, the difference has become rather small (certainly inconsistent with 95% efficacy) in many places.
 For example, in Singapore, at the time of writing this, [75% of the people were vaccinated and 66% of the recent cases were among vaccinated](https://www.ndtv.com/world-news/vaccinated-people-in-singapore-make-up-three-quarters-of-recent-covid-cases-2493025).
-Similarly, in the state of Massachusetts in the US, a week before writing this, ~70% of the people were fully vaccinated and [43% of the recent cases were among the vaccinated](https://www.wcvb.com/article/massachusetts-covid-breakthrough-cases-delta-variant-pandemic-vaccine-data-charts-maps/37089843#).
+Similarly, in the state of Massachusetts in the US, a week before writing this, ~70% of the people were fully vaccinated and [43% of the recent cases were among the vaccinated](/decoding-human-body/images/covid-recovered-2021-07/massbreak.pdf).
 The case numbers may be subject to sampling bias: for example, many places require only the unvaccinated to be tested, so we may be underestimating the number of vaccinated infected.
 One metric that is unaffected by such biases is death. [More than half of the UK deaths were recently among the vaccinated](https://uk.news.yahoo.com/covid-vaccine-weekly-more-vaccinated-185503623.html) at a time where 53% of the population was fully vaccinated. It is unclear what fraction of those deaths were in the fully vaccinated (vs partially vaccinated).
 
