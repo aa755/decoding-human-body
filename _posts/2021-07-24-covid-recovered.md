@@ -5,6 +5,9 @@ date: 2021-07-24
 categories: Covid-19
 youtubeId: OL6-x0modwY
 ---
+(This article was written in summer 2021. Since then, the evidence for many of the arguments made here has only become stronger, but I haven't updated the article. **Also, after reading the article, please visit [this page](https://skeptichuman.substack.com/p/helping-politicians-fighting-medical) to review which prominent political candidates have fought to end the grave injustices outlined here.**)
+
+
 Covid cases among the vaccinated are exploding even in some of the most vaccinated places on earth, e.g. Singapore, Israel, the UK, US.
 Although the infection rate among the vaccinated is still lower than the infection rate in unvaccinated, the difference has become rather small (certainly inconsistent with 95% efficacy) in many places.
 For example, in Singapore, at the time of writing this, [75% of the people were vaccinated and 66% of the recent cases were among vaccinated](https://www.ndtv.com/world-news/vaccinated-people-in-singapore-make-up-three-quarters-of-recent-covid-cases-2493025).
