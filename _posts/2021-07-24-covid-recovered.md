@@ -5,7 +5,7 @@ date: 2021-07-24
 categories: Covid-19
 youtubeId: OL6-x0modwY
 ---
-**if you came here from a yard sign, please visit [this page](https://skeptichuman.substack.com/p/helping-politicians-fighting-medical)**
+**if you came here from a yard sign, please visit [this page](https://skeptichuman.substack.com/p/helping-politicians-fighting-medical), maybe after reading is article, especially if you supported Covid vaccine mandates**
 
 (This article was written in summer 2021. Since then, the evidence for many of the arguments made here has only become stronger, but I haven't updated the article.)
 
