@@ -18,33 +18,49 @@ Finally, I sketch trials designs that can answer the question of vaccines causin
 Disclaimer: My evidence review is by no means comprehensive: the published medical literature on vaccines is huge. Also, this article is for informational purposes only and does not constitute medical advice.
 
 ## evidence review: vaccines dont cause autism
-Two of the most vocal vaccine advocates are Peter Hotez and Paul Offit.
+Two of the most vocal vaccine advocates are perhaps Peter Hotez and Paul Offit.
+(They both work on vaccine development so they may have some biases due to their conflicts of interest)
 Paul Offit published [this paper](https://pubmed.ncbi.nlm.nih.gov/26417097/) which he claims to settle
 the question.
-Similar evidence has also been used by Peter Hotez. e.g. in his [book](https://books.google.com/books/about/Vaccines_Did_Not_Cause_Rachel_s_Autism.html?id=NkpyDwAAQBAJ) and many other even much more rigorous scientists
+Similar evidence has also been used by Peter Hotez. e.g. in his [book](https://books.google.com/books/about/Vaccines_Did_Not_Cause_Rachel_s_Autism.html?id=NkpyDwAAQBAJ) and many other even much more rigorous scientists with apparent no conflicts of interests
 to proudly say that they disagree with RFK Jr on childhood vaccines (even though they agree on Covid vaccines and FDA/CDC capture), e.g. [here](https://www.thefp.com/p/what-rfk-jr-gets-rightand-what-he) and [here](https://twitter.com/TracyBethHoeg/status/1670591104654381057).
 Below, I consider one by one the evidence they present.
 
 ### retrospective observational studies: MMR and autism
 There are several studies RETROSPECTIVELY comparing the rates of autism in those who got MMR and those who didn't. Most vaccine evangelists point to these papers first when making the claim that vaccines do not cause autism.
-For example, in the section titled "Childhood Vaccines Cause Autism: Got it Wrong", Dr. Vinay Prasad only provides [this paper](https://www.acpjournals.org/doi/10.7326/m18-2101) and a similar earlier paper from 2015 as evidence. We will look at the 2019 paper in detail.
+For example, in the section titled "Childhood Vaccines Cause Autism: Got it Wrong", Dr. Vinay Prasad only provides [this paper](https://www.acpjournals.org/doi/10.7326/m18-2101) and a similar earlier paper from 2015 as evidence.
+This paper retrospectively looked at "657,461 children born in Denmark from 1999 through 31 December 2010, with follow-up from 1 year of age and through 31 August 2013." and compared the rates of autism among the vaccinated and the unvaccinated children. "Comparing MMR-vaccinated with MMR-unvaccinated children yielded a fully adjusted autism hazard ratio of 0.93 (95% CI, 0.85 to 1.02)." They found that an MMR vaccinated child is 0.93 times as likely as a "similar" unvaccinated child to get autism.
 
-Before that, lets make it clear that even if MMR does not cause autism -- and I think it doesnt -- it doesnt mean that the battery of the total ~20 doses infants get together doesnt cause autism. It is not just about magnitude: most other vaccines in today's vaccine schedule work very differently.
+
+
+#### pitfalls in using retrospective observational studies to prove/disprove causality
+##### data quality
+many unvaccinated in the trial were likely vaccinated
+https://ugeskriftet.dk/dmj/danish-mmr-vaccination-coverage-considerably-higher-reported
+##### p-hacking
+exclusion criteria
+what to adjustment
+
+
+### other vaccines
+Even if MMR does not cause autism -- and I think it does not -- it doesnt mean that the battery of the total ~20 doses infants get together doesnt cause autism. It is not just about magnitude: most other vaccines in today's vaccine schedule work very differently.
 MMR is a live virus vaccine: the virus in it infects the human body and replicates just
 like any other virus would: it just has been modified/attenuated to not cause the disease that the actual Measles virus may cause in children.
 But it is similar enough to the actual measles virus that the antibodies that the body develops against the vaccine version are effective in combating the actual measles virus: very cool technology.
 Our bodies have evolved to fight such infections from live/replicating viruses. Decades of research has shown that the human immune system generalizes what it learns from the MMR vaccine and likely also prevent other diseases: these are now called non-specific benefits of vaccines.
+
 Unfortunately, most of the vaccines in use today are not live vaccines.
 There is a concern that the virus in a live vaccine can mutate and regain its ability to cause disease: a phenomenon that actually happened with the polio vaccine, although not with MMR and other live vaccines.
 Most vaccines today have either the killed virus or just parts (e.g. proteins) of the killed virus: e.g. HepB, IPV, HPV, flu vaccine (not flu mist). The body usually does not know what to do with dead viruses alone and does not mount a good enough immune response
 Scientists figured out that by including some some toxin, e.g. aluminium, thimerosal, to kill a small number of cells at the injection site in the muscle, the body can be forced to mount a much better response.
 All dead virus vaccines have such adjuvants.
-Unfortunately, the same group that showed that live vaccines likely have non-specific beneficial effects ALSO showed that dead virus vaccines likely have non-specific deleterious effects, which we will look into later in this article.
-For now, the point is that even if MMR does not cause autism, you canNOT claim that childhood vaccines do not cause autism.
-Nevertheless, lets look anyway at whether the evidence for even MMR not causing autism meets the standards the same scientists use in other circumstances, e.g. whether Ivermectin prevents Covid.
+Unfortunately, the same group that showed that live vaccines likely have non-specific beneficial effects ALSO showed that dead virus vaccines likely have non-specific deleterious effects, which we will describe later below.
 
+Most efforts in proving that vaccines do not cause autism has been focused on the MMR vaccines. This is not a
+conspiracy but the result of the fact that the first claim about a link between vaccines and autism was made
+for the MMR vaccine, by Andrew Wakefield. For other vaccines, we don't even have the low quality evidence that
+we have for the MMR vaccine. We only have mechanistic/theoretic evidence and animal trials. Theories in medicine have a history of being very unreliable in predicting outcomes because we have a very limited understanding of how the human body works. Animal trials can be useful when done correctly (e.g. in a "good" model, not in an animal specifically designed to prove a point). But in this case, they suffer from an entirely avoidable problem: they are too underpowered (too small) to detect problems (H/T Chris Masterjohn), yet it is very surprising that experienced scientists like Paul Offit do not see the problem and use this evidence to claim that this is settled science.
 
-#### pitfalls in using retrospective observational studies to prove/disprove causality
 
 ### mechanistic studies of suspicious components of vaccines
 
