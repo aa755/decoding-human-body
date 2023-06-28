@@ -36,7 +36,7 @@ While this is reassuring, we need to understand the limitations of this study:
 #### pitfalls in using retrospective observational studies to prove/disprove causality
 
 It is well known that correlation does not imply causation.
-What appears less known among medical scientists is that negative/0 correlation also does not imply lack of causation, even though that [seems obvious to statisticians]().
+What appears less known among medical scientists is that negative/0 correlation also does not imply lack of causation, even though that [seems obvious to statisticians](https://stats.stackexchange.com/questions/221936/does-no-correlation-imply-no-causality).
 The reason for both is the same: confounding variables can alter the impact of the variables being tested in *either* direction: they can both increase or decrease the correlation from the causal strength.
 The negative correlation seen above may be because of one of the many possibilities (not an exhaustive list):
 1. MMR genuinely has nothing to do with autism
@@ -71,7 +71,7 @@ One way to mitigate the p-hacking issues is to release the full raw data (after 
 Often, retrospective studies suffer from the problem of quality of datasets.
 In the case of the above study, critics have pointed out that many of the unvaccinated children
 may have actually been vaccinated.
-They cite apparently credible evidence for this claim: an [article](https://ugeskriftet.dk/dmj/danish-mmr-vaccination-coverage-considerably-higher-reported) from the Danish Medical Journal which dug deeper into a sample of children who were marked unvaccinated in the Danish medical registry that the above study used and found:
+They [cite](https://stevekirsch.substack.com/p/key-paper-showing-no-link-between) apparently credible evidence for this claim: an [article](https://ugeskriftet.dk/dmj/danish-mmr-vaccination-coverage-considerably-higher-reported) from the Danish Medical Journal which dug deeper into a sample of children who were marked unvaccinated in the Danish medical registry that the above study used and found:
 
 > Of the 246 children who were unvaccinated according to the register-based data, 135 (55%) had received vaccination according to the medical records (Table 3).
 
