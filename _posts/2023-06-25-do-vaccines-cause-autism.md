@@ -31,13 +31,14 @@ There are several studies RETROSPECTIVELY comparing the rates of autism in those
 For example, in the section titled "Childhood Vaccines Cause Autism: Got it Wrong", Dr. Vinay Prasad only provides [this paper](https://www.acpjournals.org/doi/10.7326/m18-2101) and a similar earlier paper from 2015 as evidence.
 This paper retrospectively looked at "657,461 children born in Denmark from 1999 through 31 December 2010, with follow-up from 1 year of age and through 31 August 2013." and compared the rates of autism among the vaccinated and the unvaccinated children. "Comparing MMR-vaccinated with MMR-unvaccinated children yielded a fully adjusted autism hazard ratio of 0.93 (95% CI, 0.85 to 1.02).". Roughly speaking, they found that an MMR vaccinated child is 0.93 times as likely as a "similar" unvaccinated child to get autism. The 95% confidence interval is mostly
 under 1 and barely crosses 1. A confidence interval slightly lower than 95% may be totally below 1.
+While this is reassuring, we need to understand the limitations of this study:
 
 #### pitfalls in using retrospective observational studies to prove/disprove causality
 
 It is well known that correlation does not imply causation.
 What appears less known among medical scientists is that negative/0 correlation also does not imply lack of causation, even though that [seems obvious to statisticians]().
 The reason for both is the same: confounding variables can alter the impact of the variables being tested in *either* direction: they can both increase or decrease the correlation from the causal strength.
-The negative correlation seen above may be because of one of the many possibilities:
+The negative correlation seen above may be because of one of the many possibilities (not an exhaustive list):
 1. MMR genuinely has nothing to do with autism
 2. MMR causes a slight reduction in the chance of autism
 3. MMR causes a tiny increase in the chance of autism and some other confounding factors more than cancels out the slight increase. There can be many confounding factors, e.g. children who are vaccinated may have richer parents and their mothers may have had better access to care/adequate-nutrition during pregnancy.
@@ -47,19 +48,34 @@ Exactly which possibility we are in is hard to determine. The only way that obvi
 All other methods require making a lot of assumptions which are certainly worthy of questioning. For example, reduce the skew due to confounders, observational studies can "adjust" the analysis on various suspected confounding variables to ensure that those suspected confounding factors are roughly the same in the comparisons. While this can help, it can introduce its own problems, especially in retrospective observational studies:
 
 Observational studies can be prospective or retrospective. In prospective studies, ideally, the scientists pre-declare exactly what things they would measure and what are the few hypotheses they are testing. Then they start the study and observe the differences in the future. In retrospective studies, scientists go back and look into historical records to find the differences. Retrospective observational studies bring in their own set of additional pitfalls:
+
 ##### p-hacking
 Designing an retrospective observational study requires making many, many choices: which source to collect
 data from, how to verify the data accuracy, which study subjects to include/exclude, which time period to consider, how to precisely define the variable being measured (e.g. what exactly is considered autism), which suspected confounding factors to adjust. It is often very easy to make these choices to obtain any conclusion you want: often there sets of choices that arrive at completely opposite conclusion.
 In RCTs or prospective observational studies, this can be avoided by pre-specifying/publishing the exact trial and analysis protocol *before* staring the trial, an not change it later after seeing how things turn out in the future.
 This does not work for retrospective designs because we are looking into the past and there is usually no reliable way to ensure that the trial analysis and protocol was never modified after the researchers saw the data, which typically already existed even before the researchers concieved the trial.
 
+For example, in the above retrospective paper showing a slightly negative correlation between MMR and Covid,
+12294 children were excluded from the analyses. To put this in perspective, there were a total 6517 autism diagnoses.
+[![missing image. please report to the author](/decoding-human-body/images/autism/excl.jpeg)](https://www.acpjournals.org/na101/home/literatum/publisher/acp/journals/content/aim/2019/aim.2019.170.issue-8/m18-2101/20210930/images/large/m182101ff1_figure_1_study_flow_diagram.jpeg)
 
-exclusion criteria seems fishy: too many types of children were excluded
-what to adjust. sensitivity analysis was done? numbers not reported, even in suppment
+Where these exclusions not biased towards vaccinated or unvaccinated? Nobody knows.
+Was the exclusion criteria cherry-picked to obtain the conclusion?
+Were the variables chosen to adjust cherry-picked to obtain the conclusion?
+There are impossible to know for sure in a retrospective design.
+One thing I do find odd is that they do not report the unadjusted rates of autism in the vaccinated and the unvaccinated group (number of children in the vaccinated group who got autism vs the number in the unvaccinated group).
+I have read hundreds of observational studies, although mostly in nutrition and heart disease drugs, and all of them report both the unadjusted rates and adjusted rates.
+One way to mitigate the p-hacking issues is to release the full raw data (after pseudodnymization), so that others can find if there are reasonable analyses that come to the opposite conclusion, but unlike fields like computer science, openness and reproducibility in medical science has a dismal situation.
 
 ##### data quality
-many unvaccinated in the trial were likely vaccinated
-https://ugeskriftet.dk/dmj/danish-mmr-vaccination-coverage-considerably-higher-reported
+Often, retrospective studies suffer from the problem of quality of datasets.
+In the case of the above study, critics have pointed out that many of the unvaccinated children
+may have actually been vaccinated.
+They cite apparently credible evidence for this claim: an [article](https://ugeskriftet.dk/dmj/danish-mmr-vaccination-coverage-considerably-higher-reported) from the Danish Medical Journal which dug deeper into a sample of children who were marked unvaccinated in the Danish medical registry that the above study used and found:
+
+> Of the 246 children who were unvaccinated according to the register-based data, 135 (55%) had received vaccination according to the medical records (Table 3).
+
+>The main reason for this discrepancy appeared to be administrative errors in the registration procedure involving the general practice and the region (n = 89, 36%). In 62 of these 89 cases, the GPs stated the correct unique code for performing the MMR1 vaccination, but the invoices were rejected because of errors in the reimbursement request. In the remaining 27 cases, the GPs stated an incorrect unique code or forgot to forward the invoice to the region. The rest of the 135 children with negative vaccination status according to the register-based data, but with positive status according to the medical records, had been vaccinated elsewhere: at another general practice (9%), abroad (8%) or at a hospital (2%).
 
 
 ### other vaccines
