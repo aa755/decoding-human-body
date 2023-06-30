@@ -79,7 +79,7 @@ They [cite](https://stevekirsch.substack.com/p/key-paper-showing-no-link-between
 
 
 ### other vaccines
-Even if MMR does not cause autism -- and I think it does not -- it doesnt mean that the battery of the total ~20 doses infants get together doesnt cause autism. It is not just about magnitude: most other vaccines in today's vaccine schedule work very differently.
+Even if MMR does not cause autism -- and I think it does not -- it doesn't mean that the battery of the total ~20 doses infants get together doesnt cause autism. It is not just about the 20x magnitude: most other vaccines in today's vaccine schedule work very differently.
 MMR is a live virus vaccine: the virus in it infects the human body and replicates just
 like any other virus would: it just has been modified/attenuated to not cause the disease that the actual Measles virus may cause in children.
 But it is similar enough to the actual measles virus that the antibodies that the body develops against the vaccine version are effective in combating the actual measles virus: very cool technology.
@@ -101,7 +101,18 @@ Animal trials can give some confidence on end-to-end outcomes when done correctl
 But in this case, they suffer from an easily avoidable problem: they are too underpowered (too small) to detect problems (H/T Chris Masterjohn), yet it is very surprising that experienced scientists like Paul Offit do not see the problem and use this evidence to claim that this is settled science. Below, we discuss the mechanistic/theoretic evidence and animal trials of end-to-end outcomes in more detail.
 
 
-### mechanistic studies of suspicious components of vaccines
+### animal trials of suspicious components of vaccines
+A little more than a decade ago, RFK Jr asked the question
+"why does the CDC ask pregnant women to avoid fish because of mercury content but recommends injecting vaccines containing thimerosal (organic mercury) to them".
+The response from vaccine evangelists like Paul Offit was that fish contains methyl mercury while vaccines contain ethylmercury and the latter is much less harmful. Lets review whether he is right about that.
+
+flu vaccines are the only vaccines that still have thimerosal. in 1st trimester, they are correlated with autism
+https://pubmed.ncbi.nlm.nih.gov/27893896/
+
+Covid mrna vacines have a similar story: first they said never goes into the circulation and remains in muscle and does it job and is gone in a few days.
+then when a study showed some mrna in the bloodstream. response: of course a little bit goes into the circulation: nothing to worry about. then some studies show it persists for weeks in some recipients.
+then studies seem to implicate it causing myocarditis.
+
 
 ### animal trials of the full vaccine schedule
 
