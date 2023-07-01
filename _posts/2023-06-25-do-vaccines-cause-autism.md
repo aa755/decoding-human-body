@@ -104,15 +104,51 @@ But in this case, they suffer from an easily avoidable problem: they are too und
 ### animal trials of suspicious components of vaccines
 A little more than a decade ago, RFK Jr asked the question
 "why does the CDC ask pregnant women to avoid fish because of mercury content but recommends injecting vaccines containing thimerosal (organic mercury) to them".
-The response from vaccine evangelists like Paul Offit was that fish contains methyl mercury while vaccines contain ethylmercury and the latter is much less harmful. Lets review whether he is right about that.
+The response from vaccine evangelists like Paul Offit [was](https://pauloffit.substack.com/p/my-conversation-with-robert-f-kennedy) that fish contains methyl mercury while vaccines contain ethylmercury (thimerosal) and the latter is much less harmful. He says
+> While methylmercury has a half-life in the bloodstream of about 70 days, ethylmercury has a half-life of seven days. So, it’s much less likely to accumulate and do harm.
+
+He cites the [Pichichero](https://pubmed.ncbi.nlm.nih.gov/18245396/)
+for the toxicology of ethylmercury, while RFK Jr cites the [Burbacher](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1280342/).
+The Pichichero measured mercury in the blood, urine, and feces of human infants receiving thimerosal-containing vaccines at 12 hours to 30 days post injection.
+They found that
+> The blood mercury half-life was calculated to be 3.7 days and returned to prevaccination levels by day 30.
+
+It is good that at least after 30 days, the blood levels of mercury comes back to prevaccination levels.
+It at least says that perhaps after 30 days, the brain is not being exposed to mercury from the bloodtream.
+But from that it is impossible to conclude how mercury ended up staying in the brain and what damage, if any, was done in those 30 days.
+
+The Burbacher study, cited by RFK Jr, comes closer to answering those questions: they measured mercury levels in monkey infants at 2, 4, 7, or 28 days after the vaccination with thimerosal-containing vaccines.
+
+
+
+Paul Offit quotes the following line from the Burbacher paper:
+> no serious medical complications were observed in any of the monkeys.
+
+The monkeys were only observed for 25 days. This is way to short for autism like behaviours to even
+begin appearing. But he is right that there is no mention of any brain inflammation being found
+
+
 
 flu vaccines are the only vaccines that still have thimerosal. in 1st trimester, they are correlated with autism
 https://pubmed.ncbi.nlm.nih.gov/27893896/
+
+this study, which Paul Offit ironically cites for "proving" safety of thermisolxs analyzed data from 3HMOs. in the largest HMO (N=110,833), thermison vaccines were correlated with language delay. in the other 2 HMO's, which were much smaller (n=13K, 16K), no significant correlation was found. They use this inconsistency has evidence of non-causality. but the huge size difference suggests that the other 2 HMOs were rather too small to detect a small effect if there is one.
+https://publications.aap.org/pediatrics/article-abstract/112/5/1039/28714/Safety-of-Thimerosal-Containing-Vaccines-A-Two?redirectedFrom=fulltext
 
 Covid mrna vacines have a similar story: first they said never goes into the circulation and remains in muscle and does it job and is gone in a few days.
 then when a study showed some mrna in the bloodstream. response: of course a little bit goes into the circulation: nothing to worry about. then some studies show it persists for weeks in some recipients.
 then studies seem to implicate it causing myocarditis.
 
+
+> In fact, studies have shown that EtHg levels in hair are positively correlated with the number of TCV inoculations (Dórea et al. 2011). Although the time-frame between vaccinations allows for a decrease in EtHg levels, this additional mercury source may potentially contribute to aggravate neurotoxic effects in populations already exposed to other Hg sources and species (e.g. consumption of fish with high MeHg) (Dórea, Marques, and Isejima 2012).
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8276940/
+
+> The results indicate that ethylmercury-containing compounds are actively transported across membranes by the L (leucine-preferring)-amino acid transport (LAT) system, the same as methylmercury-containing compounds. Further, 22 studies from 1971 to 2019 show that exposure to ethylmercury-containing compounds (intravenously, intraperitoneally, topically, subcutaneously, intramuscularly, or intranasally administered) results in accumulation of mercury in the brain. In total, these studies indicate that ethylmercury-containing compounds and Thimerosal readily cross the BBB, convert, for the most part, to highly toxic inorganic mercury-containing compounds, which significantly and persistently bind to tissues in the brain, even in the absence of concurrent detectable blood mercury levels
+
+https://www.sciencedirect.com/science/article/abs/pii/S1382668919301875
+
+ethylmercury in hair: https://pubmed.ncbi.nlm.nih.gov/21575620/
 
 ### animal trials of the full vaccine schedule
 
