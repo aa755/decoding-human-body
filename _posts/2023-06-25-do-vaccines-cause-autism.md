@@ -11,31 +11,32 @@ Although, I do agree with them that sometimes RFK Jr relies on weak evidence to 
 
 First, I review the evidence Paul Offit and Peter Hotez presents to claim that safety of childhood vaccines is settled science.
 They both work on vaccine development so they may have some biases due to their conflicts of interest, but people should read their arguments nevertheless.
-I focus most of this post on [this paper](https://pubmed.ncbi.nlm.nih.gov/26417097/) in which Paul Offit claims to settle the question. I will first go over the evidence Paul presents, in the order he presents in the paper.
-For each piece of evidence, I discuss their limitations, with concrete examples of how similarly weak evidence have misguided humanity in related fields like nutrition. In many such cases, Paul Offit presented a very biased selection of papers, ignoring the many papers of similar (and sometimes even better) quality on the same subtopic that provide evidence of the opposite.
+I focus most of this post on [this paper](https://pubmed.ncbi.nlm.nih.gov/26417097/) in which Paul Offit claims to settle the question. I will first go over the evidence Paul presents. I catergorize the evidence
+into 3 categories: obervational studies, animal experiments, randomized controlled trials (gold standard).
+For each piece of evidence in each category I discuss their limitations, with concrete examples of how similarly weak evidence have misguided humanity in related fields like nutrition. In many such cases, Paul Offit presented a very biased selection of papers, ignoring the many papers of similar (and sometimes even better) quality on the same subtopic that provide evidence of the opposite.
 
 {% comment %}
 I also look at the papers Peter Hotez cited in his [book](https://books.google.com/books/about/Vaccines_Did_Not_Cause_Rachel_s_Autism.html?id=NkpyDwAAQBAJ) about safety of childhood vaccines, and some more recent papers that have been cited by scientists claiming safety of specific childhood vaccines.
 {% endcomment %}
 
-### retrospective observational studies: MMR and autism
+## observational studies
 There are several studies RETROSPECTIVELY comparing the rates of autism in those who got MMR and those who didn't. Most vaccine evangelists point to these papers first when making the claim that vaccines do not cause autism.
 For example, in the section titled "Childhood Vaccines Cause Autism: Got it Wrong", Dr. Vinay Prasad only provides [this paper](https://www.acpjournals.org/doi/10.7326/m18-2101) and a similar earlier paper from 2015 as evidence.
 This paper retrospectively looked at "657,461 children born in Denmark from 1999 through 31 December 2010, with follow-up from 1 year of age and through 31 August 2013." and compared the rates of autism among the vaccinated and the unvaccinated children. "Comparing MMR-vaccinated with MMR-unvaccinated children yielded a fully adjusted autism hazard ratio of 0.93 (95% CI, 0.85 to 1.02).". Roughly speaking, they found that an MMR vaccinated child is 0.93 times as likely as a "similar" unvaccinated child to get autism. The 95% confidence interval is mostly
 under 1 and barely crosses 1. A confidence interval slightly lower than 95% may be totally below 1.
 While this is reassuring, we need to understand the limitations of this study:
 
-#### pitfalls in using retrospective observational studies to prove/disprove causality
+### observational studies to prove/disprove causality: pitfalls
 
 It is well known that correlation does not imply causation.
 What appears less known among medical scientists is that negative/0 correlation also does not imply lack of causation, even though that [seems obvious to statisticians](https://stats.stackexchange.com/questions/221936/does-no-correlation-imply-no-causality).
 The reason for both is the same: confounding variables can alter the impact of the variables being tested in *either* direction: they can both increase or decrease the correlation from the causal strength.
-My concern is not theoretical: in the field of medical drugs and nutrition, there are many, many cases where some intervention (e.g. Vitamin E, Hormone Replacement Therapy) was found to be slightly helpful in large observational studies but turned out to be ineffective or even somewhat harmful in large RCTs, which can reliably judge causality. I will summarize those cases and sketch the parallels with the vaccine safety evidence. But first, lets get back to the above MMR study:
+My concern is not theoretical: in the field of medical drugs and nutrition, there are many, [many cases](https://chat.openai.com/share/783eb0d4-2cb6-4390-959a-49d7634b4384) where some intervention (e.g. Vitamin E, Hormone Replacement Therapy) was found to be slightly helpful in large observational studies but turned out to be ineffective or even somewhat harmful in large RCTs, which can reliably judge causality. I will summarize those cases and sketch the parallels with the vaccine safety evidence. But first, lets get back to the above MMR study:
 
 The negative correlation seen above may be because of one of the many possibilities (not an exhaustive list):
 1. MMR genuinely has nothing to do with autism
 2. MMR causes a small reduction in the chance of autism, close to the mean RR of 0.93
-2. MMR causes a huge reduction in the chance of autism and some other confounding factor cancels out most of that benefit. A possible confounder could be that people who reject vaccines tend to be "naturalists" and thus also do some other beneficial stuff like reject tylenol ([associated with autism](), but may or may not be causal) or pesticide-laden food.
+2. MMR causes a huge reduction in the chance of autism and some other confounding factor cancels out most of that benefit. A possible confounder could be that people who reject vaccines tend to be "naturalists" and thus also do some other beneficial stuff like reject tylenol ([associated with autism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9385573/?fc=20210113063650&ff=20220822073638&v=2.17.7), but may or may not be causal) or pesticide-laden food. At least some pesticides have been proven to be harmful after decades of use.
 3. MMR causes an increase in the chance of autism and some other confounding factors more than cancels out the slight increase. There can be many confounding factors, e.g. children who are vaccinated may have richer parents and their mothers may have had better access to care/adequate-nutrition during pregnancy. Nutrition, e.g. folate and B12 are known to play an important role in neurodevelopment in the first trimester.
 
 Exactly which possibility we are in is hard to determine. The only way that obviously works is to do a randomized trial, where we toss a coin to determine whether someone gets the vaccine or a placebo. In a large trial, randomization can ensure that all confounders are about the same in both vaccine and placebo groups.
@@ -43,7 +44,8 @@ All other methods require making a lot of assumptions which are certainly worthy
 
 Observational studies can be prospective or retrospective. In prospective studies, ideally, the scientists pre-declare exactly what things they would measure and what are the few hypotheses they are testing. Then they start the study and observe the differences in the future. In retrospective studies, scientists go back and look into historical records to find the differences. Retrospective observational studies bring in their own set of additional pitfalls:
 
-##### p-hacking
+### Retrospective observational studies: additional pitfalls
+#### P-hacking
 Designing an retrospective observational study requires making many, many choices: which source to collect
 data from, how to verify the data accuracy, which study subjects to include/exclude, which time period to consider, how to precisely define the variable being measured (e.g. what exactly is considered autism), which suspected confounding factors to adjust. It is often very easy to make these choices to obtain any conclusion you want: often there sets of choices that arrive at completely opposite conclusion.
 In RCTs or prospective observational studies, this can be avoided by pre-specifying/publishing the exact trial and analysis protocol *before* staring the trial, an not change it later after seeing how things turn out in the future.
@@ -53,7 +55,7 @@ For example, in the above retrospective paper showing a slightly negative correl
 12294 children were excluded from the analyses. To put this in perspective, there were a total 6517 autism diagnoses.
 [![missing image. please report to the author](/decoding-human-body/images/autism/excl.jpeg)](https://www.acpjournals.org/na101/home/literatum/publisher/acp/journals/content/aim/2019/aim.2019.170.issue-8/m18-2101/20210930/images/large/m182101ff1_figure_1_study_flow_diagram.jpeg)
 
-Where these exclusions not biased towards vaccinated or unvaccinated? Nobody knows.
+Were these exclusions not biased towards vaccinated or unvaccinated? Nobody knows.
 Was the exclusion criteria cherry-picked to obtain the conclusion?
 Were the variables chosen to adjust cherry-picked to obtain the conclusion?
 There are impossible to know for sure in a retrospective design.
@@ -61,7 +63,7 @@ One thing I do find odd is that they do not report the unadjusted rates of autis
 I have read hundreds of observational studies, although mostly in nutrition and heart disease drugs, and all of them report both the unadjusted rates and adjusted rates.
 One way to mitigate the p-hacking issues is to release the full raw data (after pseudodnymization), so that others can find if there are reasonable analyses that come to the opposite conclusion, but unlike fields like computer science, openness and reproducibility in medical science has a dismal situation.
 
-##### data quality
+#### data quality
 Often, retrospective studies suffer from the problem of quality of datasets.
 In the case of the above study, critics have pointed out that many of the unvaccinated children
 may have actually been vaccinated.
@@ -72,7 +74,7 @@ They [cite](https://stevekirsch.substack.com/p/key-paper-showing-no-link-between
 >The main reason for this discrepancy appeared to be administrative errors in the registration procedure involving the general practice and the region (n = 89, 36%). In 62 of these 89 cases, the GPs stated the correct unique code for performing the MMR1 vaccination, but the invoices were rejected because of errors in the reimbursement request. In the remaining 27 cases, the GPs stated an incorrect unique code or forgot to forward the invoice to the region. The rest of the 135 children with negative vaccination status according to the register-based data, but with positive status according to the medical records, had been vaccinated elsewhere: at another general practice (9%), abroad (8%) or at a hospital (2%).
 
 
-### other vaccines
+### cherry-picking and double standards: studies associating vaccines with harms
 Even if MMR does not cause autism -- and I think it does not -- it doesn't mean that the battery of the total ~20 doses infants get together doesnt cause autism. It is not just about the 20x magnitude: most other vaccines in today's vaccine schedule work very differently.
 MMR is a live virus vaccine: the virus in it infects the human body and replicates just
 like any other virus would: it just has been modified/attenuated to not cause the disease that the actual Measles virus may cause in children.
@@ -93,9 +95,12 @@ we have for the MMR vaccine. We only have mechanistic/theoretic evidence and ani
 Theories in medicine have a history of being very unreliable in predicting outcomes because we have a very limited understanding of how the human body works.
 Animal trials can give some confidence on end-to-end outcomes when done correctly (e.g. in a "good" model, not in an animal specifically designed (e.g. gene knockout) to prove a point: those should just be used to generate hypotheses).
 But in this case, they suffer from an easily avoidable problem: they are too underpowered (too small) to detect problems (H/T Chris Masterjohn), yet it is very surprising that experienced scientists like Paul Offit do not see the problem and use this evidence to claim that this is settled science. Below, we discuss the mechanistic/theoretic evidence and animal trials of end-to-end outcomes in more detail.
+### atopic dermatitis: schedule vs delayed vaccination
 
 
-### animal trials of suspicious components of vaccines
+## animal trials
+
+### end-to-end outcomes
 A little more than a decade ago, RFK Jr asked the question
 "why does the CDC ask pregnant women to avoid fish because of mercury content but recommends injecting vaccines containing thimerosal (organic mercury) to them".
 The response from vaccine evangelists like Paul Offit [was](https://pauloffit.substack.com/p/my-conversation-with-robert-f-kennedy) that fish contains methyl mercury while vaccines contain ethylmercury (thimerosal) and the latter is much less harmful. He says
@@ -113,6 +118,7 @@ But from that it is impossible to conclude how mercury ended up staying in the b
 
 The Burbacher study, cited by RFK Jr, comes closer to answering those questions: they measured mercury levels in monkey infants at 2, 4, 7, or 28 days after the vaccination with thimerosal-containing vaccines.
 
+### themirosal
 
 
 Paul Offit quotes the following line from the Burbacher paper:
@@ -143,10 +149,13 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8276940/
 https://www.sciencedirect.com/science/article/abs/pii/S1382668919301875
 
 ethylmercury in hair: https://pubmed.ncbi.nlm.nih.gov/21575620/
+### aluminium
 
-### animal trials of the full vaccine schedule
-
-### human RCTs or lack thereof
+## Human RCTs
+### Flu vaccines
+### Flu vaccines during pregnancy
+### DTP natural experiment
+### HPV trials
 
 ### Ending the cat and mouse game: prove safety rather than reacting to safety concerns
 Paul Offits laments that the narrative from vaccine safety skeptics has kept on changing:
@@ -161,23 +170,6 @@ Perhaps vaccine scientists can learn from my my formal field of research: formal
 (Obviously, I speak for myself here, not the field).
 For a long time, there was a similar cat and mouse game between compiler developers and compiler users claiming that the compiler has bugs.
 
-
-
-
-
-## evidence review: vaccines cause autism
-### observational studies
-### aluminium in brains
-## evidence of other harms of vaccines
-### DTP natural experiment
-### atopic dermatitis: schedule vs delayed vaccination
-
-## Trials/Studies to generate better evidence of vaccine safety
-first define a very objectice criteria for diagnosing autism
-### Prospective studies of vaccinated vs compltetely unvaccinated children
-### RCTs of vaccinated vs compltetely unvaccinated children
-do we have enough parents who are so much on the fence that they agree to abide by the coin toss?
-how large do the trials need to be?
 
 ### Trust/Transparency/Verifiability of trial/study results
 role of crypto/blockchain/verifiable-voting techniques
