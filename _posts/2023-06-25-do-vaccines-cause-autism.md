@@ -1,30 +1,22 @@
 ---
-title: "DRAFT: Do vaccines cause autism?"
+title: "Thin Yet Undebatable: Safety Evidence of Childhood Vaccines"
 layout: post
 date: 2023-06-25
 categories: rant
 draft: true
 ---
-## The thin evidence behind the most undebatable medical question: do vaccines cause autism?
+Many prominent vaccine scientists, e.g. Paul Offit and Peter Hotez, think that the safety of ALL childhood vaccines has been proven so well that no debates should be done about it, and no better-designed trials are needed, [unlike some other medical scientists who specialize in reliability of medical evidence](https://vinayprasadmdmph.substack.com/p/the-only-real-solution-to-vaccine?publication_id=231792&post_id=131012417&isFreemail=false).
+Fortunately, now that many people have seen up close how fast the “settled-science” of effectiveness and safety of Covid vaccines changed, more people are questioning the field of vaccine “science” which often behaves more like a religion than science.
+Although, I do agree with them that sometimes RFK Jr relies on weak evidence to make claims like vaccines cause harms, I show that those prominent vaccine scientists use similarly weak evidence to make claims of vaccine safety. Also, they cherry pick only the studies that validate their biases with weak evidence and completely ignore even the much stornger evidence that goes against their biases.
 
-Presidential candidate RFK Jr is being censored heavily in mainstream media because whe questions vaccine safety and sometimes almost asserts that vaccines cause autism.
-Many vaccine scientists, e.g. Peter Hotez, whose almost every confident claim about Covid was proven incorrect over time, have claimed that the question of whether vaccines cause autism is not even worth debating.
-Given their extreme convidence, you would think they have excellent evidence to back up their claims.
-In this article, I first critically analyze the evidence they themself put forward to claim that the question is settled science. Then, I critically analyze the evidence of the opposite side.
-Although I highly recommend you read the whole article yourself and come to your own conclusions, my takeaway is that the evidence to resolve this question is incredibly weak: many medical scientists would see immediately that the evidence is too weak if the vaccine was a drug, but somehow the word "vaccine" turns off their critical thinking abilities.
-Finally, I sketch trials designs that can answer the question of vaccines causing autism or other autoimmune disorders with much more centainty.
+First, I review the evidence Paul Offit and Peter Hotez presents to claim that safety of childhood vaccines is settled science.
+They both work on vaccine development so they may have some biases due to their conflicts of interest, but people should read their arguments nevertheless.
+I focus most of this post on [this paper](https://pubmed.ncbi.nlm.nih.gov/26417097/) in which Paul Offit claims to settle the question. I will first go over the evidence Paul presents, in the order he presents in the paper.
+For each piece of evidence, I discuss their limitations, with concrete examples of how similarly weak evidence have misguided humanity in related fields like nutrition. In many such cases, Paul Offit presented a very biased selection of papers, ignoring the many papers of similar (and sometimes even better) quality on the same subtopic that provide evidence of the opposite.
 
-
-Disclaimer: My evidence review is by no means comprehensive: the published medical literature on vaccines is huge. Also, this article is for informational purposes only and does not constitute medical advice.
-
-## evidence review: vaccines dont cause autism
-Two of the most vocal vaccine advocates are perhaps Peter Hotez and Paul Offit.
-(They both work on vaccine development so they may have some biases due to their conflicts of interest)
-Paul Offit published [this paper](https://pubmed.ncbi.nlm.nih.gov/26417097/) which he claims to settle
-the question.
-Similar evidence has also been used by Peter Hotez. e.g. in his [book](https://books.google.com/books/about/Vaccines_Did_Not_Cause_Rachel_s_Autism.html?id=NkpyDwAAQBAJ) and many other even much more rigorous scientists with apparent no conflicts of interests
-to proudly say that they disagree with RFK Jr on childhood vaccines (even though they agree on Covid vaccines and FDA/CDC capture), e.g. [here](https://www.thefp.com/p/what-rfk-jr-gets-rightand-what-he) and [here](https://twitter.com/TracyBethHoeg/status/1670591104654381057).
-Below, I consider one by one the evidence they present.
+{% comment %}
+I also look at the papers Peter Hotez cited in his [book](https://books.google.com/books/about/Vaccines_Did_Not_Cause_Rachel_s_Autism.html?id=NkpyDwAAQBAJ) about safety of childhood vaccines, and some more recent papers that have been cited by scientists claiming safety of specific childhood vaccines.
+{% endcomment %}
 
 ### retrospective observational studies: MMR and autism
 There are several studies RETROSPECTIVELY comparing the rates of autism in those who got MMR and those who didn't. Most vaccine evangelists point to these papers first when making the claim that vaccines do not cause autism.
@@ -38,11 +30,13 @@ While this is reassuring, we need to understand the limitations of this study:
 It is well known that correlation does not imply causation.
 What appears less known among medical scientists is that negative/0 correlation also does not imply lack of causation, even though that [seems obvious to statisticians](https://stats.stackexchange.com/questions/221936/does-no-correlation-imply-no-causality).
 The reason for both is the same: confounding variables can alter the impact of the variables being tested in *either* direction: they can both increase or decrease the correlation from the causal strength.
+My concern is not theoretical: in the field of medical drugs and nutrition, there are many, many cases where some intervention (e.g. Vitamin E, Hormone Replacement Therapy) was found to be slightly helpful in large observational studies but turned out to be ineffective or even somewhat harmful in large RCTs, which can reliably judge causality. I will summarize those cases and sketch the parallels with the vaccine safety evidence. But first, lets get back to the above MMR study:
+
 The negative correlation seen above may be because of one of the many possibilities (not an exhaustive list):
 1. MMR genuinely has nothing to do with autism
-2. MMR causes a slight reduction in the chance of autism
-3. MMR causes a tiny increase in the chance of autism and some other confounding factors more than cancels out the slight increase. There can be many confounding factors, e.g. children who are vaccinated may have richer parents and their mothers may have had better access to care/adequate-nutrition during pregnancy.
-4. MMR causes a massing relative risk reduction in the chance of autism and some other confounding factor cancels out most of that benefit.
+2. MMR causes a small reduction in the chance of autism, close to the mean RR of 0.93
+2. MMR causes a huge reduction in the chance of autism and some other confounding factor cancels out most of that benefit. A possible confounder could be that people who reject vaccines tend to be "naturalists" and thus also do some other beneficial stuff like reject tylenol ([associated with autism](), but may or may not be causal) or pesticide-laden food.
+3. MMR causes an increase in the chance of autism and some other confounding factors more than cancels out the slight increase. There can be many confounding factors, e.g. children who are vaccinated may have richer parents and their mothers may have had better access to care/adequate-nutrition during pregnancy. Nutrition, e.g. folate and B12 are known to play an important role in neurodevelopment in the first trimester.
 
 Exactly which possibility we are in is hard to determine. The only way that obviously works is to do a randomized trial, where we toss a coin to determine whether someone gets the vaccine or a placebo. In a large trial, randomization can ensure that all confounders are about the same in both vaccine and placebo groups.
 All other methods require making a lot of assumptions which are certainly worthy of questioning. For example, reduce the skew due to confounders, observational studies can "adjust" the analysis on various suspected confounding variables to ensure that those suspected confounding factors are roughly the same in the comparisons. While this can help, it can introduce its own problems, especially in retrospective observational studies:
