@@ -6,11 +6,10 @@ categories: rant
 draft: true
 ---
 Many prominent vaccine scientists, e.g. Paul Offit and Peter Hotez, think that the safety of ALL childhood vaccines has been proven so well that no debates should be done about it, and no better-designed trials are needed, [unlike some other medical scientists who specialize in reliability of medical evidence](https://vinayprasadmdmph.substack.com/p/the-only-real-solution-to-vaccine?publication_id=231792&post_id=131012417&isFreemail=false).
-Fortunately, now that many people have seen up close how fast the “settled-science” of effectiveness and safety of Covid vaccines changed, more people are questioning the field of vaccine “science” which often behaves more like a religion than science.
-Although, I do agree with them that sometimes RFK Jr relies on weak evidence to make claims like vaccines cause harms, I show that those prominent vaccine scientists use similarly weak evidence to make claims of vaccine safety. Also, they cherry pick only the studies that validate their biases with weak evidence and completely ignore even the much stornger evidence that goes against their biases.
+Fortunately, now that many people have seen up close how fast the “settled-science” of effectiveness and safety of Covid vaccines [changed](https://twitter.com/0rf/status/1669030822215655436), more people are questioning the field of vaccine “science” which often behaves more like a religion than science.
+Although, I do agree with them that sometimes RFK Jr relies on weak evidence to make claims like vaccines cause harms, I show that those prominent vaccine scientists use similarly weak evidence to make claims of vaccine safety. Also, they cherry pick only the studies that validate their biases with weak evidence and completely ignore similarly weak or sometimes xeven the much stroger evidence that goes against their biases.
 
 First, I review the evidence Paul Offit and Peter Hotez presents to claim that safety of childhood vaccines is settled science.
-They both work on vaccine development so they may have some biases due to their conflicts of interest, but people should read their arguments nevertheless.
 I focus most of this post on [this paper](https://pubmed.ncbi.nlm.nih.gov/26417097/) in which Paul Offit claims to settle the question. I will first go over the evidence Paul presents. I catergorize the evidence
 into 3 categories: obervational studies, animal experiments, randomized controlled trials (gold standard).
 For each piece of evidence in each category I discuss their limitations, with concrete examples of how similarly weak evidence have misguided humanity in related fields like nutrition. In many such cases, Paul Offit presented a very biased selection of papers, ignoring the many papers of similar (and sometimes even better) quality on the same subtopic that provide evidence of the opposite.
@@ -71,23 +70,31 @@ For example, in the above retrospective paper showing a slightly negative correl
 12294 children were excluded from the analyses. To put this in perspective, there were a total 6517 autism diagnoses.
 [![missing image. please report to the author](/decoding-human-body/images/autism/excl.jpeg)](https://www.acpjournals.org/na101/home/literatum/publisher/acp/journals/content/aim/2019/aim.2019.170.issue-8/m18-2101/20210930/images/large/m182101ff1_figure_1_study_flow_diagram.jpeg)
 
-Were these exclusions not biased towards vaccinated or unvaccinated? Nobody knows.
+Were these exclusions not unintentionally biased towards vaccinated or unvaccinated?.
 Was the exclusion criteria cherry-picked to obtain the conclusion?
 Were the variables chosen to adjust cherry-picked to obtain the conclusion?
 There are impossible to know for sure in a retrospective design.
 One thing I do find odd is that they do not report the unadjusted rates of autism in the vaccinated and the unvaccinated group (number of children in the vaccinated group who got autism vs the number in the unvaccinated group).
-I have read hundreds of observational studies, although mostly in nutrition and heart disease drugs, and all of them report both the unadjusted rates and adjusted rates.
-One way to mitigate the p-hacking issues is to release the full raw data (after pseudodnymization), so that others can find if there are reasonable analyses that come to the opposite conclusion, but unlike fields like computer science, openness and reproducibility in medical science has a dismal situation.
 
-#### data quality
+Again, my concerns here are not theoretic.
+A Cornell Professor in nutrition was found to actually [encourage](https://www.buzzfeednews.com/article/stephaniemlee/brian-wansink-cornell-p-hacking#.qs6A0K3DW) his students to indulge in P-hacking. He was eventually [fired](https://www.motherjones.com/food/2018/09/cornell-food-researcher-brian-wansink-13-papers-retracted-how-were-they-published/). But CDC was more lucky when it indulged in P-hacking to show that mask mandates were associated with lower pediatric Covid-19 cases. The CDC likely had data about mask mandates and pediatric cases of Covid for most of the US but only published snippets of the data that supported its conclusion of mask mandates. For example, when non-CDC public health researchers looked at a CDC paper supporting masking mandates for kids in schools, they found that [extending the analysis by just one more month flipped the conclusion](https://www.sciencedirect.com/science/article/pii/S0163445322005503#fig0002). The CDC never updated their paper and continued to use it to promote masking in schools and censoring its critics *even after* the new data came out.
+
+One way to mitigate the p-hacking issues is to release the full raw data (after pseudodnymization), so that others can find if there are reasonable analyses that come to the opposite conclusion. In the case of the CDC masking study, the open data is what enabled other researchers to spot the P-hacking.
+but unlike fields like computer science, openness and reproducibility in medical science has a [dismal situation](https://maryannedemasi.substack.com/p/despite-progress-in-data-transparency).
+Steve Kirsch, a computer entrepreneur [claims](https://stevekirsch.substack.com/p/key-paper-showing-no-link-between) to have asked for the raw data and that the first author of the paper just blocked him in response. Although Steve could have been kinder and less aggressive in his request, his ask is legitimate and keeping the data hidden has more harms than benefits.
+
+
+### data quality
 Often, retrospective studies suffer from the problem of quality of datasets.
-In the case of the above study, critics have pointed out that many of the unvaccinated children
+In the case of the above MMR autism study, critics have pointed out that many of the unvaccinated children
 may have actually been vaccinated.
-They [cite](https://stevekirsch.substack.com/p/key-paper-showing-no-link-between) apparently credible evidence for this claim: an [article](https://ugeskriftet.dk/dmj/danish-mmr-vaccination-coverage-considerably-higher-reported) from the Danish Medical Journal which dug deeper into a sample of children who were marked unvaccinated in the Danish medical registry that the above study used and found:
+They [cite](https://stevekirsch.substack.com/p/key-paper-showing-no-link-between) apparently credible evidence for this claim: an [article](https://ugeskriftet.dk/dmj/danish-mmr-vaccination-coverage-considerably-higher-reported) from the Danish Medical Journal which dug deeper into a sample of children who were marked unvaccinated in the Danish medical registry that the above MMR study used and found:
 
 > Of the 246 children who were unvaccinated according to the register-based data, 135 (55%) had received vaccination according to the medical records (Table 3).
 
 >The main reason for this discrepancy appeared to be administrative errors in the registration procedure involving the general practice and the region (n = 89, 36%). In 62 of these 89 cases, the GPs stated the correct unique code for performing the MMR1 vaccination, but the invoices were rejected because of errors in the reimbursement request. In the remaining 27 cases, the GPs stated an incorrect unique code or forgot to forward the invoice to the region. The rest of the 135 children with negative vaccination status according to the register-based data, but with positive status according to the medical records, had been vaccinated elsewhere: at another general practice (9%), abroad (8%) or at a hospital (2%).
+
+Although this does not necessarily invalidate the study completely, at the very least, the study's power to find the effect of MMR vaccination was much lower than its large numbers suggest. But even that is assuming that the chance of a MMR vaccinated child misclassified as unvaccinated is independent of the chance of developing autism. That assumption can be questioned.
 
 
 ### cherry-picking and double standards: studies associating vaccines with harms
