@@ -40,11 +40,21 @@ The negative correlation seen above may be because of one of the many possibilit
 3. MMR causes an increase in the chance of autism and some other confounding factors more than cancels out the slight increase. There can be many confounding factors, e.g. children who are vaccinated may have richer parents and their mothers may have had better access to care/adequate-nutrition during pregnancy. Nutrition, e.g. folate and B12 are known to play an important role in neurodevelopment in the first trimester.
 
 Exactly which possibility we are in is hard to determine. The only way that obviously works is to do a randomized trial, where we toss a coin to determine whether someone gets the vaccine or a placebo. In a large trial, randomization can ensure that all confounders are about the same in both vaccine and placebo groups.
-All other methods require making a lot of assumptions which are certainly worthy of questioning. For example, reduce the skew due to confounders, observational studies can "adjust" the analysis on various suspected confounding variables to ensure that those suspected confounding factors are roughly the same in the comparisons. While this can help, it can introduce its own problems, especially in retrospective observational studies:
+All other methods require making a lot of assumptions which are certainly worthy of questioning. For example, reduce the skew due to confounders, observational studies can "adjust" the analysis on various suspected confounding variables to ensure that those suspected confounding factors are roughly the same in the comparisons. While this can help, it can introduce its own problems, especially in retrospective observational studies, as we will discuss below.
 
-Observational studies can be prospective or retrospective. In prospective studies, ideally, the scientists pre-declare exactly what things they would measure and what are the few hypotheses they are testing. Then they start the study and observe the differences in the future. In retrospective studies, scientists go back and look into historical records to find the differences. Retrospective observational studies bring in their own set of additional pitfalls:
+### How similar quality evidence led us astray: HRT
+
+The current evidence of the safety of the MMR vaccine looks almost exactly like the evidence of the safety of
+Hormone Replacement Therapy looked like prior to the first RCT about it:
+The Nurses' Heath Study (NHS) began in 1976, tracking the health of 121,700 registered nurses in the United States. Over the years, this study has provided a wealth of data on various aspects of women's health, including the use of HRT. In 1985, the NHS began following post-menopausal women who were using HRT.
+Findings from the NHS suggested that women using HRT had a significantly lower risk of developing coronary heart disease compared to women who didn't use HRT. These findings, along with similar results from other observational studies, led many doctors to recommend HRT for post-menopausal women to protect against heart disease.
+
+### How similar quality evidence led us astray: Vitamin E for cancer
+
 
 ### Retrospective observational studies: additional pitfalls
+Observational studies can be prospective or retrospective. In prospective studies, ideally, the scientists pre-declare exactly what things they would measure and what are the few hypotheses they are testing.
+Then they start the study and observe the differences in the future. In retrospective studies, scientists go back and look into historical records to find the differences. Retrospective observational studies bring in their own set of additional pitfalls:
 #### P-hacking
 Designing an retrospective observational study requires making many, many choices: which source to collect
 data from, how to verify the data accuracy, which study subjects to include/exclude, which time period to consider, how to precisely define the variable being measured (e.g. what exactly is considered autism), which suspected confounding factors to adjust. It is often very easy to make these choices to obtain any conclusion you want: often there sets of choices that arrive at completely opposite conclusion.
@@ -156,6 +166,13 @@ ethylmercury in hair: https://pubmed.ncbi.nlm.nih.gov/21575620/
 ### Flu vaccines during pregnancy
 ### DTP natural experiment
 ### HPV trials
+
+
+## Downplaying treatments
+For very rare disease like tetanus, treatments make much more sense because very few people would need them, thus even if there are some harms, very few people would be affected. Even for non-rare diseases like measles, if there was an effective treatment with slightly more risks than a vaccine, it may be a good tradeoff because many people would not need the treatment: 30% of measles infections are asymptomatic and there appears to be long-term benefits from surviving a mild measles infection: lifelong immunity (unlike MMR) and associated with lower rate of cancer.
+### Vitamin A for Measles
+Has better quality evidence showing effectiveness (although less effectiveness) than MMR
+### Vitamin C for tetanus
 
 ### Ending the cat and mouse game: prove safety rather than reacting to safety concerns
 Paul Offits laments that the narrative from vaccine safety skeptics has kept on changing:
