@@ -23,15 +23,15 @@ I also look at the papers Peter Hotez cited in his [book](https://books.google.c
 There are several studies RETROSPECTIVELY comparing the rates of autism in those who got MMR and those who didn't. Most vaccine evangelists point to these papers first when making the claim that vaccines do not cause autism.
 For example, in the section titled "Childhood Vaccines Cause Autism: Got it Wrong", Dr. Vinay Prasad only provides [this paper](https://www.acpjournals.org/doi/10.7326/m18-2101) and a similar earlier paper from 2015 as evidence.
 This paper retrospectively looked at "657,461 children born in Denmark from 1999 through 31 December 2010, with follow-up from 1 year of age and through 31 August 2013." and compared the rates of autism among the vaccinated and the unvaccinated children. "Comparing MMR-vaccinated with MMR-unvaccinated children yielded a fully adjusted autism hazard ratio of 0.93 (95% CI, 0.85 to 1.02).". Roughly speaking, they found that an MMR vaccinated child is 0.93 times as likely as a "similar" unvaccinated child to get autism. The 95% confidence interval is mostly
-under 1 and barely crosses 1. A confidence interval slightly lower than 95% may be totally below 1.
-While this is reassuring, we need to understand the limitations of this study:
+under 1 and barely crosses 1. The interval of confidence slightly lower than 95% may be totally below 1.
+While this is somewhat reassuring that the MMR vaccine does not cause autism, we need to understand the limitations of this study:
 
 ### observational studies to prove/disprove causality: pitfalls
 
 It is well known that correlation does not imply causation.
 What appears less known among medical scientists is that negative/0 correlation also does not imply lack of causation, even though that [seems obvious to statisticians](https://stats.stackexchange.com/questions/221936/does-no-correlation-imply-no-causality).
 The reason for both is the same: confounding variables can alter the impact of the variables being tested in *either* direction: they can both increase or decrease the correlation from the causal strength.
-My concern is not theoretical: in the field of medical drugs and nutrition, there are many, [many cases](https://chat.openai.com/share/783eb0d4-2cb6-4390-959a-49d7634b4384) where some intervention (e.g. Vitamin E, Hormone Replacement Therapy) was found to be slightly helpful in large observational studies but turned out to be ineffective or even somewhat harmful in large RCTs, which can reliably judge causality. I will summarize those cases and sketch the parallels with the vaccine safety evidence. But first, lets get back to the above MMR study:
+My concern is not theoretical: in the field of medical drugs and nutrition, there are many, [many cases](https://chat.openai.com/share/783eb0d4-2cb6-4390-959a-49d7634b4384) where some intervention (e.g. Vitamin E, Hormone Replacement Therapy) was found to be slightly helpful in large observational studies but turned out to be ineffective or even somewhat harmful in large RCTs, which can reliably judge causality. I will summarize those cases and sketch the parallels with the vaccine safety evidence. But first, lets get back to the above MMR study.
 
 The negative correlation seen above may be because of one of the many possibilities (not an exhaustive list):
 1. MMR genuinely has nothing to do with autism
@@ -39,15 +39,21 @@ The negative correlation seen above may be because of one of the many possibilit
 2. MMR causes a huge reduction in the chance of autism and some other confounding factor cancels out most of that benefit. A possible confounder could be that people who reject vaccines tend to be "naturalists" and thus also do some other beneficial stuff like reject tylenol ([associated with autism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9385573/?fc=20210113063650&ff=20220822073638&v=2.17.7), but may or may not be causal) or pesticide-laden food. At least some pesticides have been proven to be harmful after decades of use.
 3. MMR causes an increase in the chance of autism and some other confounding factors more than cancels out the slight increase. There can be many confounding factors, e.g. children who are vaccinated may have richer parents and their mothers may have had better access to care/adequate-nutrition during pregnancy. Nutrition, e.g. folate and B12 are known to play an important role in neurodevelopment in the first trimester.
 
-Exactly which possibility we are in is hard to determine. The only way that obviously works is to do a randomized trial, where we toss a coin to determine whether someone gets the vaccine or a placebo. In a large trial, randomization can ensure that all confounders are about the same in both vaccine and placebo groups.
+Exactly which possibility we are in is hard to determine. The only way that obviously works is to do a Randomized Controlled Trial (RCT), where we toss a coin to determine whether someone gets the vaccine or a placebo. In a large trial, randomization can ensure that all confounders are about the same in both vaccine and placebo groups.
 All other methods require making a lot of assumptions which are certainly worthy of questioning. For example, reduce the skew due to confounders, observational studies can "adjust" the analysis on various suspected confounding variables to ensure that those suspected confounding factors are roughly the same in the comparisons. While this can help, it can introduce its own problems, especially in retrospective observational studies, as we will discuss below.
 
 ### How similar quality evidence led us astray: HRT
 
-The current evidence of the safety of the MMR vaccine looks almost exactly like the evidence of the safety of
-Hormone Replacement Therapy looked like prior to the first RCT about it:
-The Nurses' Heath Study (NHS) began in 1976, tracking the health of 121,700 registered nurses in the United States. Over the years, this study has provided a wealth of data on various aspects of women's health, including the use of HRT. In 1985, the NHS began following post-menopausal women who were using HRT.
-Findings from the NHS suggested that women using HRT had a significantly lower risk of developing coronary heart disease compared to women who didn't use HRT. These findings, along with similar results from other observational studies, led many doctors to recommend HRT for post-menopausal women to protect against heart disease.
+The current evidence of the safety of the MMR vaccine looks similar to the evidence of the safety of
+Hormone Replacement Therapy (HRT) looked like prior to the first RCT about it: large observational studies
+*consistently* showed that HRT was associated with fewer cardiovascular events (e.g. heart attacks, strokes).
+For example, the Nurses Health Study (NHS) [found](https://pubmed.ncbi.nlm.nih.gov/11119394/) that "the risk for major coronary events was lower among current users of hormone therapy, including short-term users, compared with never-users (relative risk, 0.61 [95% CI, 0.52 to 0.71])".
+The negative correlation of HRT with cardiovascular outcomes in NHS was even stronger than the slightly negative correlation of MMR with autism in the above study. Yet, when the Women's Health Initiative did the first Randomized Trial to reliably assess the causality, it was [found](https://jamanetwork.com/journals/jama/fullarticle/195120) to actually increase the risk of not only heart disease but also breast cancer:
+
+>  Estimated hazard ratios (HRs) (nominal 95% confidence intervals [CIs]) were as follows: Coronary Heart Disease, 1.29 (1.02-1.63) with 286 cases; breast cancer, 1.26 (1.00-1.59) with 290 cases; stroke, 1.41 (1.07-1.85) with 212 cases; Pumonary Embolism, 2.13 (1.39-3.25) with 101 cases
+
+If confounders can cause something causing more heart disease to be associated with less heart disease, it can surely cause something more causing autism to be associated with slightly less autism.
+Had Cardiologists been as biased as Vaccinologists and declared "settled-science" very prematurely at the consistent negative correleation of HRT with heart disease, many women would have lost their lives to heart disease and breast cancer.
 
 ### How similar quality evidence led us astray: Vitamin E for cancer
 
