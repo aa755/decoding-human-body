@@ -7,14 +7,23 @@ draft: true
 ---
 Many prominent vaccine scientists, e.g. Paul Offit and Peter Hotez, think that the safety of ALL childhood vaccines has been proven so well that no debates should be done about it, and no better-designed trials are needed, [unlike some other medical scientists who specialize in reliability of medical evidence](https://vinayprasadmdmph.substack.com/p/the-only-real-solution-to-vaccine?publication_id=231792&post_id=131012417&isFreemail=false).
 Fortunately, now that many people have seen up close how fast the “settled-science” of effectiveness and safety of Covid vaccines [changed](https://twitter.com/0rf/status/1669030822215655436), more people are questioning the field of vaccine “science” which often behaves more like a religion than science.
-Although, I do agree with them that sometimes RFK Jr relies on weak evidence to make claims like vaccines cause harms, I show that those prominent vaccine scientists use similarly weak evidence to make claims of vaccine safety. Also, they cherry pick only the studies that validate their biases with weak evidence and completely ignore similarly weak or sometimes xeven the much stroger evidence that goes against their biases.
+Although, I do agree with them that sometimes (not always) RFK Jr relies on weak evidence to make claims like vaccines cause harms,
+I show that those prominent vaccine scientists use similarly weak evidence to make claims of vaccine safety.
+Also, they cherry pick only the studies that validate their biases with weak evidence and completely ignore similarly weak or sometimes even the much stroger evidence that goes against their biases.
+Indeed, while they make the case of the safety of vaccines largely based on observational studies which are often inconsistent (they dont show the conflicting studies) and prone to confounders and P-hacking, and based on very inaquately powered (sized) animal experiments,
+I make the case of the harms of some dead-virus childhood/pregnancy vaccines based on Randomized Controlled Trials. In all other fields of science, they are the gold standard of evidence that can separate correlation from causation, but somehow prominent vaccine scientists ignore them even when such trials are available and instead cite much less unreliable evidence.
+
 
 First, I review the evidence Paul Offit and Peter Hotez presents to claim that safety of childhood vaccines is settled science.
-I focus most of this post on [this paper](https://pubmed.ncbi.nlm.nih.gov/26417097/) in which Paul Offit claims to settle the question. I will first go over the evidence Paul presents. I catergorize the evidence
-into 3 categories: obervational studies, animal experiments, randomized controlled trials (gold standard).
-For each piece of evidence in each category I discuss their limitations, with concrete examples of how similarly weak evidence have misguided humanity in related fields like nutrition. In many such cases, Paul Offit presented a very biased selection of papers, ignoring the many papers of similar (and sometimes even better) quality on the same subtopic that provide evidence of the opposite.
+I focus most of this post on [this paper](https://pubmed.ncbi.nlm.nih.gov/26417097/) in which Paul Offit claims to settle the question.
+For each piece of evidence in each category I discuss their limitations, with concrete examples of how similarly weak evidence have misguided humanity in related fields like nutrition.
+Finally I present the data, including RCTs and pseudo-RCTs that in my opinion are the strongest evidence of harms of vaccines in general: all of these happen to be *dead-virus* vaccines.
+(There is better evidence of the safety and benefits of *live-virus* vaccines than what Paul cites.  But I also think they are safe and beneficial so I only very briefly discuss that evidence and focus on the parts we disagree: safety of dead-virus vaccines)
 
 {% comment %}
+For some live-virus vaccines there is stronger evidence of benefits than what Paul cites, and I do briefly discuss them
+In many such cases, I show how Paul presented a very biased selection of papers, ignoring the many papers of similar (and sometimes even better) quality on the same subtopic that provide evidence of the opposite.
+
 I also look at the papers Peter Hotez cited in his [book](https://books.google.com/books/about/Vaccines_Did_Not_Cause_Rachel_s_Autism.html?id=NkpyDwAAQBAJ) about safety of childhood vaccines, and some more recent papers that have been cited by scientists claiming safety of specific childhood vaccines.
 {% endcomment %}
 
@@ -32,15 +41,15 @@ What appears less known among medical scientists is that negative/0 correlation 
 The reason for both is the same: confounding variables can alter the impact of the variables being tested in *either* direction: they can both increase or decrease the correlation from the causal strength.
 The only way that obviously works is to do a Randomized Controlled Trial (RCT), where we toss a coin to determine whether someone gets the vaccine or a placebo. In a large trial, randomization can ensure that all confounders are about the same in both vaccine and placebo groups.
 All other methods require making a lot of assumptions which are certainly worthy of questioning.
-My concern is not theoretical: in the field of medical drugs and nutrition, there are many, [many cases](https://chat.openai.com/share/783eb0d4-2cb6-4390-959a-49d7634b4384) where some intervention (e.g. Vitamin E, Hormone Replacement Therapy) was found to be slightly helpful in large observational studies but turned out to be ineffective or even somewhat harmful in large RCTs, which can reliably judge causality. I will summarize those cases and sketch the parallels with the vaccine safety evidence.
-Even though I believe that live-virus vaccines like MMR do NOT cause autism because of other data -- including RCTs -- that Offit/Hotez do not cite,
-because MMR is the most studied vaccine for autism and other vaccines have even worse quality safety data, I will use the above observational study to illustrate the pitfalls
+My concern is not theoretical: in the field of medical drugs and nutrition, there are many, many cases where some intervention (e.g. Vitamin E, Hormone Replacement Therapy) was found to be slightly helpful in large observational studies but turned out to be ineffective or even somewhat harmful in large RCTs, which can reliably judge causality. I will summarize those cases and sketch the parallels with the vaccine safety evidence.
+I will use the above observational study to illustrate the pitfalls
 of relying on observational studies (instead of RCTs) for proving safety, as Offit and Hotez do.
+TODO: consider replacing the MMR study by some study of a dead-virus vaccine since I suspect MMR the least to cause issues. Hep B would be ideal. Christine says she studied it and found NSE deleterious effects. But it should be a study that Paul Offit cites
 
 The negative correlation seen above may be because of one of the many possibilities (not an exhaustive list):
 1. MMR genuinely has nothing to do with autism
 2. MMR causes a small reduction in the chance of autism, close to the mean RR of 0.93
-2. MMR causes a huge reduction in the chance of autism and some other confounding factor cancels out most of that benefit. A possible confounder could be that people who reject vaccines tend to be "naturalists" and thus also do some other beneficial stuff like reject tylenol ([associated with autism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9385573/?fc=20210113063650&ff=20220822073638&v=2.17.7), but may or may not be causal) or pesticide-laden food. At least some pesticides have been proven to be harmful after decades of use.
+2. MMR causes a large reduction in the chance of autism and some other confounding factor cancels out most of that benefit. A possible confounder could be that people who reject vaccines tend to be "naturalists" and thus also do some other beneficial stuff like reject tylenol ([associated with autism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9385573/?fc=20210113063650&ff=20220822073638&v=2.17.7), but may or may not be causal) or pesticide-laden food. At least some pesticides have been proven to be harmful after decades of use. Another possible confounder could be that children who got MMR also got dead-virus vaccines like DTaP/HepB, at least the latter is associated with autism in at least 1 [study](https://pubmed.ncbi.nlm.nih.gov/21058170/).
 3. MMR causes an increase in the chance of autism and some other confounding factors more than cancels out the slight increase. There can be many confounding factors, e.g. children who are vaccinated may have richer parents and their mothers may have had better access to care/adequate-nutrition during pregnancy. Nutrition, e.g. folate and B12 are known to play an important role in neurodevelopment in the first trimester.
 
 Without randomization, exactly which possibility we are in is hard to determine. To reduce the skew due to confounders, observational studies can "adjust" the analysis on various suspected confounding variables to ensure that those suspected confounding factors are roughly the same in the comparisons. While this can help, it can introduce its own problems, especially in retrospective observational studies, as we will discuss below.
@@ -51,7 +60,7 @@ The current evidence of the safety of the MMR vaccine looks similar to the evide
 Hormone Replacement Therapy (HRT) looked like prior to the first RCT about it: large observational studies
 *consistently* showed that HRT was associated with fewer cardiovascular events (e.g. heart attacks, strokes).
 For example, the Nurses Health Study (NHS) [found](https://pubmed.ncbi.nlm.nih.gov/11119394/) that "the risk for major coronary events was lower among current users of hormone therapy, including short-term users, compared with never-users (relative risk, 0.61 [95% CI, 0.52 to 0.71])".
-The negative correlation of HRT with cardiovascular outcomes in NHS was even stronger than the slightly negative correlation of MMR with autism in the above study. Yet, when the Women's Health Initiative did the first Randomized Trial to reliably assess the causality, it was [found](https://jamanetwork.com/journals/jama/fullarticle/195120) to actually increase the risk of not only heart disease but also breast cancer:
+The negative correlation of HRT with cardiovascular outcomes in NHS was even stronger than the slightly negative correlation of MMR with autism in the above study. Yet, when the Women's Health Initiative (WHI) did the first Randomized Trial to reliably assess the causality, it was [found](https://jamanetwork.com/journals/jama/fullarticle/195120) to actually increase the risk of not only heart disease but also breast cancer:
 
 >  Estimated hazard ratios (HRs) (nominal 95% confidence intervals [CIs]) were as follows: Coronary Heart Disease, 1.29 (1.02-1.63) with 286 cases; breast cancer, 1.26 (1.00-1.59) with 290 cases; stroke, 1.41 (1.07-1.85) with 212 cases; Pumonary Embolism, 2.13 (1.39-3.25) with 101 cases
 
@@ -101,8 +110,62 @@ They [cite](https://stevekirsch.substack.com/p/key-paper-showing-no-link-between
 Although this does not necessarily invalidate the study completely, at the very least, the study's power to find the effect of MMR vaccination was much lower than its large numbers suggest: if you compare the MMR vaccinated to the MMR vaccinated you will likely find no difference.
 But even that is assuming that the chance of a MMR vaccinated child misclassified as unvaccinated is independent of the chance of developing autism. That assumption can be questioned.
 
+## animal trials
+Offit cites: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4603476/
+Opposite result in: https://doi.org/10.1080/15287394.2010.484709 : by the time of this study, Thimerosal was removed from the HepB vaccine so they bought the Thimerosal-free vaccine (contains aluminium) and added thimerosal at 1/3 of human dose (macaque infants are 1/3 human size)
 
-### cherry-picking and double standards: dead-virus vs live-virus vaccines
+### end-to-end outcomes
+A little more than a decade ago, RFK Jr asked the question
+"why does the CDC ask pregnant women to avoid fish because of mercury content but recommends injecting vaccines containing thimerosal (organic mercury) to them".
+The response from vaccine evangelists like Paul Offit [was](https://pauloffit.substack.com/p/my-conversation-with-robert-f-kennedy) that fish contains methyl mercury while vaccines contain ethylmercury (thimerosal) and the latter is much less harmful. He says
+> While methylmercury has a half-life in the bloodstream of about 70 days, ethylmercury has a half-life of seven days. So, it’s much less likely to accumulate and do harm.
+
+He cites the [Pichichero](https://pubmed.ncbi.nlm.nih.gov/18245396/)
+for the toxicology of ethylmercury, while RFK Jr cites the [Burbacher](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1280342/).
+The Pichichero measured mercury in the blood, urine, and feces of human infants receiving thimerosal-containing vaccines at 12 hours to 30 days post injection.
+They found that
+> The blood mercury half-life was calculated to be 3.7 days and returned to prevaccination levels by day 30.
+
+It is good that at least after 30 days, the blood levels of mercury comes back to prevaccination levels.
+It at least says that perhaps after 30 days, the brain is not being exposed to mercury from the bloodtream.
+But from that it is impossible to conclude how mercury ended up staying in the brain and what damage, if any, was done in those 30 days.
+
+The Burbacher study, cited by RFK Jr, comes closer to answering those questions: they measured mercury levels in monkey infants at 2, 4, 7, or 28 days after the vaccination with thimerosal-containing vaccines.
+
+### themirosal
+
+
+Paul Offit quotes the following line from the Burbacher paper:
+> no serious medical complications were observed in any of the monkeys.
+
+The monkeys were only observed for 25 days. This is way to short for autism like behaviours to even
+begin appearing. But he is right that there is no mention of any brain inflammation being found
+
+
+
+flu vaccines are the only vaccines that still have thimerosal. in 1st trimester, they are correlated with autism
+https://pubmed.ncbi.nlm.nih.gov/27893896/
+
+this study, which Paul Offit ironically cites for "proving" safety of thermisolxs analyzed data from 3HMOs. in the largest HMO (N=110,833), thermison vaccines were correlated with language delay. in the other 2 HMO's, which were much smaller (n=13K, 16K), no significant correlation was found. They use this inconsistency has evidence of non-causality. but the large size difference suggests that the other 2 HMOs were rather too small to detect a small effect if there is one.
+https://publications.aap.org/pediatrics/article-abstract/112/5/1039/28714/Safety-of-Thimerosal-Containing-Vaccines-A-Two?redirectedFrom=fulltext
+
+Covid mrna vacines have a similar story: first they said never goes into the circulation and remains in muscle and does it job and is gone in a few days.
+then when a study showed some mrna in the bloodstream. response: of course a little bit goes into the circulation: nothing to worry about. then some studies show it persists for weeks in some recipients.
+then studies seem to implicate it causing myocarditis.
+
+
+> In fact, studies have shown that EtHg levels in hair are positively correlated with the number of TCV inoculations (Dórea et al. 2011). Although the time-frame between vaccinations allows for a decrease in EtHg levels, this additional mercury source may potentially contribute to aggravate neurotoxic effects in populations already exposed to other Hg sources and species (e.g. consumption of fish with high MeHg) (Dórea, Marques, and Isejima 2012).
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8276940/
+
+> The results indicate that ethylmercury-containing compounds are actively transported across membranes by the L (leucine-preferring)-amino acid transport (LAT) system, the same as methylmercury-containing compounds. Further, 22 studies from 1971 to 2019 show that exposure to ethylmercury-containing compounds (intravenously, intraperitoneally, topically, subcutaneously, intramuscularly, or intranasally administered) results in accumulation of mercury in the brain. In total, these studies indicate that ethylmercury-containing compounds and Thimerosal readily cross the BBB, convert, for the most part, to highly toxic inorganic mercury-containing compounds, which significantly and persistently bind to tissues in the brain, even in the absence of concurrent detectable blood mercury levels
+
+https://www.sciencedirect.com/science/article/abs/pii/S1382668919301875
+
+ethylmercury in hair: https://pubmed.ncbi.nlm.nih.gov/21575620/
+### aluminium
+
+## studies/trials showing harm from dead-virus vaccines
 
 The most vocal vaccine scientists in the US, like Paul Offit and Peter Hotez, tend to cherry-pick studies that confirm their biases and completely ignore the ones that dont.
 Any honest scientist should at least ackowledge that there exists research that similar/better methodology as the research they cite, yet come to a different conclusion.
@@ -147,58 +210,6 @@ But in this case, they suffer from an easily avoidable problem: they are too und
 ### atopic dermatitis: schedule vs delayed vaccination
 
 
-## animal trials
-
-### end-to-end outcomes
-A little more than a decade ago, RFK Jr asked the question
-"why does the CDC ask pregnant women to avoid fish because of mercury content but recommends injecting vaccines containing thimerosal (organic mercury) to them".
-The response from vaccine evangelists like Paul Offit [was](https://pauloffit.substack.com/p/my-conversation-with-robert-f-kennedy) that fish contains methyl mercury while vaccines contain ethylmercury (thimerosal) and the latter is much less harmful. He says
-> While methylmercury has a half-life in the bloodstream of about 70 days, ethylmercury has a half-life of seven days. So, it’s much less likely to accumulate and do harm.
-
-He cites the [Pichichero](https://pubmed.ncbi.nlm.nih.gov/18245396/)
-for the toxicology of ethylmercury, while RFK Jr cites the [Burbacher](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1280342/).
-The Pichichero measured mercury in the blood, urine, and feces of human infants receiving thimerosal-containing vaccines at 12 hours to 30 days post injection.
-They found that
-> The blood mercury half-life was calculated to be 3.7 days and returned to prevaccination levels by day 30.
-
-It is good that at least after 30 days, the blood levels of mercury comes back to prevaccination levels.
-It at least says that perhaps after 30 days, the brain is not being exposed to mercury from the bloodtream.
-But from that it is impossible to conclude how mercury ended up staying in the brain and what damage, if any, was done in those 30 days.
-
-The Burbacher study, cited by RFK Jr, comes closer to answering those questions: they measured mercury levels in monkey infants at 2, 4, 7, or 28 days after the vaccination with thimerosal-containing vaccines.
-
-### themirosal
-
-
-Paul Offit quotes the following line from the Burbacher paper:
-> no serious medical complications were observed in any of the monkeys.
-
-The monkeys were only observed for 25 days. This is way to short for autism like behaviours to even
-begin appearing. But he is right that there is no mention of any brain inflammation being found
-
-
-
-flu vaccines are the only vaccines that still have thimerosal. in 1st trimester, they are correlated with autism
-https://pubmed.ncbi.nlm.nih.gov/27893896/
-
-this study, which Paul Offit ironically cites for "proving" safety of thermisolxs analyzed data from 3HMOs. in the largest HMO (N=110,833), thermison vaccines were correlated with language delay. in the other 2 HMO's, which were much smaller (n=13K, 16K), no significant correlation was found. They use this inconsistency has evidence of non-causality. but the huge size difference suggests that the other 2 HMOs were rather too small to detect a small effect if there is one.
-https://publications.aap.org/pediatrics/article-abstract/112/5/1039/28714/Safety-of-Thimerosal-Containing-Vaccines-A-Two?redirectedFrom=fulltext
-
-Covid mrna vacines have a similar story: first they said never goes into the circulation and remains in muscle and does it job and is gone in a few days.
-then when a study showed some mrna in the bloodstream. response: of course a little bit goes into the circulation: nothing to worry about. then some studies show it persists for weeks in some recipients.
-then studies seem to implicate it causing myocarditis.
-
-
-> In fact, studies have shown that EtHg levels in hair are positively correlated with the number of TCV inoculations (Dórea et al. 2011). Although the time-frame between vaccinations allows for a decrease in EtHg levels, this additional mercury source may potentially contribute to aggravate neurotoxic effects in populations already exposed to other Hg sources and species (e.g. consumption of fish with high MeHg) (Dórea, Marques, and Isejima 2012).
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8276940/
-
-> The results indicate that ethylmercury-containing compounds are actively transported across membranes by the L (leucine-preferring)-amino acid transport (LAT) system, the same as methylmercury-containing compounds. Further, 22 studies from 1971 to 2019 show that exposure to ethylmercury-containing compounds (intravenously, intraperitoneally, topically, subcutaneously, intramuscularly, or intranasally administered) results in accumulation of mercury in the brain. In total, these studies indicate that ethylmercury-containing compounds and Thimerosal readily cross the BBB, convert, for the most part, to highly toxic inorganic mercury-containing compounds, which significantly and persistently bind to tissues in the brain, even in the absence of concurrent detectable blood mercury levels
-
-https://www.sciencedirect.com/science/article/abs/pii/S1382668919301875
-
-ethylmercury in hair: https://pubmed.ncbi.nlm.nih.gov/21575620/
-### aluminium
 
 ## Human RCTs
 ### Flu vaccines
