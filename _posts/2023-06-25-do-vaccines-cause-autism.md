@@ -30,7 +30,12 @@ While this is somewhat reassuring that the MMR vaccine does not cause autism, we
 It is well known that correlation does not imply causation.
 What appears less known among medical scientists is that negative/0 correlation also does not imply lack of causation, even though that [seems obvious to statisticians](https://stats.stackexchange.com/questions/221936/does-no-correlation-imply-no-causality).
 The reason for both is the same: confounding variables can alter the impact of the variables being tested in *either* direction: they can both increase or decrease the correlation from the causal strength.
-My concern is not theoretical: in the field of medical drugs and nutrition, there are many, [many cases](https://chat.openai.com/share/783eb0d4-2cb6-4390-959a-49d7634b4384) where some intervention (e.g. Vitamin E, Hormone Replacement Therapy) was found to be slightly helpful in large observational studies but turned out to be ineffective or even somewhat harmful in large RCTs, which can reliably judge causality. I will summarize those cases and sketch the parallels with the vaccine safety evidence. But first, lets get back to the above MMR study.
+The only way that obviously works is to do a Randomized Controlled Trial (RCT), where we toss a coin to determine whether someone gets the vaccine or a placebo. In a large trial, randomization can ensure that all confounders are about the same in both vaccine and placebo groups.
+All other methods require making a lot of assumptions which are certainly worthy of questioning.
+My concern is not theoretical: in the field of medical drugs and nutrition, there are many, [many cases](https://chat.openai.com/share/783eb0d4-2cb6-4390-959a-49d7634b4384) where some intervention (e.g. Vitamin E, Hormone Replacement Therapy) was found to be slightly helpful in large observational studies but turned out to be ineffective or even somewhat harmful in large RCTs, which can reliably judge causality. I will summarize those cases and sketch the parallels with the vaccine safety evidence.
+Even though I believe that live-virus vaccines like MMR do NOT cause autism because of other data -- including RCTs -- that Offit/Hotez do not cite,
+because MMR is the most studied vaccine for autism and other vaccines have even worse quality safety data, I will use the above observational study to illustrate the pitfalls
+of relying on observational studies (instead of RCTs) for proving safety, as Offit and Hotez do.
 
 The negative correlation seen above may be because of one of the many possibilities (not an exhaustive list):
 1. MMR genuinely has nothing to do with autism
@@ -38,8 +43,7 @@ The negative correlation seen above may be because of one of the many possibilit
 2. MMR causes a huge reduction in the chance of autism and some other confounding factor cancels out most of that benefit. A possible confounder could be that people who reject vaccines tend to be "naturalists" and thus also do some other beneficial stuff like reject tylenol ([associated with autism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9385573/?fc=20210113063650&ff=20220822073638&v=2.17.7), but may or may not be causal) or pesticide-laden food. At least some pesticides have been proven to be harmful after decades of use.
 3. MMR causes an increase in the chance of autism and some other confounding factors more than cancels out the slight increase. There can be many confounding factors, e.g. children who are vaccinated may have richer parents and their mothers may have had better access to care/adequate-nutrition during pregnancy. Nutrition, e.g. folate and B12 are known to play an important role in neurodevelopment in the first trimester.
 
-Exactly which possibility we are in is hard to determine. The only way that obviously works is to do a Randomized Controlled Trial (RCT), where we toss a coin to determine whether someone gets the vaccine or a placebo. In a large trial, randomization can ensure that all confounders are about the same in both vaccine and placebo groups.
-All other methods require making a lot of assumptions which are certainly worthy of questioning. For example, reduce the skew due to confounders, observational studies can "adjust" the analysis on various suspected confounding variables to ensure that those suspected confounding factors are roughly the same in the comparisons. While this can help, it can introduce its own problems, especially in retrospective observational studies, as we will discuss below.
+Without randomization, exactly which possibility we are in is hard to determine. To reduce the skew due to confounders, observational studies can "adjust" the analysis on various suspected confounding variables to ensure that those suspected confounding factors are roughly the same in the comparisons. While this can help, it can introduce its own problems, especially in retrospective observational studies, as we will discuss below.
 
 ### How similar quality evidence led us astray: HRT
 
@@ -98,13 +102,17 @@ Although this does not necessarily invalidate the study completely, at the very 
 But even that is assuming that the chance of a MMR vaccinated child misclassified as unvaccinated is independent of the chance of developing autism. That assumption can be questioned.
 
 
-### cherry-picking and double standards: studies associating vaccines with harms
+### cherry-picking and double standards: dead-virus vs live-virus vaccines
 
-The most vocal vaccine scientists in the US, like Paul Offit and Peter Hotez, tend to cherry-pick studies that confirm their biases and completely ignore the ones that dont. Any honest scientist should at least ackowledge that there exists research that similar/better methodology as the research they cite, yet come to a different conclusion. In this subsection, I will show some published unretracted observational studies and even some quasi-randomized trials showing that some dead-virus vaccines like DTP (unlike MMR, which is a live-virus vaccine) are associated with harm
-and live-virus vaccines (e.g. MMR, MV) are associated with benefits beyond prevention of the target disease.
-There is infact a huge literature showing that although dead-virus vaccines are associated with protection against the target disease, they are associated with adverse effects unrelated to the target disease (called non-specific effects).
+The most vocal vaccine scientists in the US, like Paul Offit and Peter Hotez, tend to cherry-pick studies that confirm their biases and completely ignore the ones that dont.
+Any honest scientist should at least ackowledge that there exists research that similar/better methodology as the research they cite, yet come to a different conclusion.
+In this subsection, I will show some published unretracted observational studies and even some quasi-randomized trials showing that some dead-virus vaccines
+like DTP (unlike MMR, which is a live-virus vaccine) are associated with harm and live-virus vaccines (e.g. MMR, MV) are associated with benefits beyond prevention of the target disease.
+These have been replicated many times, in different countries.
 For example, in several countries, introduction of the DTP vaccine was followed by an increase in the death rate of children.
-The same literature, often from [the same research group](https://www.bandim.org/about-bandim-health-project/staff/) has shown that live-virus vaccines are associated with unrelated (non-speficic) beneficial effects, like protection against non-target diseases.
+The same literature, often from [the same research group](https://www.bandim.org/about-bandim-health-project/staff/) has shown that
+live-virus vaccines are associated with unrelated (non-speficic) beneficial effects, like protection against non-target diseases.
+Both the negative effects associated with
 
 That research group since has inspired many other research groups around the world to replicate their findings, and indeed others groups have also replicated their findings, so much so that there are now conferences dedicated to studying non-specific effects of vaccines.
 
