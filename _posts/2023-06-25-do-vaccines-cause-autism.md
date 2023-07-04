@@ -10,8 +10,8 @@ Fortunately, now that many people have seen up close how fast the “settled-sci
 Although, I do agree with them that sometimes (not always) RFK Jr relies on weak evidence to make claims like vaccines cause harms,
 I show that those prominent vaccine scientists use similarly weak evidence to make claims of vaccine safety.
 Also, they cherry pick only the studies that validate their biases with weak evidence and completely ignore similarly weak or sometimes even the much stroger evidence that goes against their biases.
-Indeed, while they make the case of the safety of vaccines largely based on very inaquately powered (sized) animal experiments and human observational studies which are prone to confounders and P-hacking,
-I make the case of the harms of some non-live childhood/pregnancy vaccines based on Randomized Controlled Trials (RCTs). In all other fields of science, they are the gold standard of evidence that can separate correlation from causation due to randomization, but somehow prominent vaccine scientists ignore them even when such trials are available and instead cite much less unreliable evidence.
+Indeed, while they make the case of the safety of vaccines only based on very inaquately powered (sized) animal experiments and human observational studies which are prone to confounders and P-hacking,
+many of my claims of harms of some non-live vaccines are based on Randomized Controlled Trials (RCTs). In all other fields of science, they are the gold standard of evidence that can separate correlation from causation due to randomization, but somehow prominent vaccine scientists ignore them even when such trials are available and instead cite much less unreliable evidence.
 
 
 First, I review the evidence Paul Offit and Peter Hotez presents to claim that safety of childhood vaccines is settled science.
@@ -136,62 +136,88 @@ A Cornell Professor in nutrition was found to actually [encourage](https://www.b
 One way to mitigate the p-hacking issues is to release the full raw data (after pseudodnymization), so that others can find if there are reasonable analyses that come to the opposite conclusion. In the case of the CDC masking study, the open data is what enabled other researchers to spot the P-hacking.
 but unlike fields like computer science, openness and reproducibility in medical science has a [dismal situation](https://maryannedemasi.substack.com/p/despite-progress-in-data-transparency).
 
-## animal trials
-Offit cites: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4603476/
-Opposite result in: https://doi.org/10.1080/15287394.2010.484709 : by the time of this study, Thimerosal was removed from the HepB vaccine so they bought the Thimerosal-free vaccine (contains aluminium) and added thimerosal at 1/3 of human dose (macaque infants are 1/3 human size)
+## animal experiments
 
-### end-to-end outcomes
-A little more than a decade ago, RFK Jr asked the question
-"why does the CDC ask pregnant women to avoid fish because of mercury content but recommends injecting vaccines containing thimerosal (organic mercury) to them".
-The response from vaccine evangelists like Paul Offit [was](https://pauloffit.substack.com/p/my-conversation-with-robert-f-kennedy) that fish contains methyl mercury while vaccines contain ethylmercury (thimerosal) and the latter is much less harmful. He says
-> While methylmercury has a half-life in the bloodstream of about 70 days, ethylmercury has a half-life of seven days. So, it’s much less likely to accumulate and do harm.
+Often, animan experiments are easier and/or more ethical to do than human experiments. For example, doing some measurements require killing the animal.
+The most interesting question to ask is whether vaccines, especially non-live vaccines cause any harm to animals.
+One could to a large randomized trial and give the entire weight-adjusted doses of the entire vaccine schedule to the experiment group and saline placebo to the controp group. This will provide solid evidence of the safety of human vaccines in animals. But even that hasn't been done, unlike what Paul claims.
+Once it is done, the only trouble would be to generalize the animal results to humans.
 
-He cites the [Pichichero](https://pubmed.ncbi.nlm.nih.gov/18245396/)
-for the toxicology of ethylmercury, while RFK Jr cites the [Burbacher](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1280342/).
-The Pichichero measured mercury in the blood, urine, and feces of human infants receiving thimerosal-containing vaccines at 12 hours to 30 days post injection.
-They found that
-> The blood mercury half-life was calculated to be 3.7 days and returned to prevaccination levels by day 30.
+To argue the safety of the entire vaccine schedule, Paul mainly cites [this paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4603476/), which gave the full 2008 vaccine chedule to 12 rhesus macaques and measured various
+biochemical and behavioural outcomes.
+The paper itself claims "Autism is a childhood neurodevelopmental disorder affecting
+approximately 1 in 70 children in the United States.".
+Even people with no formal education in math or probability theory can understand that an experiment on
+only 12 subjects cannot detect a condition that is as rare as 1 in 70 subjects.
+So, this study only tells me that vaccines do not cause autism in almost everyone that receives them, something that I already knew.
 
-It is good that at least after 30 days, the blood levels of mercury comes back to prevaccination levels.
-It at least says that perhaps after 30 days, the brain is not being exposed to mercury from the bloodtream.
-But from that it is impossible to conclude how mercury ended up staying in the brain and what damage, if any, was done in those 30 days.
+The paper further says:
 
-The Burbacher study, cited by RFK Jr, comes closer to answering those questions: they measured mercury levels in monkey infants at 2, 4, 7, or 28 days after the vaccination with thimerosal-containing vaccines.
+> No neuronal cellular or protein changes in the cerebellum, hippocampus, or amygdala were observed in animals following the 1990s or 2008 vaccine schedules.
 
-### themirosal
+Even this doesn't tell me much. Nobody knows the exact biochemical mechanisms by which autism occurs. So to imply that we can detect the biochemical changes that cause autism is hubris. The size issue anyway makes this largely irrelevant.
 
+Finally, the paper says:
 
-Paul Offit quotes the following line from the Burbacher paper:
-> no serious medical complications were observed in any of the monkeys.
+> Analysis of social behavior in juvenile animals indicated that there were no significant differences in negative behaviors between animals in the control and experimental groups.
 
-The monkeys were only observed for 25 days. This is way to short for autism like behaviours to even
-begin appearing. But he is right that there is no mention of any brain inflammation being found
+The behaviours they measured were very subjective: Passive, Explore, Play, Sex, Aggression, Withdrawal, Fear-disturbed, Rock-huddle-self-clasp, Stereotypy. Even if they had a good way to quantify these, there is huge room for P-hacking unless they pre-registered their protocol, which doesnt seem to be the case.
+Also, are these relevant to autism? Another study done in the same animal species measured different outcomes and they did find a statistically significant [delay in acquisition of 3 of the 9 reflexes](https://www.tandfonline.com/doi/abs/10.1080/15287394.2010.484709) in the vaccinated group. Data for all reflexes is below:
 
+[![missing image. please report to the author](/decoding-human-body/images/autism/reflexes.png)](https://www.tandfonline.com/doi/abs/10.1080/15287394.2010.484709)
 
-
-flu vaccines are the only vaccines that still have thimerosal. in 1st trimester, they are correlated with autism
-https://pubmed.ncbi.nlm.nih.gov/27893896/
-
-this study, which Paul Offit ironically cites for "proving" safety of thermisolxs analyzed data from 3HMOs. in the largest HMO (N=110,833), thermison vaccines were correlated with language delay. in the other 2 HMO's, which were much smaller (n=13K, 16K), no significant correlation was found. They use this inconsistency has evidence of non-causality. but the large size difference suggests that the other 2 HMOs were rather too small to detect a small effect if there is one.
-https://publications.aap.org/pediatrics/article-abstract/112/5/1039/28714/Safety-of-Thimerosal-Containing-Vaccines-A-Two?redirectedFrom=fulltext
-
-Covid mrna vacines have a similar story: first they said never goes into the circulation and remains in muscle and does it job and is gone in a few days.
-then when a study showed some mrna in the bloodstream. response: of course a little bit goes into the circulation: nothing to worry about. then some studies show it persists for weeks in some recipients.
-then studies seem to implicate it causing myocarditis.
+Both of the two animal studies are too small. It is certainly possible that the delays found in the latter experiment was a fluke finding, because of the small size. But larger animal trials should be done after experts of animal behaviour and growth define a good criteria to measure autism or other harms in animals.
+In the next section, I will describe a large dog RCT showing harms of the rabies vaccine in dogs.
 
 
-> In fact, studies have shown that EtHg levels in hair are positively correlated with the number of TCV inoculations (Dórea et al. 2011). Although the time-frame between vaccinations allows for a decrease in EtHg levels, this additional mercury source may potentially contribute to aggravate neurotoxic effects in populations already exposed to other Hg sources and species (e.g. consumption of fish with high MeHg) (Dórea, Marques, and Isejima 2012).
+## studies/RCTs showing harm of non-live vaccines
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8276940/
+Some of the most reliable evidence of harms comes from the Bandim research group which was responsible for rollout and meticulous health recording of children in Africa for several decades, going all the back to the first time the vaccination campaigns began. They made many extremely surprising observations about the effects of vaccines, namely, the vaccines have a broader impact on the immune system, such that the impact affects even many other communicable and non-communicable diseases.
+Many of these findings have been replicated by *other* groups around the world. Some of these findings have recently led to trials evaulating new ways to cure old diseases like type-1 diabetes.
+They found that live-virus vaccines train the immune system to fight even diseases unrelated to the target disease. To some extent, this is similar to how a machine learning systems in computer science trained to detect cars can generalize from the training set to detect cars that are significantly different from the cars in the training set. It also makes evolutionary sense as the live-virus vaccine works just like an regular infection: the virus goes in the body and replicates like a regular infection, only except that the virus is a variant attenuated to not cause disease. For billions of years, our immune systems have learned to generalize from such "training data" to be able to better fight disease that the body encounters in the future.
 
-> The results indicate that ethylmercury-containing compounds are actively transported across membranes by the L (leucine-preferring)-amino acid transport (LAT) system, the same as methylmercury-containing compounds. Further, 22 studies from 1971 to 2019 show that exposure to ethylmercury-containing compounds (intravenously, intraperitoneally, topically, subcutaneously, intramuscularly, or intranasally administered) results in accumulation of mercury in the brain. In total, these studies indicate that ethylmercury-containing compounds and Thimerosal readily cross the BBB, convert, for the most part, to highly toxic inorganic mercury-containing compounds, which significantly and persistently bind to tissues in the brain, even in the absence of concurrent detectable blood mercury levels
+There is solid proof of the above phenomena, not like the unreliable correlational evidence Paul cites.
+For example, the BCG vaccine was found to [reduce the death rate](https://academic.oup.com/cid/article/65/7/1183/4079383) of low-birthweight children (<2500g) by a whopping 43%(!) reduction in infectious disease mortality rate (MRR, 0.57; 95% CI, .35–.93). Tuberculosis does not cause that many deaths in Denmark, so the BCG vaccine appears to be teaching the newborn's immune system to better fight even other infections.
+(There is a minor full-disclosed concern of P-hacking here as the original trial protocol pre-declared
+[here](https://classic.clinicaltrials.gov/ct2/show/NCT00625482) *before* the trial listed overall death rate as the main outcome. BCG did not reduce non-infectious deaths as much and thus when considering all-cause deaths (combining infections and non-fections), the reduction was diluted to: 30% with 95% confidence interval slightly crossing 1: (MRR, 0.70; 95% confidence interval, 0.47–1.04))
+In a more RCT, the BCG vaccine was given to elderly and it [increased the time to first post-vaccine infection](https://doi.org/10.1016/j.cell.2020.08.051) post-vaccine from a median of 11
+weeks in the placcebo group to 16 weeks in the experiment group.
+This trial was also pre-registered ([here](https://clinicaltrials.gov/study/NCT03296423)) and the time to first post-vaccine infection was indeed the primary declared outcome.
 
-https://www.sciencedirect.com/science/article/abs/pii/S1382668919301875
+The above promising research has started to get some attention in the US. Mass General hospital in Boston
+is currently doing a trial to investigate whether the [BCG vaccine can cure type-1 diabetes](https://www.faustmanlab.org/wp-content/uploads/2022/02/Peds-Trial-Brochure.pdf).
 
-ethylmercury in hair: https://pubmed.ncbi.nlm.nih.gov/21575620/
-### aluminium
+The Bandim research group also found some unexpected harms of non-live vaccines, e.g. IPV, HepB, DTP.
+The virus in IPV (inactivated polio vaccine) and HepB vaccines have been killed and the immune system normally does not respond to those dead viruses unless an adjuvant, e.g. aluminium is added.
+Live virus vaccines do not need any adjuvant as the body already mounts a strong immune response to the live replicating but atteneuated virus in the vaccines.
+(Dead-virus vaccines seem to use a novel mechanism that is much more different from what our bodies evolved to deal with.)
+The Bandim research group found that the non-live vaccines have the exact opposite effect on non-target disease as the live vaccines. Although they protect against the target disease, they make the *more* vulnerable to death from other diseases.
 
-## studies/trials showing harm from non-live vaccines
+As far as I know, the most solid proof of this phenomena comes from [this paper](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(17)30046-4/fulltext).
+It is an accidental quasi-randomized trial enabled by the way the DTP vaccine was first rolled out in Guinea-Bissau in 1981. The "vaccine appointments" were made based on birthdays: children had appointments every 3 months after birth and they got the vaccine at the next appointment after DTP arrived.
+As a result some kids got the DTP vaccine at 3 months of age and some got it at 5 months of age. They found that getting DTP without OPV (live vaccine) was associated with 10x more deaths. The increase was lower in the subgroup that also got the OPV vaccine along with the DTP vaccine.
+The only possible confounder here is birthday within a 3 month interval. It is theoritically possible that somehow the healthier parents conceived their babies later during the 3 month period 9 months before the rollout period. But conception itself is quite random, and it seems extremely likely that the birthdays within the 3 month period were independent of any factor affecting mortality, thus making it essentially a randomized controlled trial.
+Another criticism could be that that this analysis was done retrospectively so there is a chance of P-hacking. The outcome they measure (death rate) is the most important outcome in any medical experiment and is very objective, so there were no complex choices to be made there anyway. Also, their exclusion criteria was extremely straightforward and basically only excluded children with unknown relevant information (vaccination dates).
+
+At first the 10x magnitude of increase in deaths may look extreme. But the same phenomena (increase in death rate) has been observed in many other low-income countries when DTP was rolled out.
+
+You can listen to a [video lecture](https://www.scientificfreedom.dk/wp-content/uploads/2021/11/Peter-Aaby-foredrag-mindre-fil.mp4?_=1) where the lead of Bandim group, Peter Aaby, describes his decades reasearch and the reaction from WHO.
+
+
+OPV vs IPV
+
+Rabies vaccine
+
+
+
+
+
+When the
+
+
+
+
+
 
 The most vocal vaccine scientists in the US, like Paul Offit and Peter Hotez, tend to cherry-pick studies that confirm their biases and completely ignore the ones that dont.
 Any honest scientist should at least ackowledge that there exists research that similar/better methodology as the research they cite, yet come to a different conclusion.
@@ -219,7 +245,7 @@ Even if MMR does not cause autism -- and I think it does not -- it doesn't mean 
 MMR is a live virus vaccine: the virus in it infects the human body and replicates just
 like any other virus would: it just has been modified/attenuated to not cause the disease that the actual Measles virus may cause in children.
 But it is similar enough to the actual measles virus that the antibodies that the body develops against the vaccine version are effective in combating the actual measles virus: very cool technology.
-Our bodies have evolved to fight such infections from live/replicating viruses. Decades of research has shown that the human immune system generalizes what it learns from the MMR vaccine and likely also prevent other diseases: these are now called non-specific benefits of vaccines.
+ Decades of research has shown that the human immune system generalizes what it learns from the MMR vaccine and likely also prevent other diseases: these are now called non-specific benefits of vaccines.
 
 Unfortunately, most of the vaccines in use today are not live vaccines.
 There is a concern that the virus in a live vaccine can mutate and regain its ability to cause disease: a phenomenon that actually happened with the polio vaccine, although not with MMR and other live vaccines.
@@ -228,29 +254,21 @@ Scientists figured out that by including some some toxin, e.g. aluminium, thimer
 All dead virus vaccines have such adjuvants.
 Unfortunately, the same group that showed that live vaccines likely have non-specific beneficial effects ALSO showed that dead virus vaccines likely have non-specific deleterious effects, which we will describe later below.
 
- For other vaccines, we don't even have the low quality evidence that
+For other vaccines, we don't even have the low quality evidence that
 we have for the MMR vaccine. We only have mechanistic/theoretic evidence and animal trials.
 Theories in medicine have a history of being very unreliable in predicting outcomes because we have a very limited understanding of how the human body works.
 Animal trials can give some confidence on end-to-end outcomes when done correctly (e.g. in a "good" model, not in an animal specifically designed (e.g. gene knockout) to prove a point: those should just be used to generate hypotheses).
 But in this case, they suffer from an easily avoidable problem: they are too underpowered (too small) to detect problems (H/T Chris Masterjohn), yet it is very surprising that experienced scientists like Paul Offit do not see the problem and use this evidence to claim that this is settled science. Below, we discuss the mechanistic/theoretic evidence and animal trials of end-to-end outcomes in more detail.
 ### atopic dermatitis: schedule vs delayed vaccination
 
-
-
-## Human RCTs
-### Flu vaccines
-### Flu vaccines during pregnancy
-### DTP natural experiment
-### HPV trials
-
-
+{% comment %}
 ## Downplaying treatments
 For very rare disease like tetanus, treatments make much more sense because very few people would need them, thus even if there are some harms, very few people would be affected. Even for non-rare diseases like measles, if there was an effective treatment with slightly more risks than a vaccine, it may be a good tradeoff because many people would not need the treatment: 30% of measles infections are asymptomatic and there appears to be long-term benefits from surviving a mild measles infection: lifelong immunity (unlike MMR) and associated with lower rate of cancer.
 ### Vitamin A for Measles
 Has better quality evidence showing effectiveness (although less effectiveness) than MMR
 ### Vitamin C for tetanus
 
-### Ending the cat and mouse game: prove safety rather than reacting to safety concerns
+## Ending the cat and mouse game: prove safety rather than reacting to safety concerns
 Paul Offits laments that the narrative from vaccine safety skeptics has kept on changing:
 first they were concerned about MMR, then thermisol, then Aluminium.
 When FDA approves a drug, the onus is NOT on the FDA to come up with a mechanism of harm: the onus
@@ -264,5 +282,6 @@ Perhaps vaccine scientists can learn from my my formal field of research: formal
 For a long time, there was a similar cat and mouse game between compiler developers and compiler users claiming that the compiler has bugs.
 
 
-### Trust/Transparency/Verifiability of trial/study results
+## Trust/Transparency/Verifiability of trial/study results
 role of crypto/blockchain/verifiable-voting techniques
+{% endcomment %}
