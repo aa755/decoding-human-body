@@ -10,15 +10,15 @@ Fortunately, now that many people have seen up close how fast the “settled-sci
 Although, I do agree with them that sometimes (not always) RFK Jr relies on weak evidence to make claims like vaccines cause harms,
 I show that those prominent vaccine scientists use similarly weak evidence to make claims of vaccine safety.
 Also, they cherry pick only the studies that validate their biases with weak evidence and completely ignore similarly weak or sometimes even the much stroger evidence that goes against their biases.
-Indeed, while they make the case of the safety of vaccines largely based on observational studies which are often inconsistent (they dont show the conflicting studies) and prone to confounders and P-hacking, and based on very inaquately powered (sized) animal experiments,
-I make the case of the harms of some dead-virus childhood/pregnancy vaccines based on Randomized Controlled Trials. In all other fields of science, they are the gold standard of evidence that can separate correlation from causation, but somehow prominent vaccine scientists ignore them even when such trials are available and instead cite much less unreliable evidence.
+Indeed, while they make the case of the safety of vaccines largely based on very inaquately powered (sized) animal experiments and human observational studies which are prone to confounders and P-hacking,
+I make the case of the harms of some non-live childhood/pregnancy vaccines based on Randomized Controlled Trials (RCTs). In all other fields of science, they are the gold standard of evidence that can separate correlation from causation due to randomization, but somehow prominent vaccine scientists ignore them even when such trials are available and instead cite much less unreliable evidence.
 
 
 First, I review the evidence Paul Offit and Peter Hotez presents to claim that safety of childhood vaccines is settled science.
-I focus most of this post on [this paper](https://pubmed.ncbi.nlm.nih.gov/26417097/) in which Paul Offit claims to settle the question.
-For each piece of evidence in each category I discuss their limitations, with concrete examples of how similarly weak evidence have misguided humanity in related fields like nutrition.
-Finally I present the data, including RCTs and pseudo-RCTs that in my opinion are the strongest evidence of harms of vaccines in general: all of these happen to be *dead-virus* vaccines.
-(There is better evidence of the safety and benefits of *live-virus* vaccines than what Paul cites.  But I also think they are safe and beneficial so I only very briefly discuss that evidence and focus on the parts we disagree: safety of dead-virus vaccines)
+I focus most of this post on [this paper](https://pubmed.ncbi.nlm.nih.gov/26417097/) in which Paul Offit claims to settle the question. It is Paul's latest published paper I could find on the topic.
+For each piece of evidence in each category I discuss their limitations, with concrete examples of how similarly weak evidence have misguided humanity in related fields like nutrition and cardiology.
+Finally I present the data, including RCTs and pseudo-RCTs that in my opinion are the strongest evidence of harms of vaccines in general: all of these happen to be *non-live* vaccines.
+(Based on evidence that goes way beyond what Paul cites, I also think that most *live-virus* vaccines are safe and beneficial so I focus only on the parts we disagree: safety of *non-live* vaccines.)
 
 {% comment %}
 For some live-virus vaccines there is stronger evidence of benefits than what Paul cites, and I do briefly discuss them
@@ -27,12 +27,52 @@ In many such cases, I show how Paul presented a very biased selection of papers,
 I also look at the papers Peter Hotez cited in his [book](https://books.google.com/books/about/Vaccines_Did_Not_Cause_Rachel_s_Autism.html?id=NkpyDwAAQBAJ) about safety of childhood vaccines, and some more recent papers that have been cited by scientists claiming safety of specific childhood vaccines.
 {% endcomment %}
 
-## observational studies
-There are several studies RETROSPECTIVELY comparing the rates of autism in those who got MMR and those who didn't. Most vaccine evangelists point to these papers first when making the claim that vaccines do not cause autism.
-For example, in the section titled "Childhood Vaccines Cause Autism: Got it Wrong", Dr. Vinay Prasad only provides [this paper](https://www.acpjournals.org/doi/10.7326/m18-2101) and a similar earlier paper from 2015 as evidence.
-This paper retrospectively looked at "657,461 children born in Denmark from 1999 through 31 December 2010, with follow-up from 1 year of age and through 31 August 2013." and compared the rates of autism among the vaccinated and the unvaccinated children. "Comparing MMR-vaccinated with MMR-unvaccinated children yielded a fully adjusted autism hazard ratio of 0.93 (95% CI, 0.85 to 1.02).". Roughly speaking, they found that an MMR vaccinated child is 0.93 times as likely as a "similar" unvaccinated child to get autism. The 95% confidence interval is mostly
-under 1 and barely crosses 1. The interval of confidence slightly lower than 95% may be totally below 1.
-While this is somewhat reassuring that the MMR vaccine does not cause autism, we need to understand the limitations of this study:
+## Observational Studies
+Most efforts in proving that vaccines do not cause harms has been focused on showing that the MMR vaccines dont cause autism.
+This is likely a result of the fact that the first claim about a link between vaccines and autism was made
+for the MMR vaccine, by Andrew Wakefield.
+Paul mainly cites large observational studies to make the claim that MMR does not cause autism.
+He finds [this study]([study](https://pubmed.ncbi.nlm.nih.gov/25898051/)) to be the most compelling. It is large retrospective observational study.
+Since then, other larger retrospective observational studies have come out, e.g. [this one](https://www.acpjournals.org/doi/10.7326/m18-2101), which many scientists have [cited]() recently to make the claim that vaccines do not cause autism.
+While retrospective observational studies are very unreliable evidence because of the likelihood of confounders and P-hacking, which I will explain below, other studies -- including some RCTs -- have shown that similar live-virus vaccines show [dramatic benefits](https://link.springer.com/article/10.1007/s40264-023-01295-3) in some very important outcomes like death rate in children in low-income countries.
+So I personally think MMR is overall beneficial and move on to the evidence he cites for the safety of non-live vaccines.
+
+After discussing MMR, Paul considers the issue of thimerosal in vaccines. For the safety of thimerosal-containing-vaccines,
+Paul cites his own previous [review paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2908388/) on vaccines.
+Also, more recently, at in his [substack post](https://pauloffit.substack.com/p/my-conversation-with-robert-f-kennedy) about the safety of thimerosal, he cites many 6 observational studies that he claims to show lack of association between thimerosal-containing-vaccines and autism.
+
+My goal here is to look at the best evidence he provides for safety of a dead virus vaccine.
+3 of the 6 papers ([this](https://www.ajpmonline.org/article/S0749-3797(03)00113-2/fulltext), [this](https://publications.aap.org/pediatrics/article-abstract/112/3/604/28678/Thimerosal-and-the-Occurrence-of-Autism-Negative?redirectedFrom=fulltext), and [this](https://jamanetwork.com/journals/jama/fullarticle/197365)) look at the change in incidence of autism when thimerosal was added/removed from vaccines.
+That research is of very limited value to me because I think most parents dont give a shit about whether the safety issues of vaccines come from thimerosal, or aluminium, or the preservatives, or whatever is there in the vaccines: what they want to see evidence of, is the safety of vaccines.
+The 3 other studies are observational studies comparing autism between those who got certain vaccines which contained thimerosal at the time and those who didn't get them at all (not even the thermisol-free version).
+Below, I look deeper into the largest of those 3 studies, which is [this](https://publications.aap.org/pediatrics/article-abstract/112/5/1039/28714/Safety-of-Thimerosal-Containing-Vaccines-A-Two?redirectedFrom=fulltext) one, which looked at the records of 3 US HMOs (named A, B, C) to compare the rate of neurodevelopment issues between those who were more exposed to thimerosal via 3 non-live vaccines: DTP (Diptheria, Tetanus, Pertussis), Hepatitis B, HiB and those who were less exposed (i.e. got fewer or no doses of those 3 non-live vaccines).
+Although they measured the exposure to thimerosal and not exposure to doses of non-live vaccines, which I am mainly interested it, because the thimerosal exposure calculation exclusively uses doses of these 3 non-live vaccines,
+their calculated thimerosal exposure is a surrogate for exposure to doses of non-live vaccines, so this study is interesting to me nevertheless.
+
+The results of the study wasn't what I was expecting, given that Paul cited this paper as evidence of safety of vaccines:
+
+> In phase I at HMO A, cumulative exposure at 3 months resulted in a significant positive association with tics (relative risk [RR]: 1.89; 95% confidence interval [CI]: 1.05–3.38). At HMO B, increased risks of language delay were found for cumulative exposure at 3 months (RR: 1.13; 95% CI: 1.01–1.27) and 7 months (RR: 1.07; 95% CI: 1.01–1.13). In phase II at HMO C, no significant associations were found. In no analyses were significant increased risks found for autism or attention-deficit disorder.
+
+I thought that perhaps Paul's reasoning is that because the results are inconsistent between different HMOs, it must not be causation.
+As I will discuss below with many concrete examples from the history of medical/nutrition science, even consistent negative association does not mean lack of causation.
+But digging deeper, what I found suggests more biases and double standards than faulty reasoning.
+The sizes of HMO A, B, and C after applying the exclusion criteria were as follows: 13,337, 110,833, 16,717.
+Usually, the larger the dataset, the more reliable the findings, even though for retrospective observational studies, the problem of confounders and P-hacking always a reliability problem.
+
+Even though here the paper authors conclude that the findings are inconsistent, in other cases, when a larger study shows the results they like, they completely run with it and do not conclude inconsistency. For example, flu vaccines during the first trimester of pregnancy has previously been [associated with autism](https://pubmed.ncbi.nlm.nih.gov/27261067/), but when in 2020 a larger study came along showing lack of association, Paul Offit [wrote](https://www.upi.com/Health_News/2020/09/01/Pregnant-womens-flu-vaccines-dont-raise-risk-of-autism-study-confirms/8951598965568/):
+
+> The flu vaccine is safe during pregnancy. This study, as well as many others, have consistently shown that flu vaccine is safe
+
+In summary, I think the HMO-based paper should not have been used to argue the safety of thimerosal or non-live vaccines. So I then looked at the [next largest study](https://publications.aap.org/pediatrics/article-abstract/114/3/584/67149/Thimerosal-Exposure-in-Infants-and-Developmental?redirectedFrom=fulltext?autologincheck=redirected) in his list. This was also a retrospective observational study, of 109,863 children in the UK.
+It compared various development outcomes between those who got more does of DT or DTP vaccines vs those who got less. Results:
+
+> Only in 1 analysis for tics was there some evidence of a higher risk with increasing doses (Cox's HR: 1.50 per dose at 4 months; 95% confidence interval [CI]: 1.02–2.20). Statistically significant negative associations with increasing doses at 4 months were found for general developmental disorders (HR: 0.87; 95% CI: 0.81–0.93), unspecified developmental delay (HR: 0.80; 95% CI: 0.69–0.92), and attention-deficit disorder (HR: 0.79; 95% CI: 0.64–0.98). For the other disorders, there was no evidence of an association with thimerosal exposure.
+
+
+So although the found more doses to be associated with tics, just like the previous study found in HMO A,
+both of those findings could be due to confounders. Interestingly, for attention-deficit disorder, they found a negative association!
+
+Although this may suggest that more doses of the DT/DTP vaccine at that time did not cause attention deficit disorder (ADD), we need to understand the limitations of the design of this study, a design that is very common in studies used to "prove" safety of vaccines :
 
 ### observational studies to prove/disprove causality: pitfalls
 
@@ -44,12 +84,11 @@ All other methods require making a lot of assumptions which are certainly worthy
 My concern is not theoretical: in the field of medical drugs and nutrition, there are many, many cases where some intervention (e.g. Vitamin E, Hormone Replacement Therapy) was found to be slightly helpful in large observational studies but turned out to be ineffective or even somewhat harmful in large RCTs, which can reliably judge causality. I will summarize those cases and sketch the parallels with the vaccine safety evidence.
 I will use the above observational study to illustrate the pitfalls
 of relying on observational studies (instead of RCTs) for proving safety, as Offit and Hotez do.
-TODO: consider replacing the MMR study by some study of a dead-virus vaccine since I suspect MMR the least to cause issues. Hep B would be ideal. Christine says she studied it and found NSE deleterious effects. But it should be a study that Paul Offit cites
 
 The negative correlation seen above may be because of one of the many possibilities (not an exhaustive list):
 1. MMR genuinely has nothing to do with autism
 2. MMR causes a small reduction in the chance of autism, close to the mean RR of 0.93
-2. MMR causes a large reduction in the chance of autism and some other confounding factor cancels out most of that benefit. A possible confounder could be that people who reject vaccines tend to be "naturalists" and thus also do some other beneficial stuff like reject tylenol ([associated with autism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9385573/?fc=20210113063650&ff=20220822073638&v=2.17.7), but may or may not be causal) or pesticide-laden food. At least some pesticides have been proven to be harmful after decades of use. Another possible confounder could be that children who got MMR also got dead-virus vaccines like DTaP/HepB, at least the latter is associated with autism in at least 1 [study](https://pubmed.ncbi.nlm.nih.gov/21058170/).
+2. MMR causes a large reduction in the chance of autism and some other confounding factor cancels out most of that benefit. A possible confounder could be that people who reject vaccines tend to be "naturalists" and thus also do some other beneficial stuff like reject tylenol ([associated with autism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9385573/?fc=20210113063650&ff=20220822073638&v=2.17.7), but may or may not be causal) or pesticide-laden food. At least some pesticides have been proven to be harmful after decades of use. Another possible confounder could be that children who got MMR also got non-live vaccines like DTaP/HepB, at least the latter is associated with autism in at least 1 [study](https://pubmed.ncbi.nlm.nih.gov/21058170/).
 3. MMR causes an increase in the chance of autism and some other confounding factors more than cancels out the slight increase. There can be many confounding factors, e.g. children who are vaccinated may have richer parents and their mothers may have had better access to care/adequate-nutrition during pregnancy. Nutrition, e.g. folate and B12 are known to play an important role in neurodevelopment in the first trimester.
 
 Without randomization, exactly which possibility we are in is hard to determine. To reduce the skew due to confounders, observational studies can "adjust" the analysis on various suspected confounding variables to ensure that those suspected confounding factors are roughly the same in the comparisons. While this can help, it can introduce its own problems, especially in retrospective observational studies, as we will discuss below.
@@ -165,11 +204,11 @@ https://www.sciencedirect.com/science/article/abs/pii/S1382668919301875
 ethylmercury in hair: https://pubmed.ncbi.nlm.nih.gov/21575620/
 ### aluminium
 
-## studies/trials showing harm from dead-virus vaccines
+## studies/trials showing harm from non-live vaccines
 
 The most vocal vaccine scientists in the US, like Paul Offit and Peter Hotez, tend to cherry-pick studies that confirm their biases and completely ignore the ones that dont.
 Any honest scientist should at least ackowledge that there exists research that similar/better methodology as the research they cite, yet come to a different conclusion.
-In this subsection, I will show some published unretracted observational studies and even some quasi-randomized trials showing that some dead-virus vaccines
+In this subsection, I will show some published unretracted observational studies and even some quasi-randomized trials showing that some non-live vaccines
 like DTP (unlike MMR, which is a live-virus vaccine) are associated with harm and live-virus vaccines (e.g. MMR, MV) are associated with benefits beyond prevention of the target disease.
 These have been replicated many times, in different countries.
 For example, in several countries, introduction of the DTP vaccine was followed by an increase in the death rate of children.
@@ -179,8 +218,8 @@ Both the negative effects associated with
 
 That research group since has inspired many other research groups around the world to replicate their findings, and indeed others groups have also replicated their findings, so much so that there are now conferences dedicated to studying non-specific effects of vaccines.
 
-Both sides of the debate only look at only their side of the opposite findings with dead-virus vs live-virus vaccines.
-RFK Jr routinely cites the studies showing that dead-virus vaccines like DTP are associated with non-specific adverse effects, while failing to ackowledge that the same research group found non-specific beneficial effects of live-virus vaccines like MMR. On the flipside, Paul Offit and Peter Hotez completely ignore the large body of research showing that dead-virus vaccines like DTP are associated with deleterious effects.
+Both sides of the debate only look at only their side of the opposite findings with non-live vs live-virus vaccines.
+RFK Jr routinely cites the studies showing that non-live vaccines like DTP are associated with non-specific adverse effects, while failing to ackowledge that the same research group found non-specific beneficial effects of live-virus vaccines like MMR. On the flipside, Paul Offit and Peter Hotez completely ignore the large body of research showing that non-live vaccines like DTP are associated with deleterious effects.
 
 
 Sometimes, they even misrepresent papers to make their claim: I will show one example.
