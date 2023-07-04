@@ -94,10 +94,30 @@ They [cite](https://stevekirsch.substack.com/p/key-paper-showing-no-link-between
 
 >The main reason for this discrepancy appeared to be administrative errors in the registration procedure involving the general practice and the region (n = 89, 36%). In 62 of these 89 cases, the GPs stated the correct unique code for performing the MMR1 vaccination, but the invoices were rejected because of errors in the reimbursement request. In the remaining 27 cases, the GPs stated an incorrect unique code or forgot to forward the invoice to the region. The rest of the 135 children with negative vaccination status according to the register-based data, but with positive status according to the medical records, had been vaccinated elsewhere: at another general practice (9%), abroad (8%) or at a hospital (2%).
 
-Although this does not necessarily invalidate the study completely, at the very least, the study's power to find the effect of MMR vaccination was much lower than its large numbers suggest. But even that is assuming that the chance of a MMR vaccinated child misclassified as unvaccinated is independent of the chance of developing autism. That assumption can be questioned.
+Although this does not necessarily invalidate the study completely, at the very least, the study's power to find the effect of MMR vaccination was much lower than its large numbers suggest: if you compare the MMR vaccinated to the MMR vaccinated you will likely find no difference.
+But even that is assuming that the chance of a MMR vaccinated child misclassified as unvaccinated is independent of the chance of developing autism. That assumption can be questioned.
 
 
 ### cherry-picking and double standards: studies associating vaccines with harms
+
+The most vocal vaccine scientists in the US, like Paul Offit and Peter Hotez, tend to cherry-pick studies that confirm their biases and completely ignore the ones that dont. Any honest scientist should at least ackowledge that there exists research that similar/better methodology as the research they cite, yet come to a different conclusion. In this subsection, I will show some published unretracted observational studies and even some quasi-randomized trials showing that some dead-virus vaccines like DTP (unlike MMR, which is a live-virus vaccine) are associated with harm
+and live-virus vaccines (e.g. MMR, MV) are associated with benefits beyond prevention of the target disease.
+There is infact a huge literature showing that although dead-virus vaccines are associated with protection against the target disease, they are associated with adverse effects unrelated to the target disease (called non-specific effects).
+For example, in several countries, introduction of the DTP vaccine was followed by an increase in the death rate of children.
+The same literature, often from [the same research group](https://www.bandim.org/about-bandim-health-project/staff/) has shown that live-virus vaccines are associated with unrelated (non-speficic) beneficial effects, like protection against non-target diseases.
+
+That research group since has inspired many other research groups around the world to replicate their findings, and indeed others groups have also replicated their findings, so much so that there are now conferences dedicated to studying non-specific effects of vaccines.
+
+Both sides of the debate only look at only their side of the opposite findings with dead-virus vs live-virus vaccines.
+RFK Jr routinely cites the studies showing that dead-virus vaccines like DTP are associated with non-specific adverse effects, while failing to ackowledge that the same research group found non-specific beneficial effects of live-virus vaccines like MMR. On the flipside, Paul Offit and Peter Hotez completely ignore the large body of research showing that dead-virus vaccines like DTP are associated with deleterious effects.
+
+
+Sometimes, they even misrepresent papers to make their claim: I will show one example.
+
+
+
+Most efforts in proving that vaccines do not cause autism has been focused on the MMR vaccines. This is likely a result of the fact that the first claim about a link between vaccines and autism was made
+for the MMR vaccine, by Andrew Wakefield.
 Even if MMR does not cause autism -- and I think it does not -- it doesn't mean that the battery of the total ~20 doses infants get together doesnt cause autism. It is not just about the 20x magnitude: most other vaccines in today's vaccine schedule work very differently.
 MMR is a live virus vaccine: the virus in it infects the human body and replicates just
 like any other virus would: it just has been modified/attenuated to not cause the disease that the actual Measles virus may cause in children.
@@ -111,9 +131,7 @@ Scientists figured out that by including some some toxin, e.g. aluminium, thimer
 All dead virus vaccines have such adjuvants.
 Unfortunately, the same group that showed that live vaccines likely have non-specific beneficial effects ALSO showed that dead virus vaccines likely have non-specific deleterious effects, which we will describe later below.
 
-Most efforts in proving that vaccines do not cause autism has been focused on the MMR vaccines. This is not a
-conspiracy but the result of the fact that the first claim about a link between vaccines and autism was made
-for the MMR vaccine, by Andrew Wakefield. For other vaccines, we don't even have the low quality evidence that
+ For other vaccines, we don't even have the low quality evidence that
 we have for the MMR vaccine. We only have mechanistic/theoretic evidence and animal trials.
 Theories in medicine have a history of being very unreliable in predicting outcomes because we have a very limited understanding of how the human body works.
 Animal trials can give some confidence on end-to-end outcomes when done correctly (e.g. in a "good" model, not in an animal specifically designed (e.g. gene knockout) to prove a point: those should just be used to generate hypotheses).
