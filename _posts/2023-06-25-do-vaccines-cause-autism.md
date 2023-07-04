@@ -82,17 +82,17 @@ The reason for both is the same: confounding variables can alter the impact of t
 The only way that obviously works is to do a Randomized Controlled Trial (RCT), where we toss a coin to determine whether someone gets the vaccine or a placebo. In a large trial, randomization can ensure that all confounders are about the same in both vaccine and placebo groups.
 All other methods require making a lot of assumptions which are certainly worthy of questioning.
 My concern is not theoretical: in the field of medical drugs and nutrition, there are many, many cases where some intervention (e.g. Vitamin E, Hormone Replacement Therapy) was found to be slightly helpful in large observational studies but turned out to be ineffective or even somewhat harmful in large RCTs, which can reliably judge causality. I will summarize those cases and sketch the parallels with the vaccine safety evidence.
-I will use the above observational study to illustrate the pitfalls
+I will use the above observational study (negative correlation between DT/DTP doses in UK and ADD) to illustrate the pitfalls
 of relying on observational studies (instead of RCTs) for proving safety, as Offit and Hotez do.
 
 The negative correlation seen above may be because of one of the many possibilities (not an exhaustive list):
-1. MMR genuinely has nothing to do with autism
-2. MMR causes a small reduction in the chance of autism, close to the mean RR of 0.93
-2. MMR causes a large reduction in the chance of autism and some other confounding factor cancels out most of that benefit. A possible confounder could be that people who reject vaccines tend to be "naturalists" and thus also do some other beneficial stuff like reject tylenol ([associated with autism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9385573/?fc=20210113063650&ff=20220822073638&v=2.17.7), but may or may not be causal) or pesticide-laden food. At least some pesticides have been proven to be harmful after decades of use. Another possible confounder could be that children who got MMR also got non-live vaccines like DTaP/HepB, at least the latter is associated with autism in at least 1 [study](https://pubmed.ncbi.nlm.nih.gov/21058170/).
-3. MMR causes an increase in the chance of autism and some other confounding factors more than cancels out the slight increase. There can be many confounding factors, e.g. children who are vaccinated may have richer parents and their mothers may have had better access to care/adequate-nutrition during pregnancy. Nutrition, e.g. folate and B12 are known to play an important role in neurodevelopment in the first trimester.
+1. DTP has nothing to do with ADD
+2. DTP causes a small reduction in the chance of ADD, close to the mean HR of 0.79
+2. DTP causes a large reduction in the chance of ADD and some other confounding factor cancels out most of that benefit. A possible confounder could be that people who reject vaccines tend to be "naturalists" and thus also do some other beneficial stuff like reject tylenol ([associated with autism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9385573/?fc=20210113063650&ff=20220822073638&v=2.17.7), but may or may not be causal) or pesticide-laden food. At least some pesticides have been proven to be harmful after decades of use.
+3. DTP causes an increase in the chance of ADD and some other confounding factors more than cancels out the slight increase. There can be many confounding factors, e.g. children who are vaccinated may have richer parents and their mothers may have had better access to care/adequate-nutrition during pregnancy. Nutrition, e.g. folate and B12 are known to play an important role in neurodevelopment in the first trimester.
 
 Without randomization, exactly which possibility we are in is hard to determine. To reduce the skew due to confounders, observational studies can "adjust" the analysis on various suspected confounding variables to ensure that those suspected confounding factors are roughly the same in the comparisons. While this can help, it can introduce its own problems, especially in retrospective observational studies, as we will discuss below.
-
+(There is a quasi-randomized trial for DTP and it shows safety concerns. we will discuss it below)
 ### How similar quality evidence led us astray: HRT
 
 The current evidence of the safety of the MMR vaccine looks similar to the evidence of the safety of
