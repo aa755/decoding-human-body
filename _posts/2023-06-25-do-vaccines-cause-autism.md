@@ -108,7 +108,7 @@ If confounders can cause something causing more heart disease to be associated w
 Had Cardiologists been as biased as Vaccinologists and declared "settled science" very prematurely at the consistent negative correlation of HRT with heart disease, many women would have lost their lives to heart disease and breast cancer.
 
 ### How similar quality evidence led us astray: beta-carotene for cancer
-For many decades beta-carotene supplementation was overall associated with a [lower risk of cancer in observational studies](https://www.sciencedirect.com/science/article/abs/pii/S0022316622170434?via%3Dihub), although there were some conflicting studies:
+For many decades beta-carotene food/supplementation was overall associated with a [lower risk of cancer in observational studies](https://www.sciencedirect.com/science/article/abs/pii/S0022316622170434?via%3Dihub), although there were some conflicting studies:
 
 ![missing image. please report to the author](/decoding-human-body/images/autism/betacarotene.png)
 
