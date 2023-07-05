@@ -21,6 +21,7 @@ I focus most of this post on [this paper](https://pubmed.ncbi.nlm.nih.gov/264170
 It is Paul's latest published paper I could find on the topic. For each piece of evidence, I discuss their limitations.
 Finally, I present the evidence, including RCTs and quasi-RCTs, that in my opinion, provide the strongest evidence of the harms of vaccines in general: all of these are *non-live* vaccines.
 
+{:toc}
 
 ## Observational Studies
 Most efforts in proving that vaccines do not cause harms has been focused on showing that the MMR vaccines dont cause autism.
@@ -109,8 +110,8 @@ Had Cardiologists been as biased as Vaccinologists and declared "settled-science
 
 ### How similar quality evidence led us astray: beta-carotene for cancer
 For many decades beta-carotene supplementation was consistently associated with [lower risk of cancer in observational studies](https://pubmed.ncbi.nlm.nih.gov/7495237/).
-But when the CARET study tested beta-carotene and vitamin A supplementation for cancer prevention in an RCT, it found to actually [increase](https://www.nejm.org/doi/full/10.1056/nejm199605023341802) the risk of many cancers.
-(One caveat is that it is possible that the addition of vitamin A screwed up the benefits of beta-carotene)
+But when the CARET study tested beta-carotene and and retinol supplementation for cancer prevention in an RCT, it found to actually [increase](https://www.nejm.org/doi/full/10.1056/nejm199605023341802) the risk of many cancers.
+(One caveat is that it is possible that the addition of retinol screwed up the benefits of beta-carotene)
 
 
 
@@ -218,7 +219,7 @@ But conception itself is quite random, and it seems extremely likely that the bi
 Another criticism could be that this analysis was done retrospectively so there is a chance of P-hacking. The outcome they measure (death rate) is the most important outcome in any medical experiment and is very objective, so there were no complex choices to be made there anyway. Also, their [exclusion criteria](https://www.thelancet.com/cms/attachment/c88f93f2-bd87-4f37-ae7a-b6fe9a378486/gr2.jpg) was extremely straightforward and basically only excluded children with unknown relevant information (e.g. vaccination dates). You can argue why they excluded orphans, but there were only 4 anyway. Compare the simplicity of this design to the complex exclusion criteria and subjective evaluation metrics (evaluated in an unblinded manner) of the studies that Paul cited.
 
 At first the 5x magnitude of increase in deaths may look extreme. But the same phenomena (increase in death rate) has been observed in many other low-income countries when DTP was rolled out, as summarized by figure 3 in
-[this](https://journals.lww.com/pidj/Fulltext/2016/11000/The_WHO_Review_of_the_Possible_Nonspecific_Effects.21.aspx) meta-analysis of observational studies (not RCTs).
+[this](https://journals.lww.com/pidj/Fulltext/2016/11000/The_WHO_Review_of_the_Possible_Nonspecific_Effects.21.aspx) meta-analysis of observational studies (not RCTs), which I have reproduced below:
 
 [![missing image. please report to the author](/decoding-human-body/images/autism/dtpmortalitymeta.jpeg)](https://images.journals.lww.com/pidj/Original.00006454-201611000-00021.F3-21.jpeg)
 
