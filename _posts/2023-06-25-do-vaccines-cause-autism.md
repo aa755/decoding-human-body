@@ -49,10 +49,11 @@ The results of the study wasn't what I was expecting, given that Paul cited this
 > In phase I at HMO A, cumulative exposure at 3 months resulted in a significant positive association with tics (relative risk [RR]: 1.89; 95% confidence interval [CI]: 1.05–3.38). At HMO B, increased risks of language delay were found for cumulative exposure at 3 months (RR: 1.13; 95% CI: 1.01–1.27) and 7 months (RR: 1.07; 95% CI: 1.01–1.13). In phase II at HMO C, no significant associations were found. In no analyses were significant increased risks found for autism or attention-deficit disorder.
 
 I thought that perhaps Paul's reasoning is that because the results are inconsistent between different HMOs, it must not be causation.
-As I will discuss below with many concrete examples from the history of medical/nutrition science, even consistent negative correlation often turned out to be causation.
+As I will discuss below with many concrete examples from the history of medical/nutrition science, inconsistent/often-negative correlations have often turned out to be causation.
 But digging deeper, what I found suggests more biases and double standards than faulty reasoning.
 The sizes of HMO A, B, and C after applying the exclusion criteria were as follows: 13,337, 110,833, and 16,717.
-Usually, the larger the dataset, the more reliable the findings, even though for retrospective observational studies, confounders and P-hacking are always a reliability problem.
+Usually, the larger the dataset, the more reliable the findings, even though for retrospective observational studies, confounders and P-hacking are almost always a reliability problem.
+Also, a smaller study may not be able to find a small effect: non-live vaccines may be one of several factors causing language delays. We can't really rule out the case where HMOs A and C didnt find the effect in HMO B because they were at least 5x smaller.
 
 Even though here the paper authors conclude that the findings are inconsistent, in other cases, when a larger study shows the results they like, they completely run with it and do not conclude inconsistency. For example, flu vaccines during the first trimester of pregnancy has previously been [associated with autism](https://pubmed.ncbi.nlm.nih.gov/27893896/), but when in 2020 a [larger study](https://www.acpjournals.org/doi/10.7326/M20-0167) came along showing lack of association, Paul [wrote](https://www.upi.com/Health_News/2020/09/01/Pregnant-womens-flu-vaccines-dont-raise-risk-of-autism-study-confirms/8951598965568/) what appears to at least be a double standard if not a blatant lie:
 
@@ -106,10 +107,12 @@ If confounders can cause something causing more heart disease to be associated w
 Had Cardiologists been as biased as Vaccinologists and declared "settled-science" very prematurely at the consistent negative correlation of HRT with heart disease, many women would have lost their lives to heart disease and breast cancer.
 
 ### How similar quality evidence led us astray: beta-carotene for cancer
-For many decades beta-carotene supplementation was consistently associated with [lower risk of cancer in observational studies](https://pubmed.ncbi.nlm.nih.gov/7495237/).
-But when the CARET study tested beta-carotene and and retinol supplementation for cancer prevention in an RCT, it found to actually [increase](https://www.nejm.org/doi/full/10.1056/nejm199605023341802) the risk of many cancers.
-(One caveat is that it is possible that the addition of retinol screwed up the benefits of beta-carotene)
+For many decades beta-carotene supplementation was overall associated with [lower risk of cancer in observational studies](https://www.sciencedirect.com/science/article/abs/pii/S0022316622170434?via%3Dihub), although there were some conflicting studies:
 
+![missing image. please report to the author](/decoding-human-body/images/autism/betacarotene.png)
+
+But when the CARET study tested beta-carotene and and retinol supplementation for cancer prevention in an RCT, it found them to actually [increase](https://www.nejm.org/doi/full/10.1056/nejm199605023341802) the risk of many cancers.
+(One caveat is that it is possible that the addition of retinol screwed up the benefits of beta-carotene)
 
 
 ### Retrospective observational studies: additional pitfalls
