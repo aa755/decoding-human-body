@@ -187,9 +187,9 @@ They found that live-virus vaccines train the immune system to fight even diseas
 
 There is solid proof of the above phenomena, not like the unreliable correlational evidence Paul cites.
 For example, in low-birthweight children (<2500g), the BCG vaccine was found in a [RCT](https://academic.oup.com/cid/article/65/7/1183/4079383) to *cause* a whopping 43%(!) reduction in infectious disease mortality rate (MRR, 0.57; 95% CI, .35–.93). Tuberculosis, which is the intended target of BCG, does not cause that many deaths in Denmark, so the BCG vaccine appears to be teaching the newborn's immune system to better fight even other infections.
-(There is a minor fully-disclosed concern of P-hacking here as the original trial protocol pre-declared
+There is a minor fully-disclosed concern of P-hacking here as the original trial protocol pre-declared
 [here](https://classic.clinicaltrials.gov/ct2/show/NCT00625482) *before* the trial listed overall death rate as the main outcome, although death rate due to some specific infections were listed as secondary outcomes.
-BCG did not reduce non-infectious deaths and thus when considering all-cause deaths (combining infectious and non-infectious deaths), the relative reduction was diluted to 30% with 95% confidence interval slightly crossing 1: (MRR, 0.70; 95% confidence interval, 0.47–1.04)).
+BCG did not reduce non-infectious deaths and thus when considering all-cause deaths (combining infectious and non-infectious deaths), the relative reduction becomes diluted to 30% with 95% confidence interval slightly crossing 1: (MRR, 0.70; 95% confidence interval, 0.47–1.04).
 
 
 In a more recent RCT, the BCG vaccine was given to elderly people and it [increased the time to first post-vaccine infection](https://doi.org/10.1016/j.cell.2020.08.051) from a median of 11
@@ -201,7 +201,8 @@ The above promising research has started to get some attention in the US. Mass G
 is currently doing a trial to investigate whether the [BCG vaccine can cure type-1 diabetes](https://www.faustmanlab.org/wp-content/uploads/2022/02/Peds-Trial-Brochure.pdf).
 
 The Bandim research group also found some unexpected harms, but only for non-live vaccines, e.g. IPV, HepB, DTP.
-The virus in IPV (inactivated polio vaccine) and HepB vaccines have been killed and the immune system normally does not respond to those dead viruses unless an adjuvant like aluminium is added.
+(The virus in IPV (inactivated polio vaccine) and HepB vaccines have been killed and the immune system normally does not respond significantly to those dead viruses unless an adjuvant like aluminium is added to kill a "small number of" human cells at the injection site, which makes the immune system mount a strong response.
+It may be a very clever idea but human bodies are so complex that clever ideas usually have unforeseen consequences.)
 Live virus vaccines do not need any adjuvant as the body already mounts a strong immune response to the live replicating but atteneuated virus in the vaccines.
 (Dead-virus vaccines seem to use a novel mechanism that is much more different from what our bodies evolved to deal with.)
 The Bandim research group found that the non-live vaccines have the exact opposite effect on non-target diseases as the live vaccines. Although they protect against the target disease, they make children *more* vulnerable to death from other diseases.
