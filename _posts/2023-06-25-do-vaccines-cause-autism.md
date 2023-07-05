@@ -1,5 +1,5 @@
 ---
-title: "Thin Yet Undebatable: Safety Evidence of Childhood Vaccines"
+title: "Thin Yet Undebatable: Safety Evidence of non-live vaccines"
 layout: post
 date: 2023-06-25
 categories: rant
@@ -7,18 +7,17 @@ draft: true
 ---
 Many prominent vaccine scientists, e.g. Paul Offit and Peter Hotez, think that the safety of ALL childhood vaccines has been proven so well that no debates should be done about it, and no better-designed trials are needed, [unlike some other medical scientists who specialize in reliability of medical evidence](https://vinayprasadmdmph.substack.com/p/the-only-real-solution-to-vaccine?publication_id=231792&post_id=131012417&isFreemail=false).
 Fortunately, now that many people have seen up close how fast the “settled-science” of effectiveness and safety of Covid vaccines [changed](https://twitter.com/0rf/status/1669030822215655436), more people are questioning the field of vaccine “science” which often behaves more like a religion than science.
-Although, I do agree with them that sometimes (not always) RFK Jr relies on weak evidence to make claims like vaccines cause harms,
-I show that those prominent vaccine scientists use similarly weak evidence to make claims of vaccine safety.
-Also, they cherry pick only the studies that validate their biases with weak evidence and completely ignore similarly weak or sometimes even the much stroger evidence that goes against their biases.
+I show that those prominent vaccine scientists use very weak evidence to make claims of vaccine safety, with concrete examples from nutrition and cardiology where similarly weak evidence led us astray.
+I also show that they cherry pick only the studies that validate their biases with weak evidence and completely ignore similarly weak or sometimes even the much stroger evidence that goes against their biases.
 Indeed, while they make the case of the safety of vaccines only based on very inaquately powered (sized) animal experiments and human observational studies which are prone to confounders and P-hacking,
 many of my claims of harms of some non-live vaccines are based on Randomized Controlled Trials (RCTs). In all other fields of science, they are the gold standard of evidence that can separate correlation from causation due to randomization, but somehow prominent vaccine scientists ignore them even when such trials are available and instead cite much less unreliable evidence.
 
 
 First, I review the evidence Paul Offit and Peter Hotez presents to claim that safety of childhood vaccines is settled science.
 I focus most of this post on [this paper](https://pubmed.ncbi.nlm.nih.gov/26417097/) in which Paul Offit claims to settle the question. It is Paul's latest published paper I could find on the topic.
-For each piece of evidence in each category I discuss their limitations, with concrete examples of how similarly weak evidence have misguided humanity in related fields like nutrition and cardiology.
+For each piece of evidence in each category I discuss their limitations.
 Finally I present the data, including RCTs and pseudo-RCTs that in my opinion are the strongest evidence of harms of vaccines in general: all of these happen to be *non-live* vaccines.
-(Based on evidence that goes way beyond what Paul cites, I also think that most *live-virus* vaccines are safe and beneficial so I focus only on the parts we disagree: safety of *non-live* vaccines.)
+(Based on evidence that goes way beyond what Paul cites, I also think that most *live-virus* vaccines are safe and beneficial so I focus only on the parts we disagree: safety of *non-live* vaccines DTP/DTaP/DT/HepB/HiB/IPV/flushot.)
 
 {% comment %}
 For some live-virus vaccines there is stronger evidence of benefits than what Paul cites, and I do briefly discuss them
@@ -194,26 +193,48 @@ Live virus vaccines do not need any adjuvant as the body already mounts a strong
 The Bandim research group found that the non-live vaccines have the exact opposite effect on non-target disease as the live vaccines. Although they protect against the target disease, they make the *more* vulnerable to death from other diseases.
 
 As far as I know, the most solid proof of this phenomena comes from [this paper](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(17)30046-4/fulltext).
-It is an accidental quasi-randomized trial enabled by the way the DTP vaccine was first rolled out in Guinea-Bissau in 1981. The "vaccine appointments" were made based on birthdays: children had appointments every 3 months after birth and they got the vaccine at the next appointment after DTP arrived.
-As a result some kids got the DTP vaccine at 3 months of age and some got it at 5 months of age. They found that getting DTP without OPV (live vaccine) was associated with 10x more deaths. The increase was lower in the subgroup that also got the OPV vaccine along with the DTP vaccine.
-The only possible confounder here is birthday within a 3 month interval. It is theoritically possible that somehow the healthier parents conceived their babies later during the 3 month period 9 months before the rollout period. But conception itself is quite random, and it seems extremely likely that the birthdays within the 3 month period were independent of any factor affecting mortality, thus making it essentially a randomized controlled trial.
-Another criticism could be that that this analysis was done retrospectively so there is a chance of P-hacking. The outcome they measure (death rate) is the most important outcome in any medical experiment and is very objective, so there were no complex choices to be made there anyway. Also, their exclusion criteria was extremely straightforward and basically only excluded children with unknown relevant information (vaccination dates).
+It is an accidental quasi-randomized trial enabled by the way the DTP vaccine was first rolled out in Guinea-Bissau in 1981. The "vaccine appointments" were made based on birthdays.
+As a result some kids got the DTP vaccine at 3 months of age and some got it at 5 months of age. They found that getting DTP was associated with 5x more deaths than the not-yet-DTP-vaccinated children (9.98x among girls, 3.93x among boys)
+The only possible confounder here is the birthday. It is theoretically possible that somehow the parents likely to have healthier babies conceived their babies
+later during the 2-3 month period exactly 9+3 months before the DTP rollout period.
+But conception itself is quite random, and it seems extremely likely that the birthdays within the small period were independent of any factor affecting mortality, thus making it essentially a randomized controlled trial, capable of judging causality, unlike the studies Paul cited.
+Another criticism could be that that this analysis was done retrospectively so there is a chance of P-hacking. The outcome they measure (death rate) is the most important outcome in any medical experiment and is very objective, so there were no complex choices to be made there anyway. Also, their [exclusion criteria](https://www.thelancet.com/cms/attachment/c88f93f2-bd87-4f37-ae7a-b6fe9a378486/gr2.jpg) was extremely straightforward and basically only excluded children with unknown relevant information (vaccination dates). You can argue why they excluded orphans, but there were only 4 anyway. Compare the simplicity of this design to the complex exclusion criteria and subjective evaluation metrics (evaluated in an unblinded manner) of the studies that Paul cited.
 
-At first the 10x magnitude of increase in deaths may look extreme. But the same phenomena (increase in death rate) has been observed in many other low-income countries when DTP was rolled out.
-
-You can listen to a [video lecture](https://www.scientificfreedom.dk/wp-content/uploads/2021/11/Peter-Aaby-foredrag-mindre-fil.mp4?_=1) where the lead of Bandim group, Peter Aaby, describes his decades reasearch and the reaction from WHO.
-
-
-OPV vs IPV
-
-Rabies vaccine
-
-
+At first the 5x magnitude of increase in deaths may look extreme. But the same phenomena (increase in death rate) has been observed in many other low-income countries when DTP was rolled out, as summarized by figure 3 in
+[this](https://journals.lww.com/pidj/Fulltext/2016/11000/The_WHO_Review_of_the_Possible_Nonspecific_Effects.21.aspx) meta-analysis of observational studies (not RCTs).
+[![missing image. please report to the author](/decoding-human-body/images/autism/dtpmoralitymeta.jpeg)](https://images.journals.lww.com/pidj/Original.00006454-201611000-00021.F3-21.jpeg)
+In all the countries, most of the increase in deaths happened in girls.
+You can listen to a 20 minute [video lecture](https://www.scientificfreedom.dk/wp-content/uploads/2021/11/Peter-Aaby-foredrag-mindre-fil.mp4?_=1) where the lead of Bandim group, Peter Aaby, describes his decades of reasearch and the reaction from WHO.
+One caveat is that all these studies were in low income countries and the medical infrastructure of high income countries may be able to prevent some of the deaths from infections diseases caused by DTP.
 
 
+The phenomena has been observed not just for DTP but even other non-live vaccines. For example when all the RCTs of non-live flu vaccines (IIV shots, not the flumist) in pregnant women are combined in a meta-analysis, they found 2x increased risk of non-influenza infections adverse events in mothers and 1.36x increase in infants:
 
-When the
+> The meta-analysis for maternal all-cause mortality provided a RR of 1.48 (95% CI = 0.52–4.16). The estimates for miscarriage/stillbirth and infant all-cause mortality up to 6 months of age were 1.06 (0.78–1.44) and 1.11 (0.87–1.41), respectively. IIV was associated with a higher risk of non-influenza infectious adverse events, with meta-estimates of 2.01 (1.15–3.50) in women and 1.36 (1.12–1.67) in infants up to 6 months of age. Thus, following a pattern seen for other non-live vaccines, IIV was associated with a higher risk of non-influenza infectious adverse events. To ensure that scarce resources are used well, and no harm is inflicted, further RCTs are warranted.
+The flu vaccine was supposed to protect the mother and the infant, but according to the most reliable evidence, the maternal and infant death rate trended in the *opposite* direction.
 
+The phenomena has been confirmed even in animals! An owner-blinded RCT of the rabies vaccine in dogs found that the rabies vaccine [increases](https://www.mdpi.com/2414-6366/5/1/45)
+the death rate of female dogs by 3.09x (95% CI 1.24–7.69).
+Thankfully, the human rabies vaccine is not given to all humans and only to high-risk individuals.
+
+One clean experiment where the only difference was the vaccine technology (live vs non-live) was this [prospective observational study](http://www.sciencedirect.com/science/article/pii/S0264410X11014216), where a 64/314 children were given the oral polio vaccine (live-virus vaccine) instead of IPV (inactivated/killed-virus vaccine) and the rates of ear infections was compared.
+"A significant difference was seen at the age of 6–18 months (IRR = 0.76 [95% CI 0.59–0.94], P = 0.011) and was particularly clear among children, who attended daycare (IRR 0.37 [95% CI 0.19–0.71], P = 0.003)."
+It is sad that they did not randomize and instead matched the 2 groups on age, gender, and HLA type.
+Unlike the other live-virus vaccines, very rarely, the virus in the oral polio vaccine seems mutate and regain the ability to cause disease so it is not clear whether OPV is overall better than IPV.
+
+
+Of the 3 vaccines above for which I showed evidence of harms, only 1 is still in use in the US (flu shot).
+DTP was replaced by DTaP in the US. (But it is still being used in many low-income countries.)
+The latter has only a part of the dead pertussis bacteria instead of the whole dead bacteria in DTP.
+Whether DTaP is just as bad as DTP remains to be seen.
+If/when DTaP replaces DTP in low-income countries, it could be done in a randomized and blinded manner to get high quality data comparing DTP vs DTaP, espcially of the rollout cannot happen all at once.
+In this large retrospective observational study of 883,160 children in Denmark, delaying DTaP doses by 1 or more
+was found to be associated with [reduced chances of atopic dermatitis](https://linkinghub.elsevier.com/retrieve/pii/S2213219820310023) in a dose-dependent manner, confirming an earlier smaller Australian study.
+This study is much larger than the studies Paul cites for the safety of non-live vaccines. But it suffers from the same criticisms I leveled at his studies: possibility of confounders and P-hacking.
+But when there is such evidence of harms, instead of the rat race of low reliablity studies which dominate American vaccine science/religion, we should do randomized trials to reliably assess whether there is a safety concern.
+
+## Conclusion
+In summary, although many live vaccines like MV, BCG are very beneficial and have likely saved millions of lives, the evidence of safety of non-live vaccines provided by vocal vaccine advocates like Paul Offit and Peter Hotez is very unreliable in ways that have already mislead in fields like nutrition and cardiology. There is much more reliable evidence (RCTs) of harms of some of vaccines.
 
 
 
