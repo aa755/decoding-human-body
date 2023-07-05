@@ -102,7 +102,11 @@ The negative correlation of HRT with cardiovascular outcomes in NHS was even str
 If confounders can cause something causing more heart disease to be associated with less heart disease, it can surely cause something more causing autism to be associated with slightly less autism.
 Had Cardiologists been as biased as Vaccinologists and declared "settled-science" very prematurely at the consistent negative correleation of HRT with heart disease, many women would have lost their lives to heart disease and breast cancer.
 
-### How similar quality evidence led us astray: Vitamin E for cancer
+### How similar quality evidence led us astray: beta-carotene for cancer
+For many decades beta-carotene supplementation was consistently associated with [lower risk of cancer in observational studies](https://pubmed.ncbi.nlm.nih.gov/7495237/).
+But when the CARET study tested beta-carotene and vitamin A supplementation for cancer prevention in an RCT, it found to actually [increase](https://www.nejm.org/doi/full/10.1056/nejm199605023341802) the risk of many cancers.
+(One caveat is that it is possible that the addition of vitamin A screwed up the benefits of beta-carotene)
+
 
 
 ### Retrospective observational studies: additional pitfalls
