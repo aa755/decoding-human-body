@@ -49,7 +49,7 @@ The results of the study weren't what I was expecting, given that Paul cited thi
 
 > In phase I at HMO A, cumulative exposure at 3 months resulted in a significant positive association with tics (relative risk [RR]: 1.89; 95% confidence interval [CI]: 1.05–3.38). At HMO B, increased risks of language delay were found for cumulative exposure at 3 months (RR: 1.13; 95% CI: 1.01–1.27) and 7 months (RR: 1.07; 95% CI: 1.01–1.13). In phase II at HMO C, no significant associations were found. In no analyses were significant increased risks found for autism or attention-deficit disorder.
 
-I thought that perhaps Paul's reasons that because the results are inconsistent between different HMOs, it must not be causation.
+I thought that perhaps Paul reasons that because the results are inconsistent between different HMOs, it must not be causation.
 As I will discuss below with many concrete examples from the history of medical/nutrition science, inconsistent/often-negative correlations have often turned out to be causation.
 But digging deeper, what I found suggests more biases and double standards than faulty reasoning.
 The sizes of HMO A, B, and C after applying the exclusion criteria were as follows: 13,337, 110,833, and 16,717.
