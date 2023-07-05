@@ -4,6 +4,7 @@ layout: post
 date: 2023-06-25
 categories: rant
 draft: true
+toc: true
 ---
 Many vocal US vaccine scientists, like Paul Offit, believe that the safety of ALL childhood vaccines has been proven beyond doubt.
 I demonstrate that Paul uses very unreliable evidence to make claims of vaccine safety. I show concrete examples from nutrition and cardiology where similarly weak evidence led us astray.
