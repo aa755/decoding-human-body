@@ -18,15 +18,6 @@ I focus most of this post on [this paper](https://pubmed.ncbi.nlm.nih.gov/264170
 For each piece of evidence in each category I discuss their limitations.
 Finally I present the evidence, including RCTs and pseudo-RCTs that in my opinion are the strongest evidence of harms of vaccines in general: all of these happen to be *non-live* vaccines.
 
-{% comment %}
-I briefly discuss much stronger evidence that many *live-virus* vaccines have saved millions of lives.
-I focus only on the parts we disagree: safety of *non-live* vaccines DTP/DTaP/DT/HepB/HiB/IPV/flushot.
-For some live-virus vaccines there is stronger evidence of benefits than what Paul cites, and I do briefly discuss them
-In many such cases, I show how Paul presented a very biased selection of papers, ignoring the many papers of similar (and sometimes even better) quality on the same subtopic that provide evidence of the opposite.
-
-I also look at the papers Peter Hotez cited in his [book](https://books.google.com/books/about/Vaccines_Did_Not_Cause_Rachel_s_Autism.html?id=NkpyDwAAQBAJ) about safety of childhood vaccines, and some more recent papers that have been cited by scientists claiming safety of specific childhood vaccines.
-{% endcomment %}
-
 ## Observational Studies
 Most efforts in proving that vaccines do not cause harms has been focused on showing that the MMR vaccines dont cause autism.
 This is likely a result of the fact that the first claim about a link between vaccines and autism was made
@@ -60,7 +51,7 @@ But digging deeper, what I found suggests more biases and double standards than 
 The sizes of HMO A, B, and C after applying the exclusion criteria were as follows: 13,337, 110,833,and  16,717.
 Usually, the larger the dataset, the more reliable the findings, even though for retrospective observational studies, confounders and P-hacking always a reliability problem.
 
-Even though here the paper authors conclude that the findings are inconsistent, in other cases, when a larger study shows the results they like, they completely run with it and do not conclude inconsistency. For example, flu vaccines during the first trimester of pregnancy has previously been [associated with autism](https://pubmed.ncbi.nlm.nih.gov/27893896/), but when in 2020 a larger study came along showing lack of association, Paul [wrote](https://www.upi.com/Health_News/2020/09/01/Pregnant-womens-flu-vaccines-dont-raise-risk-of-autism-study-confirms/8951598965568/) what appears to at least be a double standard if not a blatant lie:
+Even though here the paper authors conclude that the findings are inconsistent, in other cases, when a larger study shows the results they like, they completely run with it and do not conclude inconsistency. For example, flu vaccines during the first trimester of pregnancy has previously been [associated with autism](https://pubmed.ncbi.nlm.nih.gov/27893896/), but when in 2020 a [larger study](https://www.acpjournals.org/doi/10.7326/M20-0167) came along showing lack of association, Paul [wrote](https://www.upi.com/Health_News/2020/09/01/Pregnant-womens-flu-vaccines-dont-raise-risk-of-autism-study-confirms/8951598965568/) what appears to at least be a double standard if not a blatant lie:
 
 > The flu vaccine is safe during pregnancy. This study, as well as many others, have consistently shown that flu vaccine is safe.
 
