@@ -60,6 +60,8 @@ Even though here the paper authors conclude that the findings are inconsistent, 
 
 > The flu vaccine is safe during pregnancy. This study, as well as many others, have consistently shown that flu vaccine is safe.
 
+(In the next section, I will show that RCTs of flu vaccines tell a different story)
+
 In summary, I think Paul should not have used the Verstraeten study to argue the safety of thimerosal or non-live vaccines. I then looked at the [Andrews study](https://publications.aap.org/pediatrics/article-abstract/114/3/584/67149/Thimerosal-Exposure-in-Infants-and-Developmental?redirectedFrom=fulltext?autologincheck=redirected), which was the next largest in his list. This was also a retrospective observational study, of 109,863 children in the UK.
 It compared various development outcomes between those who got more doses of DT or DTP vaccines vs those who got fewer. Results:
 
@@ -140,14 +142,14 @@ Just for example, they do not give me a convincing rationale for excluding child
 > Children were also excluded when they received either hepatitis B or influenza vaccination in the first 6 months of life because such children are likely to be an atypical subgroup
 
 Again, my concerns here are not theoretical.
-A Cornell Professor in nutrition was found to actually [encourage](https://www.buzzfeednews.com/article/stephaniemlee/brian-wansink-cornell-p-hacking#.qs6A0K3DW) his students to indulge in P-hacking. He was eventually [fired](https://www.motherjones.com/food/2018/09/cornell-food-researcher-brian-wansink-13-papers-retracted-how-were-they-published/). But the CDC was luckier when it indulged in P-hacking to show that mask mandates were associated with fewer pediatric Covid-19 cases. The CDC likely had data about mask mandates and pediatric cases of Covid for most of the US but only published papers about snippets of the data that supported its policy of mask mandates. For example, when non-CDC public health researchers looked at a CDC paper supporting masking mandates for kids in schools, they found that [extending the analysis by just a few months flipped the conclusion](https://www.sciencedirect.com/science/article/pii/S0163445322005503#fig0002). CDC never updated its paper and continued to use it to promote masking in schools and censoring its critics *even after* the new data came out.
+A Cornell Professor in nutrition was found to actually [encourage](https://www.buzzfeednews.com/article/stephaniemlee/brian-wansink-cornell-p-hacking#.qs6A0K3DW) his students to indulge in P-hacking. He was eventually [fired](https://www.motherjones.com/food/2018/09/cornell-food-researcher-brian-wansink-13-papers-retracted-how-were-they-published/). But the CDC was luckier when it indulged in P-hacking to show that mask mandates were associated with fewer pediatric Covid-19 cases. They likely had data about mask mandates and pediatric cases of Covid for most of the US but only published papers about snippets of the data that supported its policy of mask mandates. For example, when non-CDC public health researchers looked at a CDC paper supporting masking mandates for kids in schools, they found that [extending the analysis by just a few months flipped the conclusion](https://www.sciencedirect.com/science/article/pii/S0163445322005503#fig0002). CDC never updated its paper and continued to use it to promote masking in schools and censoring its critics *even after* the new data came out.
 
 One way to mitigate p-hacking issues is to release the full raw data (after pseudonymization), so that others can find if there are reasonable analyses that come to the opposite conclusion. In the case of the CDC masking study, the open data is what enabled other researchers to spot the P-hacking.
 But unlike in fields like computer science, openness and reproducibility in medical science has a [dismal situation](https://maryannedemasi.substack.com/p/despite-progress-in-data-transparency).
 
 ## animal experiments
 
-Often, animal experiments are easier and/or more ethical to do than human experiments. For example, doing some measurements require killing the animal.
+Often, animal experiments are easier and/or more ethical to do than human experiments.
 The most interesting question to ask is whether vaccines, especially non-live vaccines cause any harm to animals.
 One could do a large randomized trial and give weight-adjusted doses of the entire vaccine schedule to the experiment group and a saline placebo to the control group. This will provide solid evidence of the safety of human vaccines in animals. But even that hasn't been done, unlike what Paul claims.
 Once it is done, the "only" trouble would be to generalize the animal results to humans.
@@ -176,16 +178,16 @@ Also, are these relevant to autism? Another study done in the same animal specie
 
 [![missing image. please report to the author](/decoding-human-body/images/autism/reflexes.png)](https://www.tandfonline.com/doi/abs/10.1080/15287394.2010.484709)
 
-Both of the two animal studies are too small. It is certainly possible that the delays found in the latter experiment was a fluke finding because of the small size. But larger animal trials should be done after experts of animal behaviour and growth, scientists on both sides of the vaccine debate, and scientists who specialize in the reliability of medical evidence come together to define good criteria and trial designs to measure autism or other harms in animals.
+Both of the two animal studies are too small. It is certainly possible that the delays found in the latter experiment was a fluke finding because of the small size. Larger animal trials should be done after experts of animal behaviour and growth, scientists on both sides of the vaccine debate, and scientists who specialize in the reliability of medical evidence should come together to define good criteria and trial designs to measure autism or other harms in animals.
 In the next section, I will describe a large dog RCT showing harms of the rabies vaccine in dogs.
 
 
 ## studies/RCTs showing harms of non-live vaccines
 
-Some of the most reliable evidence of harms comes from the [Bandim research group](https://www.bandim.org/about-bandim-health-project/staff/) which was responsible for the rollout and meticulous health recording of children in Africa for several decades, going all way the back to the first time the vaccination campaigns began. They made many extremely surprising observations about the effects of vaccines: they have a broader impact on the immune system, such that the impact affects even many other communicable and non-communicable diseases.
+Some of the most reliable evidence of harms comes from the [Bandim research group](https://www.bandim.org/about-bandim-health-project/staff/) which was responsible for the rollout and meticulous health recording of children in Africa for several decades, going all the way back to the first time the vaccination campaigns began there. They made many extremely surprising observations about the effects of vaccines: they have a broader impact on the immune system: the impact affects even many other communicable and non-communicable diseases.
 
 Many of these findings have been replicated by *other* groups around the world. Some of these findings have recently led to trials evaluating new ways to cure old diseases like type-1 diabetes.
-They found that live-virus vaccines train the immune system to fight even diseases unrelated to the target disease. To some extent, this is similar to how a machine learning system in computer science trained to detect cars can generalize from the training set to detect cars that are significantly different from the cars in the training set. It also makes evolutionary sense as the live-virus vaccine works just like a regular infection: the virus goes into the body and replicates like a regular infection, only except that the virus is a variant attenuated to not cause disease. For billions of years, our immune systems have learned to generalize from such "training data" to be able to better fight even other diseases that the body encounters in the future.
+They found that live-virus vaccines train the immune system to fight even diseases unrelated to the target disease. To some extent, this is similar to how a machine learning system in computer science trained to detect cars can generalize from the training set to detect cars that are significantly different from the cars in the training set. It also makes evolutionary sense as a live-virus vaccine works just like a regular infection: the virus goes into the body and replicates like a regular infection, only except that the virus is a variant attenuated to not cause disease. For billions of years, our immune systems have learned to generalize from such "training data" to be able to better fight even other diseases that the body encounters in the future.
 
 There is solid proof of the above phenomena, not like the unreliable correlational evidence Paul cites.
 For example, in low-birthweight children (<2500g), the BCG vaccine was found in an [RCT](https://academic.oup.com/cid/article/65/7/1183/4079383) to *cause* a whopping 43%(!) reduction in infectious disease mortality rate (MRR, 0.57; 95% CI, .35–.93). Tuberculosis, which is the intended target of BCG, does not cause that many deaths in Denmark, so the BCG vaccine appears to be teaching the newborn's immune system to better fight even other infections.
@@ -203,14 +205,13 @@ The above promising research has started to get some attention in the US. Mass G
 is currently doing a trial to investigate whether the [BCG vaccine can cure type-1 diabetes](https://www.faustmanlab.org/wp-content/uploads/2022/02/Peds-Trial-Brochure.pdf).
 
 The Bandim research group also found some unexpected harms, but only for non-live vaccines, e.g. IPV, HepB, and DTP.
-(The virus in IPV (inactivated polio vaccine) and HepB vaccines have been killed and the immune system normally does not respond significantly to those dead viruses unless an adjuvant like aluminium is added to kill a "small number of" human cells at the injection site, which makes the immune system mount a strong response.
-It may be a very clever idea but human bodies are so complex that clever ideas usually have unforeseen consequences.)
+(The virus in IPV (inactivated polio vaccine) and HepB vaccines have been killed and the immune system normally does not respond significantly to those dead viruses unless an adjuvant like aluminium is added to kill a "small number" of human cells at the injection site, which makes the immune system mount a strong response.
+It may be a very clever idea but human bodies are so complex that even clever ideas usually have unforeseen consequences.)
 Live virus vaccines do not need any adjuvant as the body already mounts a strong immune response to the live replicating but attenuated virus in the vaccines.
-(Dead-virus vaccines seem to use a novel mechanism that is much more different from what our bodies evolved to deal with.)
 The Bandim research group found that the non-live vaccines have the exact opposite effect on non-target diseases as the live vaccines. Although they protect against the target disease, they make children *more* vulnerable to death from other diseases.
 
 As far as I know, the most solid proof of this phenomenon comes from [this paper](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(17)30046-4/fulltext).
-It is an accidental quasi-randomized trial enabled by the way the DTP vaccine was first rolled out in Guinea-Bissau in 1981. The "vaccine appointments" were made based on birthdays.
+It is an accidental quasi-randomized trial enabled by the way the DTP vaccine was first rolled out in Guinea-Bissau in 1981. The vaccine appointments were made based on birthdays.
 As a result, some kids got the DTP vaccine at 3 months of age and some got it at 5 months of age (and some in between), leaving a small window to do a comparison. They found that getting DTP was associated with 5x more deaths than the not-yet-DTP-vaccinated children (9.98x among girls, 3.93x among boys).
 
 The only possible confounder here is the birthday of a child. It is theoretically possible that somehow the parents likely to have healthier babies conceived their babies
@@ -219,7 +220,7 @@ But conception itself is quite random, and it seems extremely likely that the bi
 
 Another criticism could be that this analysis was done retrospectively so there is a chance of P-hacking. The outcome they measure (death rate) is the most important in any medical experiment and is very objective, so there were no complex choices to be made there anyway. Also, their [exclusion criteria](https://www.thelancet.com/cms/attachment/c88f93f2-bd87-4f37-ae7a-b6fe9a378486/gr2.jpg) was extremely straightforward and basically only excluded children with unknown relevant information (e.g. vaccination dates). You can argue why they excluded orphans, but there were only 4 anyway. Compare the simplicity of this design to the complex exclusion criteria and subjective evaluation metrics (evaluated in an unblinded manner) of the studies that Paul cited.
 
-At first, the 5x magnitude of increase in deaths may look extreme. But the same phenomena (increase in death rate) has been observed in many other low-income countries when DTP was rolled out, as summarized by figure 3 in
+At first, the 5x magnitude of increase in deaths may look extreme. But the same phenomena (increase in death rate, especially in girls) has been observed in many other low-income countries when DTP was rolled out, as summarized by figure 3 in
 [this](https://journals.lww.com/pidj/Fulltext/2016/11000/The_WHO_Review_of_the_Possible_Nonspecific_Effects.21.aspx) meta-analysis of observational studies (not RCTs), which I have reproduced below:
 
 [![missing image. please report to the author](/decoding-human-body/images/autism/dtpmortalitymeta.jpeg)](https://images.journals.lww.com/pidj/Original.00006454-201611000-00021.F3-21.jpeg)
@@ -248,14 +249,15 @@ DTP was replaced by DTaP in the US. (But it is still being used in many low-inco
 The latter has only parts of the dead pertussis bacteria cells instead of the whole dead bacteria cells in DTP.
 Whether DTaP is just as bad as DTP remains to be seen.
 If/when DTaP replaces DTP in low-income countries, it could be done in a randomized and blinded manner to get high-quality evidence comparing DTP vs DTaP, especially if the rollout cannot happen all at once.
+
 In this large retrospective observational study of 883,160 children in Denmark, delaying DTaP doses by 1 or more
 months was found to be associated with [reduced chances of atopic dermatitis](https://linkinghub.elsevier.com/retrieve/pii/S2213219820310023) in a dose-dependent manner, confirming an earlier smaller Australian study.
 This study is much larger than the studies Paul cites for the safety of non-live vaccines. But my criticisms of his studies apply to this one as well: possibility of confounders and P-hacking.
 
-When there is such weak evidence of harm, e.g. for DTaP, instead of the rat race of low-reliability studies which dominate American vaccine science/religion, we should do randomized trials to reliably assess whether there is a safety concern. A randomized trial to measure the atopic dermatitis reduction by delaying DTaP by a few months should be easy to design.
+When there is such weak evidence of harm, e.g. for DTaP, instead of the rat race of low-reliability studies which dominate American vaccine science/religion, we should do randomized trials to reliably assess whether there is a safety concern. A large randomized trial to measure the atopic dermatitis reduction by delaying DTaP by a few months should be easy to design.
 
 ## Conclusion
 In summary, although many live vaccines like MV, and BCG are very beneficial and have likely overall saved millions of lives, the evidence of safety of non-live vaccines provided by vocal vaccine advocates like Paul Offit is very unreliable in ways that have already misled in fields like nutrition and cardiology. There is much more reliable evidence (RCTs) of harms of some non-live vaccines.
 Inspired by the Aaby DTP quasi-RCT, when new vaccines are introduced, the rollout should be randomized at a population level, so that we can detect even the "rare" short-term adverse events (post-mrna-2nd-dose myocarditis happened usually within a week), if not the long-term ones.
 For many existing non-live vaccines, we urgently need long-term randomized trials to obtain reliable evidence of safety.
-Meanwhile, like the rabies vaccine, some non-live vaccines like HepB may be more narrowly targeted to the population actually at significant risk, e.g. children of parents who have not tested negative for HepB.
+Meanwhile, like the rabies vaccine, some non-live vaccines like HepB may be delayed or more narrowly targeted to the population actually at significant risk, e.g. children of parents who have not tested negative for HepB.
