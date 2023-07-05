@@ -10,15 +10,16 @@ This view is unlike that of some other medical scientists who specialize in the 
 
 I demonstrate that Paul uses very weak evidence to make claims of vaccine safety, with concrete examples from nutrition and cardiology where similarly weak evidence led us astray.
 I also show that he cherry-picks only the studies that validate his biases with weak evidence and completely ignores similarly weak or sometimes even much stronger evidence that goes against his biases.
+Sometimes, he even misrepresents the studies he cherry-picks.
 He makes the case for the safety of vaccines based only on inadequately powered (sized) animal experiments and human observational studies which, although often large, are prone to confounders and P-hacking.
 
 In contrast, I present the harms of some non-live vaccines using evidence from Randomized Controlled Trials (RCTs).
 In all other fields of science, they are considered the gold standard of evidence that can separate correlation from causation due to randomization, but somehow Paul ignores them even when they are available and instead cites much less reliable evidence.
 
-First, I review the evidence Paul Offit presents to claim that the safety of childhood vaccines is settled science. I focus most of this post on [this paper](https://pubmed.ncbi.nlm.nih.gov/26417097/) in which he claims to settle the question.
+*Outline*: First, I review the evidence Paul Offit presents to claim that the safety of childhood vaccines is settled science.
+I focus most of this post on [this paper](https://pubmed.ncbi.nlm.nih.gov/26417097/) in which he claims to settle the question.
 It is Paul's latest published paper I could find on the topic. For each piece of evidence, I discuss their limitations.
 Finally, I present the evidence, including RCTs and pseudo-RCTs, that in my opinion, provide the strongest evidence of the harms of vaccines in general: all of these are *non-live* vaccines.
-
 
 
 ## Observational Studies
