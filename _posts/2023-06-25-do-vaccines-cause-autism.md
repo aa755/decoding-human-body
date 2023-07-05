@@ -5,10 +5,8 @@ date: 2023-06-25
 categories: rant
 draft: true
 ---
-Many vocal US vaccine scientists, like Paul Offit, believe that the safety of ALL childhood vaccines has been proven so well that no debates should be held about it, and no better-designed trials are needed.
-This view is unlike that of some other medical scientists who specialize in the [reliability of medical evidence](https://vinayprasadmdmph.substack.com/p/the-only-real-solution-to-vaccine?publication_id=231792&post_id=131012417&isFreemail=false).
-
-I demonstrate that Paul uses very unreliable evidence to make claims of vaccine safety, with concrete examples from nutrition and cardiology where similarly weak evidence led us astray.
+Many vocal US vaccine scientists, like Paul Offit, believe that the safety of ALL childhood vaccines has been proven beyond doubt.
+I demonstrate that Paul uses very unreliable evidence to make claims of vaccine safety. I show concrete examples from nutrition and cardiology where similarly weak evidence led us astray.
 I also show that he cherry-picks only the studies that validate his biases with weak evidence and completely ignores similarly weak or sometimes even much stronger evidence that goes against his biases.
 Sometimes, he even misrepresents the studies he cherry-picks.
 He makes the case for the safety of vaccines based only on very inadequately powered (sized) animal experiments and human observational studies which, although often large, are prone to confounders and P-hacking.
@@ -17,8 +15,7 @@ In contrast, I present the harms of some non-live vaccines using evidence from R
 In all other fields of science, they are considered the gold standard of evidence that can separate correlation from causation due to randomization, but somehow Paul ignores them even when they are available and instead cites much less reliable evidence.
 
 *Outline*: First, I review the evidence Paul Offit presents to claim that the safety of childhood vaccines is settled science.
-I focus most of this post on [this paper](https://pubmed.ncbi.nlm.nih.gov/26417097/) in which he claims to settle the question.
-It is Paul's latest published paper I could find on the topic. For each piece of evidence, I discuss their limitations.
+Although I mainly focus on [this paper](https://pubmed.ncbi.nlm.nih.gov/26417097/) in which he claims to settle the question, I also discuss some of his more recent writings.
 Finally, I present the evidence, including RCTs and quasi-RCTs, that in my opinion, provide the strongest evidence of the harms of vaccines in general: all of these are *non-live* vaccines.
 
 {:toc}
@@ -255,4 +252,6 @@ When there is such weak evidence of harms, e.g. for DTaP, instead of the rat rac
 
 ## Conclusion
 In summary, although many live vaccines like MV, BCG are very beneficial and have likely overall saved millions of lives, the evidence of safety of non-live vaccines provided by vocal vaccine advocates like Paul Offit is very unreliable in ways that have already mislead in fields like nutrition and cardiology. There is much more reliable evidence (RCTs) of harms of some non-live vaccines.
-For many non-live vaccines, we urgently need randomized trials to obtain reliable evidence of safety. Meanwhile, like the rabies vaccine, some non-live vaccines like HepB may be more narrowly targeted to the population actually at significant risk.
+Inspired by the Aaby DTP quasi-RCT, when new vaccines are introduced, the rollout should be randomized at a population level, so that we can detect even the "rare" short-term adverse events (post-mrna-2nd-dose myocarditis happened usually within a week), if not the long-term ones.
+For many existing non-live vaccines, we urgently need long-term randomized trials to obtain reliable evidence of safety.
+Meanwhile, like the rabies vaccine, some non-live vaccines like HepB may be more narrowly targeted to the population actually at significant risk, e.g. children of parents who have not tested negative for HepB.
