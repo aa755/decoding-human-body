@@ -182,33 +182,39 @@ In the next section, I will describe a large dog RCT showing harms of the rabies
 
 Some of the most reliable evidence of harms comes from the [Bandim research group](https://www.bandim.org/about-bandim-health-project/staff/) which was responsible for rollout and meticulous health recording of children in Africa for several decades, going all way the back to the first time the vaccination campaigns began. They made many extremely surprising observations about the effects of vaccines: they have a broader impact on the immune system, such that the impact affects even many other communicable and non-communicable diseases.
 
-Many of these findings have been replicated by *other* groups around the world. Some of these findings have recently led to trials evalating new ways to cure old diseases like type-1 diabetes.
+Many of these findings have been replicated by *other* groups around the world. Some of these findings have recently led to trials evalatuing new ways to cure old diseases like type-1 diabetes.
 They found that live-virus vaccines train the immune system to fight even diseases unrelated to the target disease. To some extent, this is similar to how a machine learning system in computer science trained to detect cars can generalize from the training set to detect cars that are significantly different from the cars in the training set. It also makes evolutionary sense as the live-virus vaccine works just like a regular infection: the virus goes in the body and replicates like a regular infection, only except that the virus is a variant attenuated to not cause disease. For billions of years, our immune systems have learned to generalize from such "training data" to be able to better fight even other diseases that the body encounters in the future.
 
 There is solid proof of the above phenomena, not like the unreliable correlational evidence Paul cites.
-For example, in low-birthweight children (<2500g), the BCG vaccine was found in a [RCT](https://academic.oup.com/cid/article/65/7/1183/4079383) to *cause* a whopping 43%(!) reduction in infectious disease mortality rate (MRR, 0.57; 95% CI, .35–.93). Tuberculosis does not cause that many deaths in Denmark, so the BCG vaccine appears to be teaching the newborn's immune system to better fight even other infections.
+For example, in low-birthweight children (<2500g), the BCG vaccine was found in a [RCT](https://academic.oup.com/cid/article/65/7/1183/4079383) to *cause* a whopping 43%(!) reduction in infectious disease mortality rate (MRR, 0.57; 95% CI, .35–.93). Tuberculosis, which is the intended target of BCG, does not cause that many deaths in Denmark, so the BCG vaccine appears to be teaching the newborn's immune system to better fight even other infections.
 (There is a minor fully-disclosed concern of P-hacking here as the original trial protocol pre-declared
-[here](https://classic.clinicaltrials.gov/ct2/show/NCT00625482) *before* the trial listed overall death rate as the main outcome. BCG did not reduce non-infectious deaths as much and thus when considering all-cause deaths (combining infectious and non-infectious deaths), the reduction was diluted to: 30% with 95% confidence interval slightly crossing 1: (MRR, 0.70; 95% confidence interval, 0.47–1.04))
-In a more recent RCT, the BCG vaccine was given to elderly and it [increased the time to first post-vaccine infection](https://doi.org/10.1016/j.cell.2020.08.051) post-vaccine from a median of 11
+[here](https://classic.clinicaltrials.gov/ct2/show/NCT00625482) *before* the trial listed overall death rate as the main outcome, although death rate due to some specific infections were listed as secondary outcomes.
+BCG did not reduce non-infectious deaths and thus when considering all-cause deaths (combining infectious and non-infectious deaths), the relative reduction was diluted to 30% with 95% confidence interval slightly crossing 1: (MRR, 0.70; 95% confidence interval, 0.47–1.04)).
+
+
+In a more recent RCT, the BCG vaccine was given to elderly people and it [increased the time to first post-vaccine infection](https://doi.org/10.1016/j.cell.2020.08.051) from a median of 11
 weeks in the placebo group to 16 weeks in the experiment group.
 This trial was also pre-registered ([here](https://clinicaltrials.gov/study/NCT03296423)) and the time to first post-vaccine infection was indeed the primary declared outcome.
+Unplanned analysis showed: "most of the protection was against respiratory tract infections of probable viral origin (hazard ratio 0.21, p = 0.013)". In contrast, tuberculosis, the intended target of BCG, is a bacteria.
 
 The above promising research has started to get some attention in the US. Mass General hospital in Boston
 is currently doing a trial to investigate whether the [BCG vaccine can cure type-1 diabetes](https://www.faustmanlab.org/wp-content/uploads/2022/02/Peds-Trial-Brochure.pdf).
 
-The Bandim research group also found some unexpected harms of non-live vaccines, e.g. IPV, HepB, DTP.
-The virus in IPV (inactivated polio vaccine) and HepB vaccines have been killed and the immune system normally does not respond to those dead viruses unless an adjuvant, e.g. aluminium is added.
+The Bandim research group also found some unexpected harms, but only for non-live vaccines, e.g. IPV, HepB, DTP.
+The virus in IPV (inactivated polio vaccine) and HepB vaccines have been killed and the immune system normally does not respond to those dead viruses unless an adjuvant like aluminium is added.
 Live virus vaccines do not need any adjuvant as the body already mounts a strong immune response to the live replicating but atteneuated virus in the vaccines.
 (Dead-virus vaccines seem to use a novel mechanism that is much more different from what our bodies evolved to deal with.)
-The Bandim research group found that the non-live vaccines have the exact opposite effect on non-target disease as the live vaccines. Although they protect against the target disease, they make the *more* vulnerable to death from other diseases.
+The Bandim research group found that the non-live vaccines have the exact opposite effect on non-target diseases as the live vaccines. Although they protect against the target disease, they make children *more* vulnerable to death from other diseases.
 
 As far as I know, the most solid proof of this phenomena comes from [this paper](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(17)30046-4/fulltext).
 It is an accidental quasi-randomized trial enabled by the way the DTP vaccine was first rolled out in Guinea-Bissau in 1981. The "vaccine appointments" were made based on birthdays.
-As a result some kids got the DTP vaccine at 3 months of age and some got it at 5 months of age. They found that getting DTP was associated with 5x more deaths than the not-yet-DTP-vaccinated children (9.98x among girls, 3.93x among boys)
-The only possible confounder here is the birthday. It is theoretically possible that somehow the parents likely to have healthier babies conceived their babies
+As a result some kids got the DTP vaccine at 3 months of age and some got it at 5 months of age (and some in between), leaving a small window to do a comparison. They found that getting DTP was associated with 5x more deaths than the not-yet-DTP-vaccinated children (9.98x among girls, 3.93x among boys).
+
+The only possible confounder here is the birthday of a child. It is theoretically possible that somehow the parents likely to have healthier babies conceived their babies
 later during the 2-3 month period exactly 9+3 months before the DTP rollout period.
 But conception itself is quite random, and it seems extremely likely that the birthdays within the small period were independent of any factor affecting mortality, thus making it essentially a randomized controlled trial, capable of judging causality, unlike the studies Paul cited.
-Another criticism could be that that this analysis was done retrospectively so there is a chance of P-hacking. The outcome they measure (death rate) is the most important outcome in any medical experiment and is very objective, so there were no complex choices to be made there anyway. Also, their [exclusion criteria](https://www.thelancet.com/cms/attachment/c88f93f2-bd87-4f37-ae7a-b6fe9a378486/gr2.jpg) was extremely straightforward and basically only excluded children with unknown relevant information (vaccination dates). You can argue why they excluded orphans, but there were only 4 anyway. Compare the simplicity of this design to the complex exclusion criteria and subjective evaluation metrics (evaluated in an unblinded manner) of the studies that Paul cited.
+
+Another criticism could be that this analysis was done retrospectively so there is a chance of P-hacking. The outcome they measure (death rate) is the most important outcome in any medical experiment and is very objective, so there were no complex choices to be made there anyway. Also, their [exclusion criteria](https://www.thelancet.com/cms/attachment/c88f93f2-bd87-4f37-ae7a-b6fe9a378486/gr2.jpg) was extremely straightforward and basically only excluded children with unknown relevant information (e.g. vaccination dates). You can argue why they excluded orphans, but there were only 4 anyway. Compare the simplicity of this design to the complex exclusion criteria and subjective evaluation metrics (evaluated in an unblinded manner) of the studies that Paul cited.
 
 At first the 5x magnitude of increase in deaths may look extreme. But the same phenomena (increase in death rate) has been observed in many other low-income countries when DTP was rolled out, as summarized by figure 3 in
 [this](https://journals.lww.com/pidj/Fulltext/2016/11000/The_WHO_Review_of_the_Possible_Nonspecific_Effects.21.aspx) meta-analysis of observational studies (not RCTs).
@@ -217,12 +223,12 @@ At first the 5x magnitude of increase in deaths may look extreme. But the same p
 
 In all the countries, most of the increase in deaths happened in girls.
 You can listen to a 25-minute [video lecture](https://www.scientificfreedom.dk/wp-content/uploads/2021/11/Peter-Aaby-foredrag-mindre-fil.mp4?_=1) where the lead of Bandim group, Peter Aaby, describes his decades of reasearch and the negligent reaction from WHO.
-One caveat is that all these studies were in low income countries and the medical infrastructure of high income countries may be able to prevent some of the deaths from infections diseases caused by DTP.
+One caveat is that all these studies were in low income countries and some aspect of high income countries (e.g. better medical/urgent care/infrastructure, better sanitation, better nutrition.....) may be able to prevent some/most of the deaths from the increased susceptibility to infections caused by DTP.
 
-
-The phenomena has been observed not just for DTP but even other non-live vaccines. For example when all the RCTs of non-live flu vaccines (IIV shots, not the flumist) in pregnant women are combined in a meta-analysis, they found 2x increased risk of non-influenza infections adverse events in mothers and 1.36x increase in infants:
+The phenomena has been observed not just for DTP but even other non-live vaccines. For example when all the RCTs of non-live flu vaccines (IIV shots, not the flumist) in pregnant women are combined in a meta-analysis, they found 2x increased risk of non-influenza infectious adverse events in mothers and 1.36x increase in infants:
 
 > The meta-analysis for maternal all-cause mortality provided a RR of 1.48 (95% CI = 0.52–4.16). The estimates for miscarriage/stillbirth and infant all-cause mortality up to 6 months of age were 1.06 (0.78–1.44) and 1.11 (0.87–1.41), respectively. IIV was associated with a higher risk of non-influenza infectious adverse events, with meta-estimates of 2.01 (1.15–3.50) in women and 1.36 (1.12–1.67) in infants up to 6 months of age. Thus, following a pattern seen for other non-live vaccines, IIV was associated with a higher risk of non-influenza infectious adverse events. To ensure that scarce resources are used well, and no harm is inflicted, further RCTs are warranted.
+
 The flu vaccine was supposed to protect the mother and the infant, but according to the most reliable evidence, the maternal and infant death rate trended in the *opposite* direction.
 
 The phenomena has been confirmed even in animals! An owner-blinded RCT of the (non-live) rabies vaccine in dogs found that the rabies vaccine [increases](https://www.mdpi.com/2414-6366/5/1/45)
@@ -232,19 +238,19 @@ Thankfully, the human rabies vaccine is not given to all humans and only to high
 One clean experiment where the only difference was the vaccine technology (live vs non-live) was this [prospective observational study](http://www.sciencedirect.com/science/article/pii/S0264410X11014216), where a 64/314 children were given the oral polio vaccine (live-virus vaccine) instead of IPV (inactivated/killed-virus vaccine) and the rates of ear infections was compared.
 "A significant difference was seen at the age of 6–18 months (IRR = 0.76 [95% CI 0.59–0.94], P = 0.011) and was particularly clear among children, who attended daycare (IRR 0.37 [95% CI 0.19–0.71], P = 0.003)."
 It is sad that they did not randomize and instead matched the 2 groups on age, gender, and HLA type.
-Unlike the other live-virus vaccines, very rarely, the virus in the oral polio vaccine seems mutate and regain the ability to cause disease so it is not clear whether OPV is overall better than IPV.
+Unlike the other live-virus vaccines, very rarely, the virus in the oral polio vaccine seems to mutate and regain the ability to cause disease so it is not clear whether OPV is overall better than IPV.
 
-
-Of the 3 vaccines above for which I showed evidence of harms, only 1 is still in use in the US (flu shot).
+Of the 3 (non-live) vaccines above for which I showed evidence of harms, only 1 is still in use in the US (flu shot).
 DTP was replaced by DTaP in the US. (But it is still being used in many low-income countries.)
 The latter has only parts of the dead pertussis bacteria cells instead of the whole dead bacteria cells in DTP.
 Whether DTaP is just as bad as DTP remains to be seen.
-If/when DTaP replaces DTP in low-income countries, it could be done in a randomized and blinded manner to get high quality data comparing DTP vs DTaP, espcially of the rollout cannot happen all at once.
+If/when DTaP replaces DTP in low-income countries, it could be done in a randomized and blinded manner to get high quality data comparing DTP vs DTaP, especially if the rollout cannot happen all at once.
 In this large retrospective observational study of 883,160 children in Denmark, delaying DTaP doses by 1 or more
-was found to be associated with [reduced chances of atopic dermatitis](https://linkinghub.elsevier.com/retrieve/pii/S2213219820310023) in a dose-dependent manner, confirming an earlier smaller Australian study.
+months was found to be associated with [reduced chances of atopic dermatitis](https://linkinghub.elsevier.com/retrieve/pii/S2213219820310023) in a dose-dependent manner, confirming an earlier smaller Australian study.
 This study is much larger than the studies Paul cites for the safety of non-live vaccines. But my criticism of his studies apply to this one as well: possibility of confounders and P-hacking.
-But when there is such weak evidence of harms, instead of the rat race of low reliablity studies which dominate American vaccine science/religion, we should do randomized trials to reliably assess whether there is a safety concern. An randomized trial to measure the atopic dermatitis reduction by delaying DTaP by a few months should be easy to design.
+
+When there is such weak evidence of harms, e.g. for DTaP, instead of the rat race of low reliablity studies which dominate American vaccine science/religion, we should do randomized trials to reliably assess whether there is a safety concern. A randomized trial to measure the atopic dermatitis reduction by delaying DTaP by a few months should be easy to design.
 
 ## Conclusion
-In summary, although many live vaccines like MV, BCG are very beneficial and have likely saved millions of lives, the evidence of safety of non-live vaccines provided by vocal vaccine advocates like Paul Offit is very unreliable in ways that have already mislead in fields like nutrition and cardiology. There is much more reliable evidence (RCTs) of harms of some non-live vaccines.
-For many non-live vaccines, we urgently need randomized trials to obtain reliable evidence of safety. Some non-live vaccines like HepB may be better targeted to the at-risk population.
+In summary, although many live vaccines like MV, BCG are very beneficial and have likely overall saved millions of lives, the evidence of safety of non-live vaccines provided by vocal vaccine advocates like Paul Offit is very unreliable in ways that have already mislead in fields like nutrition and cardiology. There is much more reliable evidence (RCTs) of harms of some non-live vaccines.
+For many non-live vaccines, we urgently need randomized trials to obtain reliable evidence of safety. Meanwhile, like the rabies vaccine, some non-live vaccines like HepB may be more narrowly targeted to the population actually at significant risk.
