@@ -1,7 +1,7 @@
 ---
 title: "Thin Yet Undebatable: Safety Evidence of non-live vaccines"
 layout: post
-date: 2023-06-25
+date: 2023-07-05
 categories: rant
 draft: true
 toc: true
